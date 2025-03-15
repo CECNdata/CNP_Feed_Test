@@ -1,0 +1,57 @@
+name: 'Test_release_day'
+
+on:
+  workflow_dispatch:
+
+env:
+  repo_name: CECNdata/GA-sec
+  retry: 3
+
+jobs:
+  release_day:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+       include:
+         - csv: CNP-Customs-total-import-RMB.csv
+           line: 1
+         - csv: CNP-Customs-World-total-export-USD.csv
+           line: 0
+           
+    steps:
+      - name: Checkout codes
+        uses: actions/checkout@v3
+        with:
+          repository: '${{ env.repo_name  }}'
+          token: ${{ secrets.GH_PAT }} # `GH_PAT` is a secret that contains you PAT
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.9
+
+      - name: Install dependencies
+        run: |
+          cd customs
+          python -m pip install --upgrade pip
+          pip install fire
+          pip install pipreqs
+          pipreqs .
+          pip install -r requirements.txt
+
+      - name: Install Playwright
+        run: |
+            npx playwright install-deps firefox
+            python -m playwright install firefox
+            npx playwright install-deps firefox
+            python -m playwright install firefox
+
+      - name: check ip
+        run: |
+            curl ifconfig.me
+      - name: run customs download
+        continue-on-error: true
+        run: |
+            cd feed/CNP-Customs-Test
+            timeout 1800 python test_release_day.py  --path mapping/${{matrix.csv}} --line "${{matrix.line}}" --retry ${{env.retry}} 2>&1 
