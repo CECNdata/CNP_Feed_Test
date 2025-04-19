@@ -1,0 +1,79 @@
+name: 'CNP-Optional'
+
+on:
+  workflow_dispatch:
+    inputs:
+      start_date:
+        description: 'start_date'
+        required: false
+        default: "202101"
+      end_date:
+        description: 'end_date'
+        required: false
+        default: "202201"
+    
+env:
+  start_date: ${{ github.event.inputs.start_date }}
+  end_date: ${{ github.event.inputs.end_date }}
+  repo_name: CECNdata/GA-sec
+  csv: CNP-Backfill.csv
+  retry: 6
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+       include:
+         - line: 0
+         - line: 1
+         - line: 2
+         - line: 3
+         - line: 4
+         - line: 5
+         - line: 6
+         - line: 7
+         - line: 8
+         - line: 9
+         - line: 10
+         - line: 11
+         - line: 12
+         - line: 13
+         - line: 14
+         - line: 15          
+           
+    steps:
+      - name: Checkout codes
+        uses: actions/checkout@v3
+        with:
+          repository: '${{ env.repo_name  }}'
+          token: ${{ secrets.GH_PAT }} # `GH_PAT` is a secret that contains you PAT
+          ref: main
+
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.9
+
+      - name: Install dependencies
+        run: |
+          cd customs
+          python -m pip install --upgrade pip
+          pip install fire
+          pip install pipreqs
+          pipreqs .
+          pip install -r requirements.txt
+
+      - name: Install Playwright
+        run: |
+            npx playwright install-deps webkit
+            python -m playwright install webkit
+            npx playwright install-deps firefox
+            python -m playwright install firefox
+            
+      - name: run customs download
+        continue-on-error: true
+        run: |
+            cd feed/CNP-Customs-Test
+            timeout 1800 xvfb-run python run_optional.py  --path mapping/${{env.csv}} --line "${{matrix.line}}" --retry ${{env.retry}}
