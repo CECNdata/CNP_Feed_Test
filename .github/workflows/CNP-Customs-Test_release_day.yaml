@@ -5,51 +5,35 @@ on:
   schedule:
     - cron: '0 */4 20-25 * *'
 
+
 env:
   repo_name: CECNdata/GA-sec
-  retry: 3
+  csv: CNP-Backfill.csv
+  retry: 6
+  cncc_url: http://stats.customs.gov.cn/queryData/queryDataList
 
 jobs:
-  release_day:
+  download:
     runs-on: ubuntu-latest
     strategy:
       matrix:
        include:
-         - csv: CNP-Customs-total-import-RMB.csv
-           line: 0
-         - csv: CNP-Customs-total-import-USD.csv
-           line: 0
-         - csv: CNP-Customs-total-export-RMB.csv
-           line: 0
-         - csv: CNP-Customs-total-export-USD.csv
-           line: 0
-           
-         - csv: CNP-Customs-total-import-RMB.csv
-           line: 1
-         - csv: CNP-Customs-total-import-USD.csv
-           line: 1
-         - csv: CNP-Customs-total-export-RMB.csv
-           line: 1
-         - csv: CNP-Customs-total-export-USD.csv
-           line: 1
-           
-         - csv: CNP-Customs-total-import-RMB.csv
-           line: 2
-         - csv: CNP-Customs-total-import-USD.csv
-           line: 2
-         - csv: CNP-Customs-total-export-RMB.csv
-           line: 2
-         - csv: CNP-Customs-total-export-USD.csv
-           line: 2
-           
-         - csv: CNP-Customs-World-total-import-RMB.csv
-           line: 0
-         - csv: CNP-Customs-World-total-import-USD.csv
-           line: 0
-         - csv: CNP-Customs-World-total-export-RMB.csv
-           line: 0
-         - csv: CNP-Customs-World-total-export-USD.csv
-           line: 0
+         - line: 0
+         - line: 1
+         - line: 2
+         - line: 3
+         - line: 4
+         - line: 5
+         - line: 6
+         - line: 7
+         - line: 8
+         - line: 9
+         - line: 10
+         - line: 11
+         - line: 12
+         - line: 13
+         - line: 14
+         - line: 15          
            
     steps:
       - name: Checkout codes
@@ -58,6 +42,12 @@ jobs:
           repository: '${{ env.repo_name  }}'
           token: ${{ secrets.GH_PAT }} # `GH_PAT` is a secret that contains you PAT
           ref: main
+
+      - name: Set Environment Variables
+        run: |
+          echo "start_date=$(date +%Y)01" >> $GITHUB_ENV
+          echo "end_date=$(date +%Y)01" >> $GITHUB_ENV
+          
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -79,13 +69,9 @@ jobs:
             python -m playwright install webkit
             npx playwright install-deps firefox
             python -m playwright install firefox
-
-      - name: check ip
-        run: |
-            curl ifconfig.me
+            
       - name: run customs download
         continue-on-error: true
         run: |
-            cd feed/CNP-Customs-Test
-            #timeout 1800 python firefox-dl/run_release_day.py  --path mapping/${{matrix.csv}} --line "${{matrix.line}}" --retry ${{env.retry}} 2>&1 
-            timeout 1800 xvfb-run python firefox-dl/run_release_day.py  --path mapping/${{matrix.csv}} --line "${{matrix.line}}" --retry 1
+            cd feed
+            timeout 1800 xvfb-run python download_pyscript/run_release_day.py  --path CNP-Customs-Test/mapping/${{env.csv}} --line "${{matrix.line}}" --retry ${{env.retry}}
