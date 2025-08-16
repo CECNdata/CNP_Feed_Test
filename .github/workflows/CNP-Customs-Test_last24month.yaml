@@ -1,0 +1,90 @@
+name: 'CNP-Customs-Test_last24month'
+
+on:
+  workflow_dispatch:
+  #schedule:
+  #  - cron: '0 20 19-23 * *'
+
+env:
+  repo_name: CECNdata/GA-sec
+  retry: 6
+
+jobs:
+  last24month:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+       include:
+         - csv: CNP-Customs-total-import-RMB.csv
+           line: 0-2
+           part: 1
+         - csv: CNP-Customs-total-import-USD.csv
+           line: 0-2
+           part: 1
+         - csv: CNP-Customs-total-export-RMB.csv
+           line: 0-2
+           part: 1
+         - csv: CNP-Customs-total-export-USD.csv
+           line: 0-2
+           part: 1
+         - csv: CNP-Customs-total-import-RMB.csv
+           line: 0-2
+           part: 2
+         - csv: CNP-Customs-total-import-USD.csv
+           line: 0-2
+           part: 2
+         - csv: CNP-Customs-total-export-RMB.csv
+           line: 0-2
+           part: 2
+         - csv: CNP-Customs-total-export-USD.csv
+           line: 0-2
+           part: 2
+         - csv: CNP-Customs-total-import-RMB.csv
+           line: 0-2
+           part: 3
+         - csv: CNP-Customs-total-import-USD.csv
+           line: 0-2
+           part: 3
+         - csv: CNP-Customs-total-export-RMB.csv
+           line: 0-2
+           part: 3
+         - csv: CNP-Customs-total-export-USD.csv
+           line: 0-2
+           part: 3
+           
+           
+    steps:
+      - name: Checkout codes
+        uses: actions/checkout@v3
+        with:
+          repository: '${{ env.repo_name  }}'
+          token: ${{ secrets.GH_PAT }} # `GH_PAT` is a secret that contains you PAT
+          ref: main
+
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.9
+
+      - name: Install dependencies
+        run: |
+          cd customs
+          python -m pip install --upgrade pip
+          pip install fire
+          pip install pipreqs
+          pipreqs .
+          pip install -r requirements.txt
+
+      - name: Install Playwright
+        run: |
+            npx playwright install-deps webkit
+            python -m playwright install webkit
+            npx playwright install-deps firefox
+            python -m playwright install firefox
+            
+      - name: run customs download
+        continue-on-error: true
+        run: |
+            cd feed/CNP-Customs-Test
+            timeout 1800 xvfb-run python firefox-dl/run_24m.py  --path mapping/${{matrix.csv}} --line "${{matrix.line}}" --retry ${{env.retry}} --part ${{matrix.part}}
