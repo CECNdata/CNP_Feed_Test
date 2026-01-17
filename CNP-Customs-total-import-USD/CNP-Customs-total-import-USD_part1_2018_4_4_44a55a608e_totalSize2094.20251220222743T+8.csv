@@ -1,0 +1,2095 @@
+Commodity code,Commodity,Trading partner code,Trading partner,US dollar
+1,,124,Mongolia,37700.0
+1,,129,Philippines,24727.0
+1,,138,United Arab Emirates,11234.0
+1,,244,South Africa,60180.0
+1,,301,Belgium,385914.0
+1,,305,France,175373.0
+1,,306,Ireland,3000.0
+1,,309,Netherlands,267461.0
+1,,315,Austria,436.0
+1,,318,Finland,1227.0
+1,,410,Brazil,5276.0
+1,,429,Mexico,13069.0
+1,,444,Uruguay,40120.0
+1,,501,Canada,354.0
+2,,124,Mongolia,989950.0
+2,,244,South Africa,1412076.0
+2,,301,Belgium,2490191.0
+2,,305,France,19195892.0
+2,,306,Ireland,7115965.0
+2,,307,Italy,148836.0
+2,,309,Netherlands,26355865.0
+2,,312,Spain,56159876.0
+2,,318,Finland,1068400.0
+2,,321,Hungary,2414327.0
+2,,410,Brazil,213922381.0
+2,,415,Costa Rica,1946840.0
+2,,429,Mexico,856091.0
+2,,444,Uruguay,67896353.0
+2,,501,Canada,45076782.0
+3,,123,Maldives,20050.0
+3,,127,Pakistan,6630530.0
+3,,129,Philippines,4808971.0
+3,,137,Türkiye,666.0
+3,,220,Ghana,191470.0
+3,,224,Kenya,203530.0
+3,,227,Madagascar,1705772.0
+3,,233,Mozambique,2378585.0
+3,,244,South Africa,5241996.0
+3,,305,France,5310741.0
+3,,306,Ireland,6229800.0
+3,,309,Netherlands,2985277.0
+3,,312,Spain,2775922.0
+3,,326,Norway,57765448.0
+3,,327,Poland,104086.0
+3,,357,Faroe Islands,13328344.0
+3,,410,Brazil,599151.0
+3,,429,Mexico,2455216.0
+3,,444,Uruguay,334172.0
+3,,501,Canada,53857152.0
+3,,503,Greenland,18913094.0
+4,,301,Belgium,2847092.0
+4,,305,France,26423711.0
+4,,306,Ireland,4241493.0
+4,,307,Italy,3888881.0
+4,,309,Netherlands,11818817.0
+4,,310,Greece,29879.0
+4,,312,Spain,2643172.0
+4,,315,Austria,2786862.0
+4,,316,Bulgaria,14792.0
+4,,318,Finland,3473364.0
+4,,321,Hungary,1727.0
+4,,327,Poland,5180120.0
+4,,336,Lithuania,92350.0
+4,,340,Belarus,461666.0
+4,,350,Slovenia,25474.0
+4,,410,Brazil,563825.0
+4,,444,Uruguay,3768313.0
+4,,501,Canada,140635.0
+5,,124,Mongolia,136871.0
+5,,127,Pakistan,479203.0
+5,,129,Philippines,96385.0
+5,,224,Kenya,22332.0
+5,,244,South Africa,131768.0
+5,,301,Belgium,52015.0
+5,,305,France,1060512.0
+5,,306,Ireland,386643.0
+5,,307,Italy,147487.0
+5,,309,Netherlands,5163440.0
+5,,310,Greece,6036.0
+5,,312,Spain,5343315.0
+5,,315,Austria,157010.0
+5,,321,Hungary,839872.0
+5,,326,Norway,146205.0
+5,,327,Poland,1809138.0
+5,,410,Brazil,39239.0
+5,,429,Mexico,20594.0
+5,,501,Canada,3434047.0
+6,,129,Philippines,40.0
+6,,224,Kenya,281963.0
+6,,244,South Africa,204259.0
+6,,250,Uganda,94667.0
+6,,254,Zimbabwe,6218.0
+6,,301,Belgium,108627.0
+6,,305,France,410123.0
+6,,307,Italy,282400.0
+6,,309,Netherlands,4514457.0
+6,,312,Spain,513111.0
+6,,316,Bulgaria,444.0
+6,,327,Poland,20849.0
+6,,410,Brazil,38747.0
+6,,415,Costa Rica,137461.0
+6,,444,Uruguay,339279.0
+6,,501,Canada,382.0
+7,,127,Pakistan,277200.0
+7,,137,Türkiye,15418.0
+7,,301,Belgium,41175.0
+7,,305,France,163.0
+7,,307,Italy,31622.0
+7,,309,Netherlands,36231.0
+7,,312,Spain,18487.0
+7,,327,Poland,42657.0
+7,,429,Mexico,165098.0
+7,,501,Canada,34608119.0
+8,,108,Cyprus,62454.0
+8,,124,Mongolia,2614631.0
+8,,129,Philippines,62933110.0
+8,,137,Türkiye,378937.0
+8,,138,United Arab Emirates,82817.0
+8,,224,Kenya,64411.0
+8,,244,South Africa,8831782.0
+8,,254,Zimbabwe,55842.0
+8,,301,Belgium,567652.0
+8,,305,France,588464.0
+8,,307,Italy,444159.0
+8,,309,Netherlands,303433.0
+8,,310,Greece,371144.0
+8,,312,Spain,14726212.0
+8,,316,Bulgaria,27956.0
+8,,321,Hungary,179362.0
+8,,327,Poland,102942.0
+8,,340,Belarus,289.0
+8,,415,Costa Rica,360445.0
+8,,429,Mexico,8023787.0
+8,,501,Canada,779483.0
+9,,127,Pakistan,16569.0
+9,,137,Türkiye,97952.0
+9,,138,United Arab Emirates,54060.0
+9,,219,Gambia,28689.0
+9,,224,Kenya,342392.0
+9,,227,Madagascar,342451.0
+9,,233,Mozambique,231301.0
+9,,244,South Africa,20362.0
+9,,250,Uganda,180786.0
+9,,301,Belgium,70560.0
+9,,305,France,132389.0
+9,,307,Italy,1600330.0
+9,,309,Netherlands,28120.0
+9,,312,Spain,48591.0
+9,,326,Norway,1929.0
+9,,327,Poland,222193.0
+9,,410,Brazil,1756987.0
+9,,427,Jamaica,44706.0
+9,,431,Nicaragua,604764.0
+9,,501,Canada,28931.0
+10,,127,Pakistan,19689702.0
+10,,305,France,29363390.0
+10,,315,Austria,168.0
+10,,501,Canada,115087750.0
+11,,109,Democratic People's Republic of Korea,17180.0
+11,,137,Türkiye,2225.0
+11,,244,South Africa,38500.0
+11,,301,Belgium,1406471.0
+11,,305,France,193622.0
+11,,307,Italy,18294.0
+11,,309,Netherlands,1160356.0
+11,,318,Finland,75623.0
+11,,327,Poland,79750.0
+11,,340,Belarus,15960.0
+11,,410,Brazil,787.0
+11,,429,Mexico,169809.0
+11,,501,Canada,324494.0
+12,,124,Mongolia,235122.0
+12,,127,Pakistan,76552.0
+12,,129,Philippines,757488.0
+12,,137,Türkiye,1981.0
+12,,219,Gambia,501802.0
+12,,220,Ghana,1334373.0
+12,,224,Kenya,15226.0
+12,,227,Madagascar,8754.0
+12,,233,Mozambique,401823.0
+12,,235,Niger,20961827.0
+12,,244,South Africa,529102.0
+12,,250,Uganda,3288332.0
+12,,305,France,380317.0
+12,,307,Italy,548402.0
+12,,309,Netherlands,444388.0
+12,,312,Spain,1746185.0
+12,,327,Poland,250.0
+12,,336,Lithuania,67682.0
+12,,350,Slovenia,116841.0
+12,,410,Brazil,1899318250.0
+12,,415,Costa Rica,236708.0
+12,,429,Mexico,322320.0
+12,,501,Canada,148124796.0
+13,,127,Pakistan,765576.0
+13,,129,Philippines,182596.0
+13,,137,Türkiye,258415.0
+13,,138,United Arab Emirates,1260000.0
+13,,224,Kenya,410825.0
+13,,227,Madagascar,75539.0
+13,,235,Niger,60020.0
+13,,244,South Africa,15170.0
+13,,301,Belgium,19331.0
+13,,305,France,2550941.0
+13,,306,Ireland,4267.0
+13,,307,Italy,1531204.0
+13,,309,Netherlands,18248.0
+13,,312,Spain,433359.0
+13,,315,Austria,8345.0
+13,,318,Finland,7435.0
+13,,326,Norway,24400.0
+13,,410,Brazil,1747731.0
+13,,429,Mexico,1052463.0
+13,,501,Canada,426.0
+14,,127,Pakistan,203947.0
+14,,129,Philippines,474225.0
+14,,137,Türkiye,444991.0
+14,,220,Ghana,2803.0
+14,,227,Madagascar,94123.0
+14,,318,Finland,114667.0
+14,,410,Brazil,170665.0
+14,,429,Mexico,323418.0
+14,,501,Canada,29728.0
+15,,124,Mongolia,63139.0
+15,,129,Philippines,3440186.0
+15,,137,Türkiye,2191681.0
+15,,244,South Africa,1187.0
+15,,301,Belgium,411734.0
+15,,305,France,884186.0
+15,,306,Ireland,107103.0
+15,,307,Italy,1578291.0
+15,,309,Netherlands,1105278.0
+15,,310,Greece,467584.0
+15,,312,Spain,7766574.0
+15,,321,Hungary,22580.0
+15,,326,Norway,179746.0
+15,,327,Poland,19924.0
+15,,410,Brazil,16352725.0
+15,,429,Mexico,131607.0
+15,,431,Nicaragua,635.0
+15,,444,Uruguay,357846.0
+15,,501,Canada,54822037.0
+16,,124,Mongolia,1093079.0
+16,,127,Pakistan,27900.0
+16,,129,Philippines,370870.0
+16,,137,Türkiye,171215.0
+16,,305,France,44686.0
+16,,306,Ireland,54289.0
+16,,307,Italy,165161.0
+16,,312,Spain,234007.0
+16,,501,Canada,377661.0
+17,,127,Pakistan,1337257.0
+17,,129,Philippines,101967.0
+17,,137,Türkiye,85720.0
+17,,138,United Arab Emirates,1394159.0
+17,,220,Ghana,267.0
+17,,244,South Africa,26908033.0
+17,,301,Belgium,473528.0
+17,,305,France,1145923.0
+17,,307,Italy,143105.0
+17,,309,Netherlands,263940.0
+17,,312,Spain,332025.0
+17,,315,Austria,1440845.0
+17,,321,Hungary,23721.0
+17,,327,Poland,338658.0
+17,,350,Slovenia,1488.0
+17,,410,Brazil,357.0
+17,,415,Costa Rica,19137413.0
+17,,429,Mexico,66412.0
+17,,431,Nicaragua,24765141.0
+17,,501,Canada,232601.0
+18,,129,Philippines,13205.0
+18,,137,Türkiye,123754.0
+18,,138,United Arab Emirates,10612.0
+18,,220,Ghana,1311150.0
+18,,244,South Africa,9466.0
+18,,301,Belgium,4058760.0
+18,,305,France,1728579.0
+18,,307,Italy,2440211.0
+18,,309,Netherlands,1016153.0
+18,,312,Spain,73439.0
+18,,315,Austria,443277.0
+18,,316,Bulgaria,3246.0
+18,,318,Finland,10673.0
+18,,321,Hungary,20782.0
+18,,326,Norway,8912.0
+18,,327,Poland,121408.0
+18,,340,Belarus,3538.0
+18,,410,Brazil,71614.0
+18,,429,Mexico,7704.0
+18,,501,Canada,96322.0
+19,,127,Pakistan,12036.0
+19,,129,Philippines,774722.0
+19,,137,Türkiye,422665.0
+19,,138,United Arab Emirates,97165.0
+19,,301,Belgium,1011434.0
+19,,305,France,26217765.0
+19,,306,Ireland,55791274.0
+19,,307,Italy,2700911.0
+19,,309,Netherlands,114464129.0
+19,,310,Greece,142622.0
+19,,312,Spain,792371.0
+19,,315,Austria,2118222.0
+19,,316,Bulgaria,40034.0
+19,,318,Finland,19171.0
+19,,321,Hungary,2417.0
+19,,326,Norway,36130.0
+19,,327,Poland,2522943.0
+19,,336,Lithuania,28012.0
+19,,340,Belarus,17203.0
+19,,410,Brazil,197.0
+19,,429,Mexico,119733.0
+19,,501,Canada,115180.0
+20,,108,Cyprus,731599.0
+20,,124,Mongolia,1594.0
+20,,127,Pakistan,184953.0
+20,,129,Philippines,3404401.0
+20,,137,Türkiye,2964121.0
+20,,138,United Arab Emirates,56322.0
+20,,244,South Africa,1934530.0
+20,,301,Belgium,2915490.0
+20,,305,France,2455737.0
+20,,307,Italy,2068419.0
+20,,309,Netherlands,1349616.0
+20,,310,Greece,159999.0
+20,,312,Spain,1835174.0
+20,,315,Austria,191388.0
+20,,316,Bulgaria,39220.0
+20,,321,Hungary,24396.0
+20,,327,Poland,227217.0
+20,,340,Belarus,4004.0
+20,,350,Slovenia,2700.0
+20,,410,Brazil,8966355.0
+20,,415,Costa Rica,1134584.0
+20,,429,Mexico,352493.0
+20,,501,Canada,612721.0
+21,,109,Democratic People's Republic of Korea,35059.0
+21,,124,Mongolia,116040.0
+21,,127,Pakistan,10630.0
+21,,129,Philippines,531624.0
+21,,137,Türkiye,172023.0
+21,,138,United Arab Emirates,1253.0
+21,,220,Ghana,279.0
+21,,224,Kenya,2345.0
+21,,244,South Africa,3009.0
+21,,301,Belgium,1328978.0
+21,,305,France,7940555.0
+21,,306,Ireland,5562.0
+21,,307,Italy,5498552.0
+21,,309,Netherlands,5605635.0
+21,,310,Greece,135.0
+21,,312,Spain,1330292.0
+21,,315,Austria,413889.0
+21,,316,Bulgaria,59126.0
+21,,318,Finland,127697.0
+21,,321,Hungary,308084.0
+21,,326,Norway,40899.0
+21,,327,Poland,411384.0
+21,,410,Brazil,1179042.0
+21,,415,Costa Rica,7397.0
+21,,429,Mexico,52144.0
+21,,435,Puerto Rico,566572.0
+21,,501,Canada,5627654.0
+22,,108,Cyprus,61806.0
+22,,109,Democratic People's Republic of Korea,11452.0
+22,,124,Mongolia,32978.0
+22,,127,Pakistan,6143445.0
+22,,129,Philippines,75714.0
+22,,137,Türkiye,286109.0
+22,,138,United Arab Emirates,39239.0
+22,,244,South Africa,2776109.0
+22,,301,Belgium,5859675.0
+22,,305,France,155247530.0
+22,,306,Ireland,563273.0
+22,,307,Italy,15268951.0
+22,,309,Netherlands,4949712.0
+22,,310,Greece,222952.0
+22,,312,Spain,19617884.0
+22,,313,Albania,48.0
+22,,315,Austria,427189.0
+22,,316,Bulgaria,140554.0
+22,,318,Finland,44452.0
+22,,321,Hungary,671976.0
+22,,326,Norway,688203.0
+22,,327,Poland,372077.0
+22,,336,Lithuania,75856.0
+22,,339,Azerbai jan,28105.0
+22,,340,Belarus,26398.0
+22,,350,Slovenia,138180.0
+22,,359,Montenegro,194174.0
+22,,405,Barbados,2604.0
+22,,410,Brazil,174724.0
+22,,429,Mexico,13561490.0
+22,,435,Puerto Rico,147118.0
+22,,442,Trinidad and Tobago,11188.0
+22,,444,Uruguay,1187.0
+22,,501,Canada,986120.0
+23,,109,Democratic People's Republic of Korea,392000.0
+23,,127,Pakistan,5237374.0
+23,,129,Philippines,867903.0
+23,,203,Benin,143700.0
+23,,244,South Africa,1111888.0
+23,,301,Belgium,1857395.0
+23,,305,France,2413106.0
+23,,306,Ireland,3188.0
+23,,307,Italy,710453.0
+23,,309,Netherlands,2994461.0
+23,,312,Spain,239547.0
+23,,315,Austria,161977.0
+23,,321,Hungary,63000.0
+23,,408,Bolivia,100.0
+23,,410,Brazil,997196.0
+23,,429,Mexico,8979754.0
+23,,444,Uruguay,2143321.0
+23,,501,Canada,32756551.0
+24,,109,Democratic People's Republic of Korea,159600.0
+24,,138,United Arab Emirates,892111.0
+24,,244,South Africa,375000.0
+24,,254,Zimbabwe,229222526.0
+24,,301,Belgium,44239.0
+24,,305,France,5055383.0
+24,,309,Netherlands,15581.0
+24,,310,Greece,32305.0
+24,,327,Poland,93045.0
+24,,410,Brazil,702954.0
+24,,431,Nicaragua,4230.0
+25,,108,Cyprus,61039.0
+25,,118,Kuwait,3511557.0
+25,,124,Mongolia,2376795.0
+25,,127,Pakistan,3278357.0
+25,,129,Philippines,1690835.0
+25,,137,Türkiye,34370233.0
+25,,138,United Arab Emirates,36440748.0
+25,,224,Kenya,5006.0
+25,,227,Madagascar,2231304.0
+25,,233,Mozambique,1016344.0
+25,,244,South Africa,2625699.0
+25,,252,Democratic Republic of Congo,6127.0
+25,,254,Zimbabwe,727333.0
+25,,301,Belgium,428294.0
+25,,305,France,2769844.0
+25,,307,Italy,10568207.0
+25,,309,Netherlands,809788.0
+25,,310,Greece,10665804.0
+25,,312,Spain,5120576.0
+25,,315,Austria,750040.0
+25,,316,Bulgaria,2627604.0
+25,,318,Finland,2014867.0
+25,,321,Hungary,3946.0
+25,,326,Norway,2036010.0
+25,,327,Poland,665.0
+25,,336,Lithuania,1152.0
+25,,350,Slovenia,31745.0
+25,,408,Bolivia,512847.0
+25,,410,Brazil,14524460.0
+25,,429,Mexico,6856977.0
+25,,501,Canada,32992877.0
+26,,109,Democratic People's Republic of Korea,2070533.0
+26,,124,Mongolia,236530627.0
+26,,127,Pakistan,10843362.0
+26,,129,Philippines,94985100.0
+26,,137,Türkiye,73770718.0
+26,,138,United Arab Emirates,10898612.0
+26,,147,Tajikistan,4113444.0
+26,,220,Ghana,10904470.0
+26,,224,Kenya,16575750.0
+26,,227,Madagascar,7239199.0
+26,,233,Mozambique,21572232.0
+26,,244,South Africa,681718257.0
+26,,252,Democratic Republic of Congo,78119827.0
+26,,254,Zimbabwe,22399420.0
+26,,258,Eritrea,56390141.0
+26,,305,France,308069.0
+26,,309,Netherlands,31800.0
+26,,310,Greece,2338465.0
+26,,312,Spain,178756824.0
+26,,313,Albania,11282927.0
+26,,316,Bulgaria,4811078.0
+26,,327,Poland,1017788.0
+26,,359,Montenegro,5354339.0
+26,,408,Bolivia,25258464.0
+26,,410,Brazil,1417724578.0
+26,,429,Mexico,180985476.0
+26,,501,Canada,92262985.0
+27,,109,Democratic People's Republic of Korea,419731.0
+27,,118,Kuwait,1167630191.0
+27,,124,Mongolia,303113021.0
+27,,127,Pakistan,750.0
+27,,129,Philippines,37375863.0
+27,,137,Türkiye,71168.0
+27,,138,United Arab Emirates,718907491.0
+27,,213,Congo,511690067.0
+27,,220,Ghana,204571398.0
+27,,244,South Africa,891917.0
+27,,301,Belgium,3297030.0
+27,,305,France,5435527.0
+27,,307,Italy,1131697.0
+27,,309,Netherlands,1483439.0
+27,,310,Greece,117276.0
+27,,312,Spain,3009117.0
+27,,313,Albania,461.0
+27,,315,Austria,21225.0
+27,,318,Finland,302203.0
+27,,321,Hungary,41501.0
+27,,326,Norway,132217809.0
+27,,327,Poland,118510.0
+27,,336,Lithuania,1000223.0
+27,,410,Brazil,1481163858.0
+27,,429,Mexico,31680033.0
+27,,501,Canada,36133237.0
+28,,109,Democratic People's Republic of Korea,58891.0
+28,,127,Pakistan,14.0
+28,,129,Philippines,2205031.0
+28,,137,Türkiye,15209540.0
+28,,138,United Arab Emirates,786838.0
+28,,224,Kenya,17.0
+28,,244,South Africa,1477998.0
+28,,301,Belgium,9061826.0
+28,,305,France,5807242.0
+28,,306,Ireland,425693.0
+28,,307,Italy,2913852.0
+28,,309,Netherlands,1248260.0
+28,,312,Spain,305365.0
+28,,315,Austria,1543024.0
+28,,316,Bulgaria,75.0
+28,,318,Finland,3993230.0
+28,,321,Hungary,303144.0
+28,,326,Norway,2569203.0
+28,,327,Poland,489744.0
+28,,336,Lithuania,3789.0
+28,,350,Slovenia,30803.0
+28,,408,Bolivia,508266.0
+28,,410,Brazil,937496.0
+28,,429,Mexico,1428465.0
+28,,435,Puerto Rico,220.0
+28,,501,Canada,7084657.0
+29,,118,Kuwait,170105123.0
+29,,127,Pakistan,170604.0
+29,,129,Philippines,30352690.0
+29,,137,Türkiye,793620.0
+29,,138,United Arab Emirates,89468325.0
+29,,222,Guinea-Bissau,16072.0
+29,,224,Kenya,1.0
+29,,227,Madagascar,13535.0
+29,,244,South Africa,3315919.0
+29,,301,Belgium,46128361.0
+29,,305,France,78241435.0
+29,,306,Ireland,94154946.0
+29,,307,Italy,16741636.0
+29,,309,Netherlands,30435976.0
+29,,310,Greece,2.0
+29,,312,Spain,6612664.0
+29,,315,Austria,1620072.0
+29,,316,Bulgaria,274402.0
+29,,318,Finland,8772280.0
+29,,321,Hungary,2818629.0
+29,,326,Norway,46523386.0
+29,,327,Poland,354369.0
+29,,336,Lithuania,249739.0
+29,,339,Azerbai jan,163858.0
+29,,340,Belarus,994744.0
+29,,350,Slovenia,68031.0
+29,,410,Brazil,23910486.0
+29,,429,Mexico,2535172.0
+29,,435,Puerto Rico,817948.0
+29,,442,Trinidad and Tobago,26059451.0
+29,,501,Canada,106853840.0
+30,,108,Cyprus,2488408.0
+30,,127,Pakistan,100800.0
+30,,129,Philippines,13899.0
+30,,137,Türkiye,2821.0
+30,,244,South Africa,1001937.0
+30,,301,Belgium,37672316.0
+30,,305,France,250165781.0
+30,,306,Ireland,135473761.0
+30,,307,Italy,155868871.0
+30,,309,Netherlands,45516997.0
+30,,310,Greece,7741154.0
+30,,312,Spain,59482800.0
+30,,315,Austria,29997926.0
+30,,316,Bulgaria,347000.0
+30,,318,Finland,18226374.0
+30,,321,Hungary,12676093.0
+30,,326,Norway,11394069.0
+30,,327,Poland,8100629.0
+30,,336,Lithuania,78326.0
+30,,350,Slovenia,1774989.0
+30,,410,Brazil,2034366.0
+30,,415,Costa Rica,61761.0
+30,,429,Mexico,2830820.0
+30,,435,Puerto Rico,50614730.0
+30,,444,Uruguay,486218.0
+30,,501,Canada,17263810.0
+31,,244,South Africa,491520.0
+31,,301,Belgium,6796137.0
+31,,305,France,45186.0
+31,,306,Ireland,89338.0
+31,,307,Italy,1563876.0
+31,,309,Netherlands,2886640.0
+31,,310,Greece,97045.0
+31,,312,Spain,1262562.0
+31,,318,Finland,1212147.0
+31,,326,Norway,1277335.0
+31,,327,Poland,72984.0
+31,,340,Belarus,75778527.0
+31,,429,Mexico,29305.0
+31,,501,Canada,76488182.0
+32,,127,Pakistan,95313.0
+32,,129,Philippines,83232.0
+32,,137,Türkiye,3066310.0
+32,,138,United Arab Emirates,312579.0
+32,,244,South Africa,1071171.0
+32,,301,Belgium,2882841.0
+32,,305,France,9216025.0
+32,,306,Ireland,88505.0
+32,,307,Italy,11376530.0
+32,,309,Netherlands,5721889.0
+32,,310,Greece,334487.0
+32,,312,Spain,8615082.0
+32,,315,Austria,1128762.0
+32,,318,Finland,1185604.0
+32,,321,Hungary,3090.0
+32,,326,Norway,679845.0
+32,,327,Poland,260284.0
+32,,336,Lithuania,1088.0
+32,,350,Slovenia,19483.0
+32,,410,Brazil,446700.0
+32,,429,Mexico,6236068.0
+32,,435,Puerto Rico,292674.0
+32,,501,Canada,475935.0
+33,,129,Philippines,307937.0
+33,,137,Türkiye,170901.0
+33,,138,United Arab Emirates,7250.0
+33,,227,Madagascar,381472.0
+33,,244,South Africa,339879.0
+33,,254,Zimbabwe,1204.0
+33,,301,Belgium,13766545.0
+33,,305,France,195733826.0
+33,,306,Ireland,3754733.0
+33,,307,Italy,19206681.0
+33,,309,Netherlands,2633221.0
+33,,310,Greece,130967.0
+33,,312,Spain,18616669.0
+33,,315,Austria,343875.0
+33,,316,Bulgaria,194232.0
+33,,318,Finland,373.0
+33,,321,Hungary,268153.0
+33,,326,Norway,3251.0
+33,,327,Poland,2430219.0
+33,,350,Slovenia,514655.0
+33,,410,Brazil,1740895.0
+33,,427,Jamaica,908.0
+33,,429,Mexico,888624.0
+33,,501,Canada,10358188.0
+34,,109,Democratic People's Republic of Korea,842.0
+34,,124,Mongolia,1444.0
+34,,127,Pakistan,4985.0
+34,,129,Philippines,404839.0
+34,,137,Türkiye,81206.0
+34,,138,United Arab Emirates,42047.0
+34,,244,South Africa,181717.0
+34,,301,Belgium,4363855.0
+34,,305,France,13315137.0
+34,,306,Ireland,1255751.0
+34,,307,Italy,7439432.0
+34,,309,Netherlands,3679170.0
+34,,310,Greece,12518.0
+34,,312,Spain,4794332.0
+34,,315,Austria,1892745.0
+34,,316,Bulgaria,9044.0
+34,,318,Finland,45511.0
+34,,321,Hungary,38046.0
+34,,326,Norway,486188.0
+34,,327,Poland,1277367.0
+34,,336,Lithuania,141378.0
+34,,350,Slovenia,8371.0
+34,,410,Brazil,149373.0
+34,,429,Mexico,171438.0
+34,,501,Canada,1237259.0
+35,,129,Philippines,1566.0
+35,,137,Türkiye,80647.0
+35,,138,United Arab Emirates,32.0
+35,,244,South Africa,53945.0
+35,,301,Belgium,957634.0
+35,,305,France,6200248.0
+35,,306,Ireland,579086.0
+35,,307,Italy,4352664.0
+35,,309,Netherlands,9924025.0
+35,,312,Spain,195731.0
+35,,315,Austria,1284138.0
+35,,316,Bulgaria,174454.0
+35,,318,Finland,1505585.0
+35,,321,Hungary,174.0
+35,,326,Norway,182581.0
+35,,327,Poland,83572.0
+35,,336,Lithuania,532324.0
+35,,350,Slovenia,1120.0
+35,,410,Brazil,66240.0
+35,,429,Mexico,62642.0
+35,,435,Puerto Rico,17488.0
+35,,501,Canada,1041109.0
+36,,305,France,28981.0
+36,,307,Italy,61500.0
+36,,315,Austria,1773.0
+36,,429,Mexico,248518.0
+36,,501,Canada,83016.0
+37,,138,United Arab Emirates,11610.0
+37,,301,Belgium,7732300.0
+37,,305,France,1045662.0
+37,,306,Ireland,53713.0
+37,,309,Netherlands,685113.0
+37,,312,Spain,27366.0
+37,,315,Austria,130500.0
+37,,318,Finland,8757.0
+37,,429,Mexico,1168726.0
+38,,109,Democratic People's Republic of Korea,78004.0
+38,,118,Kuwait,45761.0
+38,,127,Pakistan,1536.0
+38,,129,Philippines,4183563.0
+38,,137,Türkiye,273237.0
+38,,138,United Arab Emirates,54155.0
+38,,220,Ghana,188.0
+38,,244,South Africa,3791155.0
+38,,301,Belgium,34564164.0
+38,,305,France,62929934.0
+38,,306,Ireland,2255898.0
+38,,307,Italy,25796947.0
+38,,309,Netherlands,12738970.0
+38,,310,Greece,35854.0
+38,,312,Spain,12217809.0
+38,,315,Austria,2842126.0
+38,,316,Bulgaria,673724.0
+38,,318,Finland,5171931.0
+38,,321,Hungary,719657.0
+38,,326,Norway,1736715.0
+38,,327,Poland,1464222.0
+38,,336,Lithuania,1664386.0
+38,,339,Azerbai jan,39200.0
+38,,340,Belarus,9776.0
+38,,350,Slovenia,629951.0
+38,,410,Brazil,6164835.0
+38,,415,Costa Rica,17587.0
+38,,429,Mexico,1215472.0
+38,,435,Puerto Rico,365954.0
+38,,501,Canada,7958446.0
+39,,108,Cyprus,231.0
+39,,109,Democratic People's Republic of Korea,37631.0
+39,,118,Kuwait,23454094.0
+39,,124,Mongolia,21076.0
+39,,127,Pakistan,261882.0
+39,,129,Philippines,6895696.0
+39,,137,Türkiye,3372278.0
+39,,138,United Arab Emirates,138496160.0
+39,,220,Ghana,13.0
+39,,224,Kenya,118.0
+39,,244,South Africa,4743743.0
+39,,301,Belgium,75152316.0
+39,,305,France,60020264.0
+39,,306,Ireland,1712150.0
+39,,307,Italy,52713976.0
+39,,309,Netherlands,64134288.0
+39,,310,Greece,516981.0
+39,,312,Spain,29261810.0
+39,,313,Albania,180962.0
+39,,315,Austria,20226441.0
+39,,316,Bulgaria,238073.0
+39,,318,Finland,4769557.0
+39,,321,Hungary,2610014.0
+39,,326,Norway,2890288.0
+39,,327,Poland,7118673.0
+39,,336,Lithuania,97160.0
+39,,339,Azerbai jan,4465851.0
+39,,340,Belarus,1366301.0
+39,,350,Slovenia,1841652.0
+39,,410,Brazil,20918743.0
+39,,415,Costa Rica,222225.0
+39,,429,Mexico,15242743.0
+39,,435,Puerto Rico,1620.0
+39,,501,Canada,21934349.0
+40,,118,Kuwait,2956.0
+40,,123,Maldives,571.0
+40,,124,Mongolia,309366.0
+40,,127,Pakistan,3510.0
+40,,129,Philippines,2097929.0
+40,,137,Türkiye,3654065.0
+40,,138,United Arab Emirates,828966.0
+40,,203,Benin,55.0
+40,,220,Ghana,9709.0
+40,,244,South Africa,93561.0
+40,,250,Uganda,22.0
+40,,301,Belgium,8993442.0
+40,,305,France,25713181.0
+40,,306,Ireland,349155.0
+40,,307,Italy,20419896.0
+40,,309,Netherlands,4952385.0
+40,,310,Greece,34129.0
+40,,312,Spain,6713403.0
+40,,315,Austria,2243468.0
+40,,316,Bulgaria,435579.0
+40,,318,Finland,594344.0
+40,,321,Hungary,6803419.0
+40,,326,Norway,192808.0
+40,,327,Poland,13358865.0
+40,,336,Lithuania,995.0
+40,,350,Slovenia,1269844.0
+40,,410,Brazil,5977938.0
+40,,415,Costa Rica,352.0
+40,,422,Guadeloupe,337.0
+40,,429,Mexico,6891027.0
+40,,501,Canada,10528081.0
+41,,124,Mongolia,604223.0
+41,,127,Pakistan,7983900.0
+41,,129,Philippines,36657.0
+41,,137,Türkiye,944425.0
+41,,138,United Arab Emirates,1083.0
+41,,147,Tajikistan,550295.0
+41,,203,Benin,358400.0
+41,,224,Kenya,2106669.0
+41,,227,Madagascar,22880.0
+41,,244,South Africa,2579035.0
+41,,250,Uganda,1504047.0
+41,,301,Belgium,1054602.0
+41,,305,France,3741450.0
+41,,306,Ireland,2403394.0
+41,,307,Italy,41583983.0
+41,,309,Netherlands,4153105.0
+41,,310,Greece,33832.0
+41,,312,Spain,7562341.0
+41,,313,Albania,1182.0
+41,,315,Austria,2317374.0
+41,,318,Finland,174533.0
+41,,321,Hungary,91861.0
+41,,326,Norway,194602.0
+41,,327,Poland,284043.0
+41,,339,Azerbai jan,347200.0
+41,,340,Belarus,98601.0
+41,,350,Slovenia,40589.0
+41,,408,Bolivia,84535.0
+41,,410,Brazil,59125368.0
+41,,415,Costa Rica,632514.0
+41,,429,Mexico,7291337.0
+41,,431,Nicaragua,70900.0
+41,,444,Uruguay,4404982.0
+41,,501,Canada,7580847.0
+42,,109,Democratic People's Republic of Korea,243057.0
+42,,123,Maldives,300.0
+42,,127,Pakistan,367284.0
+42,,129,Philippines,6146850.0
+42,,137,Türkiye,1467266.0
+42,,224,Kenya,373.0
+42,,227,Madagascar,1385.0
+42,,244,South Africa,50664.0
+42,,301,Belgium,159002.0
+42,,305,France,38661851.0
+42,,306,Ireland,137.0
+42,,307,Italy,96669686.0
+42,,309,Netherlands,49636.0
+42,,310,Greece,638.0
+42,,312,Spain,7853925.0
+42,,313,Albania,45809.0
+42,,315,Austria,351959.0
+42,,316,Bulgaria,957256.0
+42,,318,Finland,3050.0
+42,,321,Hungary,669557.0
+42,,326,Norway,829.0
+42,,327,Poland,4530.0
+42,,336,Lithuania,432.0
+42,,340,Belarus,1512.0
+42,,350,Slovenia,950.0
+42,,410,Brazil,62322.0
+42,,429,Mexico,110612.0
+42,,501,Canada,284325.0
+43,,127,Pakistan,3380.0
+43,,137,Türkiye,859443.0
+43,,301,Belgium,40413.0
+43,,305,France,328409.0
+43,,307,Italy,1618881.0
+43,,310,Greece,122267.0
+43,,312,Spain,1204555.0
+43,,315,Austria,128.0
+43,,318,Finland,21336569.0
+43,,321,Hungary,28980.0
+43,,327,Poland,523.0
+43,,336,Lithuania,994.0
+43,,410,Brazil,199445.0
+43,,501,Canada,5808535.0
+44,,124,Mongolia,176197.0
+44,,127,Pakistan,14284.0
+44,,129,Philippines,4376700.0
+44,,137,Türkiye,114567.0
+44,,138,United Arab Emirates,514076.0
+44,,203,Benin,460661.0
+44,,209,Central African Republic,4705890.0
+44,,213,Congo,15961173.0
+44,,219,Gambia,252908.0
+44,,220,Ghana,8698117.0
+44,,222,Guinea-Bissau,73017.0
+44,,224,Kenya,8292.0
+44,,227,Madagascar,113.0
+44,,233,Mozambique,14452612.0
+44,,244,South Africa,8010533.0
+44,,252,Democratic Republic of Congo,1218149.0
+44,,301,Belgium,7394931.0
+44,,305,France,21233894.0
+44,,306,Ireland,13410.0
+44,,307,Italy,4254179.0
+44,,309,Netherlands,926771.0
+44,,312,Spain,1465230.0
+44,,315,Austria,6129282.0
+44,,316,Bulgaria,737092.0
+44,,318,Finland,34389750.0
+44,,321,Hungary,553001.0
+44,,326,Norway,35895.0
+44,,327,Poland,4364140.0
+44,,336,Lithuania,1955386.0
+44,,340,Belarus,861936.0
+44,,350,Slovenia,627888.0
+44,,359,Montenegro,26867.0
+44,,406,Belize,124892.0
+44,,408,Bolivia,1075867.0
+44,,410,Brazil,12569822.0
+44,,415,Costa Rica,1704403.0
+44,,427,Jamaica,122.0
+44,,429,Mexico,1140630.0
+44,,431,Nicaragua,330572.0
+44,,442,Trinidad and Tobago,13659.0
+44,,444,Uruguay,30884098.0
+44,,501,Canada,97669176.0
+45,,305,France,201245.0
+45,,307,Italy,949343.0
+45,,309,Netherlands,76763.0
+45,,312,Spain,229054.0
+45,,501,Canada,1994.0
+46,,109,Democratic People's Republic of Korea,48065.0
+46,,129,Philippines,33853.0
+46,,220,Ghana,5962.0
+46,,224,Kenya,3000.0
+46,,227,Madagascar,657.0
+46,,244,South Africa,3809.0
+46,,305,France,258826.0
+46,,307,Italy,35528.0
+46,,312,Spain,43009.0
+47,,108,Cyprus,171456.0
+47,,129,Philippines,466042.0
+47,,244,South Africa,26209937.0
+47,,301,Belgium,3350905.0
+47,,305,France,8356682.0
+47,,306,Ireland,672616.0
+47,,307,Italy,7053206.0
+47,,309,Netherlands,7607179.0
+47,,310,Greece,1495288.0
+47,,312,Spain,7641678.0
+47,,315,Austria,19442063.0
+47,,318,Finland,121504240.0
+47,,326,Norway,3127878.0
+47,,327,Poland,304307.0
+47,,410,Brazil,391643231.0
+47,,415,Costa Rica,525247.0
+47,,427,Jamaica,30471.0
+47,,429,Mexico,1120075.0
+47,,435,Puerto Rico,1062696.0
+47,,444,Uruguay,58118558.0
+47,,501,Canada,300891439.0
+48,,109,Democratic People's Republic of Korea,86285.0
+48,,123,Maldives,50.0
+48,,124,Mongolia,202.0
+48,,127,Pakistan,114426.0
+48,,129,Philippines,16995.0
+48,,137,Türkiye,57044.0
+48,,138,United Arab Emirates,816080.0
+48,,220,Ghana,151.0
+48,,244,South Africa,88311.0
+48,,301,Belgium,1760673.0
+48,,305,France,7349315.0
+48,,306,Ireland,99705.0
+48,,307,Italy,8064925.0
+48,,309,Netherlands,2016974.0
+48,,310,Greece,4916.0
+48,,312,Spain,2044874.0
+48,,315,Austria,6445640.0
+48,,316,Bulgaria,133515.0
+48,,318,Finland,11879885.0
+48,,321,Hungary,214585.0
+48,,326,Norway,137038.0
+48,,327,Poland,576312.0
+48,,336,Lithuania,139804.0
+48,,340,Belarus,10338.0
+48,,350,Slovenia,523417.0
+48,,410,Brazil,4529124.0
+48,,415,Costa Rica,10325.0
+48,,429,Mexico,262645.0
+48,,501,Canada,6958805.0
+49,,108,Cyprus,577.0
+49,,123,Maldives,399.0
+49,,124,Mongolia,44.0
+49,,127,Pakistan,13696.0
+49,,129,Philippines,8956.0
+49,,137,Türkiye,8068.0
+49,,138,United Arab Emirates,201306.0
+49,,224,Kenya,1100.0
+49,,301,Belgium,186704.0
+49,,305,France,3925194.0
+49,,306,Ireland,18175448.0
+49,,307,Italy,1179073.0
+49,,309,Netherlands,4599163.0
+49,,310,Greece,146185.0
+49,,312,Spain,119132.0
+49,,313,Albania,6.0
+49,,315,Austria,624922.0
+49,,316,Bulgaria,1058.0
+49,,318,Finland,14019.0
+49,,321,Hungary,11837.0
+49,,326,Norway,10535.0
+49,,327,Poland,375096.0
+49,,336,Lithuania,33195.0
+49,,340,Belarus,1693.0
+49,,350,Slovenia,363.0
+49,,410,Brazil,10.0
+49,,429,Mexico,32801.0
+49,,435,Puerto Rico,7256.0
+49,,501,Canada,262260.0
+50,,305,France,29588.0
+50,,307,Italy,1202895.0
+50,,312,Spain,6562.0
+50,,410,Brazil,49948.0
+51,,124,Mongolia,21876189.0
+51,,127,Pakistan,179589.0
+51,,137,Türkiye,2444949.0
+51,,227,Madagascar,12130.0
+51,,244,South Africa,22428608.0
+51,,255,Lesotho,3840689.0
+51,,301,Belgium,874235.0
+51,,305,France,1261244.0
+51,,306,Ireland,279665.0
+51,,307,Italy,36504852.0
+51,,309,Netherlands,242223.0
+51,,312,Spain,1845824.0
+51,,315,Austria,9386.0
+51,,316,Bulgaria,185155.0
+51,,321,Hungary,1139841.0
+51,,326,Norway,18830.0
+51,,327,Poland,19244.0
+51,,336,Lithuania,10670.0
+51,,408,Bolivia,94951.0
+51,,429,Mexico,76326.0
+51,,444,Uruguay,9460876.0
+51,,501,Canada,39536.0
+52,,127,Pakistan,76893135.0
+52,,129,Philippines,6662.0
+52,,137,Türkiye,5382476.0
+52,,138,United Arab Emirates,171.0
+52,,147,Tajikistan,79810.0
+52,,203,Benin,1576219.0
+52,,301,Belgium,8711.0
+52,,305,France,219888.0
+52,,306,Ireland,2699.0
+52,,307,Italy,6142596.0
+52,,309,Netherlands,35124.0
+52,,310,Greece,358.0
+52,,312,Spain,438971.0
+52,,315,Austria,61428.0
+52,,316,Bulgaria,1362.0
+52,,318,Finland,509.0
+52,,326,Norway,6489.0
+52,,350,Slovenia,95749.0
+52,,410,Brazil,1784.0
+52,,429,Mexico,10275486.0
+52,,501,Canada,2892.0
+53,,127,Pakistan,12116.0
+53,,129,Philippines,801041.0
+53,,137,Türkiye,9097.0
+53,,224,Kenya,513781.0
+53,,227,Madagascar,454419.0
+53,,233,Mozambique,161896.0
+53,,301,Belgium,5849630.0
+53,,305,France,31292332.0
+53,,307,Italy,363392.0
+53,,309,Netherlands,1218900.0
+53,,312,Spain,1210.0
+53,,315,Austria,5686.0
+53,,316,Bulgaria,425.0
+53,,327,Poland,140.0
+53,,340,Belarus,1279452.0
+53,,410,Brazil,724230.0
+53,,429,Mexico,1955.0
+54,,127,Pakistan,12776.0
+54,,129,Philippines,5109612.0
+54,,137,Türkiye,1535902.0
+54,,138,United Arab Emirates,2163537.0
+54,,301,Belgium,125215.0
+54,,305,France,847975.0
+54,,307,Italy,8789003.0
+54,,309,Netherlands,5044778.0
+54,,310,Greece,1275.0
+54,,312,Spain,306867.0
+54,,315,Austria,167765.0
+54,,316,Bulgaria,13992.0
+54,,318,Finland,352.0
+54,,326,Norway,916.0
+54,,327,Poland,10373.0
+54,,336,Lithuania,119545.0
+54,,350,Slovenia,125234.0
+54,,410,Brazil,374822.0
+54,,429,Mexico,69253.0
+54,,501,Canada,212560.0
+55,,109,Democratic People's Republic of Korea,13579.0
+55,,127,Pakistan,485276.0
+55,,137,Türkiye,2120096.0
+55,,301,Belgium,140237.0
+55,,305,France,1470109.0
+55,,307,Italy,3296869.0
+55,,309,Netherlands,327870.0
+55,,310,Greece,2183.0
+55,,312,Spain,1389604.0
+55,,315,Austria,24428581.0
+55,,316,Bulgaria,36040.0
+55,,318,Finland,39617.0
+55,,321,Hungary,21407.0
+55,,326,Norway,1527.0
+55,,327,Poland,518638.0
+55,,340,Belarus,515381.0
+55,,350,Slovenia,23992.0
+55,,410,Brazil,3048.0
+55,,429,Mexico,3785309.0
+55,,501,Canada,122640.0
+56,,127,Pakistan,51574.0
+56,,129,Philippines,89514.0
+56,,138,United Arab Emirates,37705.0
+56,,227,Madagascar,5596.0
+56,,244,South Africa,60309.0
+56,,301,Belgium,641220.0
+56,,305,France,2613959.0
+56,,306,Ireland,31640.0
+56,,307,Italy,1688333.0
+56,,309,Netherlands,2004989.0
+56,,310,Greece,1315.0
+56,,312,Spain,282932.0
+56,,315,Austria,139832.0
+56,,316,Bulgaria,524.0
+56,,318,Finland,70773.0
+56,,321,Hungary,9761.0
+56,,326,Norway,7618.0
+56,,327,Poland,123397.0
+56,,336,Lithuania,1377810.0
+56,,350,Slovenia,22857.0
+56,,410,Brazil,153414.0
+56,,415,Costa Rica,233.0
+56,,429,Mexico,53222.0
+56,,501,Canada,384681.0
+57,,127,Pakistan,38184.0
+57,,129,Philippines,747.0
+57,,137,Türkiye,2074745.0
+57,,301,Belgium,577553.0
+57,,305,France,168216.0
+57,,306,Ireland,61645.0
+57,,307,Italy,363553.0
+57,,309,Netherlands,255514.0
+57,,312,Spain,5780.0
+57,,321,Hungary,5182.0
+57,,327,Poland,183173.0
+57,,429,Mexico,3260.0
+57,,501,Canada,52.0
+58,,124,Mongolia,56.0
+58,,127,Pakistan,1081.0
+58,,129,Philippines,1160624.0
+58,,137,Türkiye,217951.0
+58,,138,United Arab Emirates,1778.0
+58,,244,South Africa,41.0
+58,,301,Belgium,312121.0
+58,,305,France,583890.0
+58,,306,Ireland,156.0
+58,,307,Italy,1238867.0
+58,,309,Netherlands,41965.0
+58,,310,Greece,1701.0
+58,,312,Spain,228090.0
+58,,315,Austria,62031.0
+58,,318,Finland,1090.0
+58,,321,Hungary,26199.0
+58,,326,Norway,4991.0
+58,,327,Poland,38594.0
+58,,336,Lithuania,32946.0
+58,,350,Slovenia,2752.0
+58,,410,Brazil,69860.0
+58,,429,Mexico,21084.0
+58,,501,Canada,35058.0
+59,,127,Pakistan,7036.0
+59,,129,Philippines,1078.0
+59,,137,Türkiye,645941.0
+59,,138,United Arab Emirates,2125.0
+59,,301,Belgium,1063154.0
+59,,305,France,2344226.0
+59,,306,Ireland,5851.0
+59,,307,Italy,6248037.0
+59,,309,Netherlands,995369.0
+59,,312,Spain,1260107.0
+59,,315,Austria,1102795.0
+59,,318,Finland,866147.0
+59,,321,Hungary,40256.0
+59,,326,Norway,5920.0
+59,,327,Poland,125738.0
+59,,340,Belarus,6373.0
+59,,350,Slovenia,27658.0
+59,,410,Brazil,182416.0
+59,,429,Mexico,561262.0
+59,,501,Canada,985578.0
+60,,127,Pakistan,19820.0
+60,,129,Philippines,3417.0
+60,,137,Türkiye,227072.0
+60,,301,Belgium,30816.0
+60,,305,France,149477.0
+60,,307,Italy,5314856.0
+60,,309,Netherlands,3950.0
+60,,312,Spain,50950.0
+60,,315,Austria,175552.0
+60,,316,Bulgaria,45427.0
+60,,318,Finland,431.0
+60,,321,Hungary,1707.0
+60,,327,Poland,3714.0
+60,,340,Belarus,28614.0
+60,,350,Slovenia,16966.0
+60,,410,Brazil,1941.0
+60,,435,Puerto Rico,1720.0
+60,,501,Canada,35334.0
+61,,124,Mongolia,85829.0
+61,,127,Pakistan,1388709.0
+61,,129,Philippines,1844315.0
+61,,137,Türkiye,13655003.0
+61,,224,Kenya,27.0
+61,,227,Madagascar,195660.0
+61,,244,South Africa,4716.0
+61,,255,Lesotho,669.0
+61,,301,Belgium,11240.0
+61,,305,France,564191.0
+61,,307,Italy,29178018.0
+61,,309,Netherlands,34975.0
+61,,310,Greece,68872.0
+61,,312,Spain,247637.0
+61,,313,Albania,132320.0
+61,,315,Austria,23176.0
+61,,316,Bulgaria,1345070.0
+61,,321,Hungary,106347.0
+61,,327,Poland,109204.0
+61,,336,Lithuania,43455.0
+61,,340,Belarus,131635.0
+61,,350,Slovenia,7355.0
+61,,410,Brazil,3800.0
+61,,415,Costa Rica,196879.0
+61,,429,Mexico,739017.0
+61,,431,Nicaragua,169018.0
+61,,444,Uruguay,426.0
+61,,501,Canada,27290.0
+62,,108,Cyprus,9273.0
+62,,127,Pakistan,2616091.0
+62,,129,Philippines,556332.0
+62,,137,Türkiye,17735827.0
+62,,138,United Arab Emirates,75309.0
+62,,147,Tajikistan,30.0
+62,,211,Chad,54.0
+62,,224,Kenya,123.0
+62,,227,Madagascar,550694.0
+62,,244,South Africa,63833.0
+62,,301,Belgium,75043.0
+62,,305,France,8075711.0
+62,,307,Italy,46463954.0
+62,,309,Netherlands,36767.0
+62,,310,Greece,14843.0
+62,,312,Spain,2687822.0
+62,,313,Albania,293798.0
+62,,315,Austria,20086.0
+62,,316,Bulgaria,2752970.0
+62,,318,Finland,460.0
+62,,321,Hungary,314723.0
+62,,326,Norway,621.0
+62,,327,Poland,940634.0
+62,,336,Lithuania,161615.0
+62,,340,Belarus,150411.0
+62,,350,Slovenia,67095.0
+62,,410,Brazil,541.0
+62,,415,Costa Rica,55645.0
+62,,427,Jamaica,26.0
+62,,429,Mexico,904157.0
+62,,431,Nicaragua,139572.0
+62,,501,Canada,67176.0
+63,,127,Pakistan,3916561.0
+63,,129,Philippines,63172.0
+63,,137,Türkiye,963748.0
+63,,138,United Arab Emirates,23535.0
+63,,224,Kenya,16.0
+63,,301,Belgium,482976.0
+63,,305,France,1187778.0
+63,,306,Ireland,3173.0
+63,,307,Italy,1218821.0
+63,,309,Netherlands,32185.0
+63,,310,Greece,2046.0
+63,,312,Spain,491669.0
+63,,313,Albania,1906.0
+63,,315,Austria,373499.0
+63,,316,Bulgaria,20423.0
+63,,318,Finland,12075.0
+63,,321,Hungary,167032.0
+63,,326,Norway,1372.0
+63,,327,Poland,394499.0
+63,,336,Lithuania,3907.0
+63,,350,Slovenia,1726.0
+63,,429,Mexico,738899.0
+63,,501,Canada,164190.0
+64,,109,Democratic People's Republic of Korea,273864.0
+64,,127,Pakistan,9123.0
+64,,129,Philippines,862.0
+64,,137,Türkiye,369974.0
+64,,301,Belgium,13766.0
+64,,305,France,318034.0
+64,,307,Italy,56438039.0
+64,,309,Netherlands,80506.0
+64,,310,Greece,14898.0
+64,,312,Spain,6105962.0
+64,,313,Albania,114304.0
+64,,316,Bulgaria,77650.0
+64,,318,Finland,13461.0
+64,,321,Hungary,330896.0
+64,,326,Norway,827.0
+64,,327,Poland,7810.0
+64,,336,Lithuania,5508.0
+64,,350,Slovenia,30801.0
+64,,410,Brazil,1084853.0
+64,,429,Mexico,494.0
+64,,501,Canada,13245.0
+65,,127,Pakistan,440.0
+65,,129,Philippines,85276.0
+65,,137,Türkiye,25158.0
+65,,138,United Arab Emirates,28.0
+65,,227,Madagascar,6077.0
+65,,244,South Africa,37985.0
+65,,301,Belgium,3829.0
+65,,305,France,414173.0
+65,,307,Italy,1046626.0
+65,,309,Netherlands,3796.0
+65,,310,Greece,3153.0
+65,,312,Spain,38262.0
+65,,315,Austria,2838.0
+65,,316,Bulgaria,4230.0
+65,,318,Finland,323.0
+65,,326,Norway,454.0
+65,,327,Poland,109144.0
+65,,336,Lithuania,228.0
+65,,429,Mexico,2140.0
+65,,501,Canada,51291.0
+66,,305,France,33714.0
+66,,307,Italy,37467.0
+66,,336,Lithuania,6756.0
+66,,501,Canada,241.0
+67,,109,Democratic People's Republic of Korea,2357631.0
+67,,118,Kuwait,30.0
+67,,129,Philippines,471.0
+67,,137,Türkiye,62.0
+67,,138,United Arab Emirates,60.0
+67,,301,Belgium,94.0
+67,,305,France,19961.0
+67,,306,Ireland,30.0
+67,,307,Italy,21466.0
+67,,309,Netherlands,584.0
+67,,310,Greece,2822.0
+67,,312,Spain,2527.0
+67,,327,Poland,209271.0
+67,,350,Slovenia,50.0
+67,,410,Brazil,16.0
+67,,501,Canada,3630.0
+68,,127,Pakistan,109540.0
+68,,129,Philippines,14839.0
+68,,137,Türkiye,1417350.0
+68,,138,United Arab Emirates,32566.0
+68,,227,Madagascar,2779.0
+68,,244,South Africa,72906.0
+68,,299,Other African Territories,24441.0
+68,,301,Belgium,380179.0
+68,,305,France,2297034.0
+68,,306,Ireland,9488.0
+68,,307,Italy,7237390.0
+68,,309,Netherlands,3006629.0
+68,,310,Greece,40710.0
+68,,312,Spain,2594000.0
+68,,315,Austria,3067685.0
+68,,316,Bulgaria,6623.0
+68,,318,Finland,1766565.0
+68,,321,Hungary,1005391.0
+68,,326,Norway,6877.0
+68,,327,Poland,677241.0
+68,,340,Belarus,571129.0
+68,,350,Slovenia,84593.0
+68,,410,Brazil,933522.0
+68,,429,Mexico,237565.0
+68,,501,Canada,685933.0
+69,,127,Pakistan,127.0
+69,,129,Philippines,9992.0
+69,,137,Türkiye,863079.0
+69,,138,United Arab Emirates,79793.0
+69,,244,South Africa,1455024.0
+69,,301,Belgium,209152.0
+69,,305,France,1775666.0
+69,,306,Ireland,1287.0
+69,,307,Italy,7497377.0
+69,,309,Netherlands,910394.0
+69,,310,Greece,3047.0
+69,,312,Spain,2306841.0
+69,,315,Austria,1844602.0
+69,,316,Bulgaria,14389.0
+69,,318,Finland,12067.0
+69,,321,Hungary,217419.0
+69,,326,Norway,1634.0
+69,,327,Poland,3127944.0
+69,,410,Brazil,4104.0
+69,,429,Mexico,93963.0
+69,,501,Canada,145214.0
+70,,109,Democratic People's Republic of Korea,849406.0
+70,,127,Pakistan,940.0
+70,,129,Philippines,169860.0
+70,,137,Türkiye,291007.0
+70,,138,United Arab Emirates,118872.0
+70,,224,Kenya,784.0
+70,,244,South Africa,4936.0
+70,,301,Belgium,2505381.0
+70,,305,France,10358295.0
+70,,306,Ireland,79862.0
+70,,307,Italy,4501041.0
+70,,309,Netherlands,1817530.0
+70,,310,Greece,366.0
+70,,312,Spain,779892.0
+70,,315,Austria,9446008.0
+70,,316,Bulgaria,223812.0
+70,,318,Finland,178356.0
+70,,321,Hungary,3550554.0
+70,,326,Norway,66419.0
+70,,327,Poland,2422625.0
+70,,336,Lithuania,6414.0
+70,,340,Belarus,47238.0
+70,,350,Slovenia,57469.0
+70,,410,Brazil,279442.0
+70,,429,Mexico,481542.0
+70,,501,Canada,358353.0
+71,,109,Democratic People's Republic of Korea,72761.0
+71,,127,Pakistan,66015.0
+71,,129,Philippines,136013.0
+71,,137,Türkiye,38598730.0
+71,,138,United Arab Emirates,6801570.0
+71,,224,Kenya,26.0
+71,,227,Madagascar,262469.0
+71,,233,Mozambique,251536.0
+71,,235,Niger,25450.0
+71,,244,South Africa,1194305524.0
+71,,252,Democratic Republic of Congo,4117566.0
+71,,254,Zimbabwe,29550.0
+71,,301,Belgium,68902458.0
+71,,305,France,19862986.0
+71,,306,Ireland,850813.0
+71,,307,Italy,18810532.0
+71,,309,Netherlands,181412.0
+71,,310,Greece,233.0
+71,,312,Spain,2212607.0
+71,,315,Austria,3271416.0
+71,,321,Hungary,69656.0
+71,,327,Poland,6498.0
+71,,336,Lithuania,25633.0
+71,,410,Brazil,1465961.0
+71,,415,Costa Rica,4230.0
+71,,429,Mexico,104260.0
+71,,435,Puerto Rico,1033051.0
+71,,444,Uruguay,434569.0
+71,,501,Canada,466535014.0
+72,,109,Democratic People's Republic of Korea,2035108.0
+72,,124,Mongolia,144923.0
+72,,129,Philippines,61271.0
+72,,137,Türkiye,318224.0
+72,,138,United Arab Emirates,131849.0
+72,,244,South Africa,164883615.0
+72,,254,Zimbabwe,9946859.0
+72,,301,Belgium,19645421.0
+72,,305,France,21464862.0
+72,,306,Ireland,38512.0
+72,,307,Italy,7742188.0
+72,,309,Netherlands,2209323.0
+72,,312,Spain,1114846.0
+72,,315,Austria,16462057.0
+72,,316,Bulgaria,27599.0
+72,,318,Finland,6919338.0
+72,,321,Hungary,33678.0
+72,,326,Norway,957906.0
+72,,327,Poland,902593.0
+72,,336,Lithuania,4686.0
+72,,340,Belarus,147894.0
+72,,350,Slovenia,1932888.0
+72,,410,Brazil,66550064.0
+72,,415,Costa Rica,37251.0
+72,,429,Mexico,230721.0
+72,,444,Uruguay,2280.0
+72,,501,Canada,9223554.0
+73,,127,Pakistan,20191.0
+73,,129,Philippines,545468.0
+73,,137,Türkiye,6528353.0
+73,,138,United Arab Emirates,528898.0
+73,,235,Niger,3.0
+73,,244,South Africa,509780.0
+73,,301,Belgium,3327133.0
+73,,305,France,29481051.0
+73,,306,Ireland,713950.0
+73,,307,Italy,35713343.0
+73,,309,Netherlands,7115699.0
+73,,310,Greece,98288.0
+73,,312,Spain,13312413.0
+73,,315,Austria,5863875.0
+73,,316,Bulgaria,300192.0
+73,,318,Finland,1756224.0
+73,,321,Hungary,2799437.0
+73,,326,Norway,2132657.0
+73,,327,Poland,6031532.0
+73,,336,Lithuania,27011.0
+73,,340,Belarus,2643.0
+73,,350,Slovenia,832283.0
+73,,410,Brazil,1130623.0
+73,,415,Costa Rica,3808.0
+73,,427,Jamaica,49.0
+73,,429,Mexico,2372041.0
+73,,501,Canada,4783667.0
+74,,108,Cyprus,344300.0
+74,,118,Kuwait,4431683.0
+74,,124,Mongolia,2602474.0
+74,,127,Pakistan,11994326.0
+74,,129,Philippines,75595377.0
+74,,137,Türkiye,6166110.0
+74,,138,United Arab Emirates,10965656.0
+74,,213,Congo,7971457.0
+74,,220,Ghana,120071.0
+74,,224,Kenya,232030.0
+74,,244,South Africa,27599631.0
+74,,252,Democratic Republic of Congo,96731663.0
+74,,301,Belgium,13787520.0
+74,,305,France,13156753.0
+74,,306,Ireland,162442.0
+74,,307,Italy,26157748.0
+74,,309,Netherlands,36355486.0
+74,,310,Greece,1412721.0
+74,,312,Spain,40003240.0
+74,,313,Albania,111839.0
+74,,315,Austria,153551.0
+74,,316,Bulgaria,67433927.0
+74,,318,Finland,2650427.0
+74,,321,Hungary,669866.0
+74,,326,Norway,3916480.0
+74,,327,Poland,20428053.0
+74,,336,Lithuania,5343666.0
+74,,350,Slovenia,102471.0
+74,,408,Bolivia,1612478.0
+74,,410,Brazil,25269379.0
+74,,415,Costa Rica,1051020.0
+74,,429,Mexico,85886746.0
+74,,431,Nicaragua,617772.0
+74,,435,Puerto Rico,2658563.0
+74,,442,Trinidad and Tobago,582942.0
+74,,444,Uruguay,524595.0
+74,,501,Canada,16032941.0
+75,,127,Pakistan,70.0
+75,,137,Türkiye,98627.0
+75,,227,Madagascar,1717202.0
+75,,244,South Africa,5764593.0
+75,,301,Belgium,434529.0
+75,,305,France,1427954.0
+75,,306,Ireland,6362.0
+75,,307,Italy,6179678.0
+75,,309,Netherlands,611591.0
+75,,312,Spain,788643.0
+75,,315,Austria,2034983.0
+75,,318,Finland,47622361.0
+75,,321,Hungary,42.0
+75,,326,Norway,7678475.0
+75,,327,Poland,37475.0
+75,,429,Mexico,234900.0
+75,,501,Canada,31559312.0
+76,,129,Philippines,775623.0
+76,,137,Türkiye,294084.0
+76,,138,United Arab Emirates,1331299.0
+76,,203,Benin,33614.0
+76,,244,South Africa,1770123.0
+76,,301,Belgium,7917021.0
+76,,305,France,11255848.0
+76,,306,Ireland,371111.0
+76,,307,Italy,6063035.0
+76,,309,Netherlands,6284162.0
+76,,310,Greece,426867.0
+76,,312,Spain,5030052.0
+76,,315,Austria,4176014.0
+76,,316,Bulgaria,16093.0
+76,,318,Finland,308024.0
+76,,321,Hungary,400862.0
+76,,326,Norway,1637024.0
+76,,327,Poland,493965.0
+76,,336,Lithuania,15914.0
+76,,350,Slovenia,1434032.0
+76,,410,Brazil,200664.0
+76,,415,Costa Rica,73522.0
+76,,429,Mexico,989011.0
+76,,431,Nicaragua,58586.0
+76,,501,Canada,22575770.0
+78,,124,Mongolia,32601.0
+78,,129,Philippines,304162.0
+78,,244,South Africa,953.0
+78,,301,Belgium,901.0
+78,,305,France,727.0
+78,,307,Italy,718486.0
+78,,309,Netherlands,1794.0
+78,,327,Poland,66857.0
+78,,429,Mexico,401.0
+78,,501,Canada,1912739.0
+79,,129,Philippines,43123.0
+79,,137,Türkiye,5122.0
+79,,138,United Arab Emirates,69889.0
+79,,301,Belgium,121297.0
+79,,305,France,399542.0
+79,,306,Ireland,174.0
+79,,307,Italy,689420.0
+79,,309,Netherlands,907098.0
+79,,310,Greece,884.0
+79,,312,Spain,921480.0
+79,,315,Austria,371329.0
+79,,321,Hungary,6272.0
+79,,326,Norway,221.0
+79,,327,Poland,39075.0
+79,,350,Slovenia,417124.0
+79,,410,Brazil,3564655.0
+79,,429,Mexico,1694331.0
+79,,501,Canada,4566267.0
+80,,109,Democratic People's Republic of Korea,33966.0
+80,,129,Philippines,22536.0
+80,,137,Türkiye,446.0
+80,,138,United Arab Emirates,389.0
+80,,244,South Africa,4454.0
+80,,305,France,46718.0
+80,,307,Italy,8389.0
+80,,309,Netherlands,39298.0
+80,,310,Greece,98.0
+80,,312,Spain,12371.0
+80,,315,Austria,2947.0
+80,,321,Hungary,175.0
+80,,350,Slovenia,1981.0
+80,,410,Brazil,5198.0
+80,,429,Mexico,20077.0
+80,,501,Canada,35631.0
+81,,137,Türkiye,390673.0
+81,,244,South Africa,3145656.0
+81,,252,Democratic Republic of Congo,293743121.0
+81,,301,Belgium,1571853.0
+81,,305,France,3609306.0
+81,,306,Ireland,1628750.0
+81,,307,Italy,453375.0
+81,,309,Netherlands,49450.0
+81,,312,Spain,835817.0
+81,,315,Austria,2573927.0
+81,,316,Bulgaria,128574.0
+81,,318,Finland,574400.0
+81,,321,Hungary,2946.0
+81,,326,Norway,381783.0
+81,,327,Poland,1401889.0
+81,,410,Brazil,979856.0
+81,,429,Mexico,247594.0
+81,,501,Canada,1786174.0
+82,,127,Pakistan,349236.0
+82,,129,Philippines,120305.0
+82,,137,Türkiye,397607.0
+82,,138,United Arab Emirates,1380.0
+82,,224,Kenya,5.0
+82,,244,South Africa,4401.0
+82,,301,Belgium,171885.0
+82,,305,France,3629630.0
+82,,306,Ireland,1085111.0
+82,,307,Italy,7572079.0
+82,,309,Netherlands,1040518.0
+82,,310,Greece,40251.0
+82,,312,Spain,3710596.0
+82,,315,Austria,3231280.0
+82,,316,Bulgaria,63164.0
+82,,318,Finland,115559.0
+82,,321,Hungary,168405.0
+82,,326,Norway,772132.0
+82,,327,Poland,953444.0
+82,,336,Lithuania,867.0
+82,,340,Belarus,1336.0
+82,,350,Slovenia,118237.0
+82,,410,Brazil,658648.0
+82,,429,Mexico,708231.0
+82,,501,Canada,1212342.0
+83,,108,Cyprus,6.0
+83,,109,Democratic People's Republic of Korea,43354.0
+83,,123,Maldives,118.0
+83,,127,Pakistan,4751.0
+83,,129,Philippines,437075.0
+83,,137,Türkiye,486799.0
+83,,138,United Arab Emirates,12.0
+83,,244,South Africa,728.0
+83,,255,Lesotho,110.0
+83,,301,Belgium,351516.0
+83,,305,France,3374294.0
+83,,306,Ireland,71018.0
+83,,307,Italy,8431136.0
+83,,309,Netherlands,596006.0
+83,,310,Greece,10082.0
+83,,312,Spain,3646497.0
+83,,315,Austria,12782168.0
+83,,316,Bulgaria,595692.0
+83,,318,Finland,73833.0
+83,,321,Hungary,986549.0
+83,,326,Norway,81644.0
+83,,327,Poland,696979.0
+83,,336,Lithuania,3660.0
+83,,350,Slovenia,1757786.0
+83,,410,Brazil,84330.0
+83,,429,Mexico,1966388.0
+83,,501,Canada,1296251.0
+84,,108,Cyprus,5810.0
+84,,127,Pakistan,80830.0
+84,,129,Philippines,243403289.0
+84,,137,Türkiye,27184142.0
+84,,138,United Arab Emirates,2991206.0
+84,,209,Central African Republic,823.0
+84,,244,South Africa,904440.0
+84,,254,Zimbabwe,2000.0
+84,,301,Belgium,94610791.0
+84,,305,France,353601593.0
+84,,306,Ireland,22036825.0
+84,,307,Italy,466784285.0
+84,,309,Netherlands,209408367.0
+84,,310,Greece,1452697.0
+84,,312,Spain,58376719.0
+84,,314,Andorra,891.0
+84,,315,Austria,125946145.0
+84,,316,Bulgaria,5357582.0
+84,,318,Finland,51618992.0
+84,,321,Hungary,54589203.0
+84,,326,Norway,22510908.0
+84,,327,Poland,38883953.0
+84,,336,Lithuania,1511437.0
+84,,340,Belarus,177723.0
+84,,350,Slovenia,8139114.0
+84,,359,Montenegro,84560.0
+84,,406,Belize,511.0
+84,,408,Bolivia,596.0
+84,,410,Brazil,11395049.0
+84,,415,Costa Rica,14846.0
+84,,429,Mexico,53539694.0
+84,,435,Puerto Rico,533460.0
+84,,442,Trinidad and Tobago,83.0
+84,,501,Canada,69569708.0
+84,,621,Marshall Islands,41088.0
+85,,108,Cyprus,5709.0
+85,,123,Maldives,752.0
+85,,124,Mongolia,107.0
+85,,127,Pakistan,1322.0
+85,,129,Philippines,881158881.0
+85,,137,Türkiye,4831004.0
+85,,138,United Arab Emirates,1899075.0
+85,,208,Cabo Verde,1.0
+85,,219,Gambia,1022.0
+85,,220,Ghana,1050.0
+85,,224,Kenya,19609.0
+85,,233,Mozambique,2375.0
+85,,235,Niger,19836.0
+85,,239,Sao Tome and Principe,29628.0
+85,,244,South Africa,241832.0
+85,,255,Lesotho,297948.0
+85,,301,Belgium,78406970.0
+85,,305,France,156014464.0
+85,,306,Ireland,353241767.0
+85,,307,Italy,103948700.0
+85,,309,Netherlands,48906507.0
+85,,310,Greece,841442.0
+85,,312,Spain,52689279.0
+85,,313,Albania,5980.0
+85,,314,Andorra,1098.0
+85,,315,Austria,117193196.0
+85,,316,Bulgaria,6775602.0
+85,,318,Finland,32879759.0
+85,,321,Hungary,90687997.0
+85,,326,Norway,10309671.0
+85,,327,Poland,54673596.0
+85,,336,Lithuania,1663941.0
+85,,340,Belarus,515197.0
+85,,350,Slovenia,17639383.0
+85,,359,Montenegro,1857.0
+85,,405,Barbados,155873.0
+85,,410,Brazil,5739222.0
+85,,415,Costa Rica,19524518.0
+85,,429,Mexico,337281807.0
+85,,430,Montserrat,30.0
+85,,431,Nicaragua,59520.0
+85,,435,Puerto Rico,41497.0
+85,,448,Saint.Pierre and Miquelon,3.0
+85,,501,Canada,57341417.0
+86,,137,Türkiye,336368.0
+86,,301,Belgium,878901.0
+86,,305,France,2239942.0
+86,,307,Italy,7980573.0
+86,,309,Netherlands,633475.0
+86,,310,Greece,53.0
+86,,312,Spain,5686435.0
+86,,315,Austria,668450.0
+86,,316,Bulgaria,172632.0
+86,,318,Finland,2222.0
+86,,321,Hungary,3918589.0
+86,,327,Poland,261902.0
+86,,350,Slovenia,21315.0
+86,,501,Canada,1391.0
+87,,109,Democratic People's Republic of Korea,685.0
+87,,127,Pakistan,7991.0
+87,,129,Philippines,3680755.0
+87,,137,Türkiye,4502501.0
+87,,138,United Arab Emirates,181007.0
+87,,147,Tajikistan,104.0
+87,,244,South Africa,7686918.0
+87,,301,Belgium,55444089.0
+87,,305,France,107789089.0
+87,,306,Ireland,96034.0
+87,,307,Italy,113289313.0
+87,,309,Netherlands,19012223.0
+87,,310,Greece,22013.0
+87,,312,Spain,50895101.0
+87,,313,Albania,4248.0
+87,,315,Austria,57658222.0
+87,,316,Bulgaria,1233123.0
+87,,318,Finland,625741.0
+87,,321,Hungary,105133385.0
+87,,326,Norway,6131692.0
+87,,327,Poland,39885451.0
+87,,336,Lithuania,5190.0
+87,,340,Belarus,19072.0
+87,,350,Slovenia,4193553.0
+87,,410,Brazil,3164521.0
+87,,415,Costa Rica,140.0
+87,,429,Mexico,106098968.0
+87,,431,Nicaragua,9153.0
+87,,501,Canada,35693718.0
+88,,129,Philippines,320353.0
+88,,137,Türkiye,11138.0
+88,,138,United Arab Emirates,9100.0
+88,,244,South Africa,84510.0
+88,,301,Belgium,1753572.0
+88,,305,France,954689053.0
+88,,306,Ireland,3661.0
+88,,307,Italy,1710251.0
+88,,309,Netherlands,35638.0
+88,,312,Spain,3270543.0
+88,,315,Austria,1348702.0
+88,,321,Hungary,11396.0
+88,,327,Poland,270436.0
+88,,410,Brazil,52064.0
+88,,429,Mexico,1047120.0
+88,,501,Canada,45130758.0
+89,,305,France,1635393.0
+89,,307,Italy,1094166.0
+89,,326,Norway,71592.0
+89,,429,Mexico,3837801.0
+90,,109,Democratic People's Republic of Korea,1011983.0
+90,,127,Pakistan,1101519.0
+90,,129,Philippines,34795617.0
+90,,137,Türkiye,1858310.0
+90,,138,United Arab Emirates,17328.0
+90,,220,Ghana,948.0
+90,,227,Madagascar,10928.0
+90,,235,Niger,25721.0
+90,,241,Seychelles,4244.0
+90,,244,South Africa,606670.0
+90,,301,Belgium,7988938.0
+90,,305,France,104652458.0
+90,,306,Ireland,109484112.0
+90,,307,Italy,99174816.0
+90,,309,Netherlands,81071508.0
+90,,310,Greece,69448.0
+90,,312,Spain,20012873.0
+90,,313,Albania,543.0
+90,,314,Andorra,3789.0
+90,,315,Austria,52839274.0
+90,,316,Bulgaria,2604348.0
+90,,318,Finland,17311201.0
+90,,321,Hungary,38421501.0
+90,,326,Norway,7440107.0
+90,,327,Poland,10795841.0
+90,,336,Lithuania,3460822.0
+90,,340,Belarus,511342.0
+90,,350,Slovenia,1167130.0
+90,,405,Barbados,1362575.0
+90,,410,Brazil,2023931.0
+90,,415,Costa Rica,22069054.0
+90,,427,Jamaica,128.0
+90,,429,Mexico,138400082.0
+90,,435,Puerto Rico,597186.0
+90,,501,Canada,42157272.0
+90,,621,Marshall Islands,3903.0
+91,,109,Democratic People's Republic of Korea,748807.0
+91,,129,Philippines,744591.0
+91,,137,Türkiye,2361.0
+91,,211,Chad,177.0
+91,,227,Madagascar,878.0
+91,,244,South Africa,207.0
+91,,301,Belgium,2784.0
+91,,305,France,1008661.0
+91,,307,Italy,331510.0
+91,,309,Netherlands,1636.0
+91,,312,Spain,10099.0
+91,,315,Austria,129278.0
+91,,316,Bulgaria,188.0
+91,,318,Finland,718.0
+91,,321,Hungary,46167.0
+91,,327,Poland,2241.0
+91,,336,Lithuania,57265.0
+91,,340,Belarus,174831.0
+91,,350,Slovenia,9705.0
+91,,429,Mexico,57234.0
+92,,109,Democratic People's Republic of Korea,6090.0
+92,,127,Pakistan,2002.0
+92,,129,Philippines,4583.0
+92,,137,Türkiye,36051.0
+92,,220,Ghana,8525.0
+92,,227,Madagascar,14.0
+92,,233,Mozambique,1163.0
+92,,301,Belgium,24.0
+92,,305,France,180404.0
+92,,307,Italy,424501.0
+92,,309,Netherlands,63550.0
+92,,312,Spain,13584.0
+92,,315,Austria,19276.0
+92,,316,Bulgaria,2533.0
+92,,318,Finland,612.0
+92,,321,Hungary,10050.0
+92,,327,Poland,33038.0
+92,,350,Slovenia,3738.0
+92,,429,Mexico,255147.0
+92,,501,Canada,204261.0
+93,,307,Italy,317801.0
+93,,410,Brazil,5762.0
+94,,108,Cyprus,609.0
+94,,124,Mongolia,4620.0
+94,,127,Pakistan,33963.0
+94,,129,Philippines,640756.0
+94,,137,Türkiye,1810342.0
+94,,138,United Arab Emirates,61934.0
+94,,224,Kenya,201.0
+94,,227,Madagascar,40.0
+94,,244,South Africa,125065.0
+94,,301,Belgium,910505.0
+94,,305,France,7872290.0
+94,,306,Ireland,37753.0
+94,,307,Italy,44386235.0
+94,,309,Netherlands,1368615.0
+94,,310,Greece,34557.0
+94,,312,Spain,2373866.0
+94,,315,Austria,2215060.0
+94,,316,Bulgaria,549180.0
+94,,318,Finland,843089.0
+94,,321,Hungary,3314733.0
+94,,326,Norway,2446653.0
+94,,327,Poland,18344908.0
+94,,336,Lithuania,5459293.0
+94,,340,Belarus,359314.0
+94,,350,Slovenia,746176.0
+94,,410,Brazil,986121.0
+94,,415,Costa Rica,58.0
+94,,429,Mexico,4623511.0
+94,,501,Canada,3074222.0
+95,,109,Democratic People's Republic of Korea,257923.0
+95,,127,Pakistan,683284.0
+95,,129,Philippines,1699220.0
+95,,137,Türkiye,559539.0
+95,,138,United Arab Emirates,434.0
+95,,244,South Africa,396.0
+95,,301,Belgium,44228.0
+95,,305,France,535971.0
+95,,307,Italy,7175536.0
+95,,309,Netherlands,3367966.0
+95,,310,Greece,23.0
+95,,312,Spain,1325166.0
+95,,315,Austria,691085.0
+95,,318,Finland,559616.0
+95,,321,Hungary,6733779.0
+95,,326,Norway,10707.0
+95,,327,Poland,3155117.0
+95,,336,Lithuania,35118.0
+95,,350,Slovenia,28596.0
+95,,410,Brazil,23122.0
+95,,429,Mexico,980530.0
+95,,501,Canada,1526668.0
+96,,123,Maldives,550.0
+96,,129,Philippines,914599.0
+96,,137,Türkiye,89418.0
+96,,138,United Arab Emirates,2160.0
+96,,227,Madagascar,2496.0
+96,,244,South Africa,291.0
+96,,301,Belgium,15588.0
+96,,305,France,2520802.0
+96,,306,Ireland,192716.0
+96,,307,Italy,3089227.0
+96,,309,Netherlands,157071.0
+96,,310,Greece,1072.0
+96,,312,Spain,256818.0
+96,,315,Austria,353776.0
+96,,316,Bulgaria,10340.0
+96,,318,Finland,230452.0
+96,,321,Hungary,2857999.0
+96,,326,Norway,4982.0
+96,,327,Poland,1104929.0
+96,,336,Lithuania,32027.0
+96,,340,Belarus,3240.0
+96,,350,Slovenia,567091.0
+96,,410,Brazil,179656.0
+96,,415,Costa Rica,12025.0
+96,,429,Mexico,243133.0
+96,,501,Canada,1691471.0
+97,,138,United Arab Emirates,815.0
+97,,224,Kenya,12452.0
+97,,244,South Africa,27884.0
+97,,301,Belgium,12771.0
+97,,305,France,169519.0
+97,,307,Italy,160173.0
+97,,309,Netherlands,5018.0
+97,,312,Spain,19289.0
+97,,315,Austria,89278.0
+97,,321,Hungary,17605.0
+97,,501,Canada,74155.0
+98,,108,Cyprus,7640.0
+98,,109,Democratic People's Republic of Korea,410783.0
+98,,118,Kuwait,35282.0
+98,,123,Maldives,886.0
+98,,124,Mongolia,2206077.0
+98,,127,Pakistan,170567.0
+98,,129,Philippines,434800.0
+98,,137,Türkiye,673017.0
+98,,138,United Arab Emirates,354509.0
+98,,203,Benin,942.0
+98,,207,Canary Islands,1169.0
+98,,208,Cabo Verde,72.0
+98,,209,Central African Republic,194.0
+98,,211,Chad,850.0
+98,,213,Congo,590.0
+98,,219,Gambia,409.0
+98,,220,Ghana,5933.0
+98,,222,Guinea-Bissau,23.0
+98,,224,Kenya,32102.0
+98,,227,Madagascar,11083.0
+98,,233,Mozambique,1260.0
+98,,235,Niger,328.0
+98,,241,Seychelles,97.0
+98,,244,South Africa,58684.0
+98,,250,Uganda,1419.0
+98,,252,Democratic Republic of Congo,381.0
+98,,254,Zimbabwe,4514.0
+98,,255,Lesotho,818.0
+98,,258,Eritrea,56.0
+98,,301,Belgium,396566.0
+98,,305,France,7282384.0
+98,,306,Ireland,176179.0
+98,,307,Italy,6112121.0
+98,,309,Netherlands,6605841.0
+98,,310,Greece,83086.0
+98,,312,Spain,1997053.0
+98,,313,Albania,20974.0
+98,,314,Andorra,586.0
+98,,315,Austria,957266.0
+98,,316,Bulgaria,98669.0
+98,,318,Finland,143355.0
+98,,320,Gibraltar,5.0
+98,,321,Hungary,258440.0
+98,,326,Norway,98356.0
+98,,327,Poland,483421.0
+98,,336,Lithuania,31519.0
+98,,339,Azerbai jan,265.0
+98,,340,Belarus,19187.0
+98,,350,Slovenia,49176.0
+98,,356,Holy See,2.0
+98,,357,Faroe Islands,16.0
+98,,359,Montenegro,744.0
+98,,404,Bahamas,234.0
+98,,405,Barbados,161.0
+98,,406,Belize,64.0
+98,,408,Bolivia,4086.0
+98,,410,Brazil,343639.0
+98,,415,Costa Rica,14870.0
+98,,422,Guadeloupe,1061.0
+98,,427,Jamaica,2550.0
+98,,429,Mexico,459072.0
+98,,431,Nicaragua,18562.0
+98,,435,Puerto Rico,5050.0
+98,,442,Trinidad and Tobago,2542.0
+98,,444,Uruguay,7927.0
+98,,446,British Virgin Islands,102.0
+98,,501,Canada,4479472.0
+98,,503,Greenland,21086.0
+98,,614,Tonga,47.0
+98,,617,Samoa,23.0
+98,,621,Marshall Islands,12.0
