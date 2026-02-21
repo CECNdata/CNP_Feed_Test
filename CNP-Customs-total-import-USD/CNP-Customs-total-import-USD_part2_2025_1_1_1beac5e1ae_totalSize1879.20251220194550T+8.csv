@@ -1,0 +1,1880 @@
+Commodity code,Commodity,Trading partner code,Trading partner,US dollar
+1,Live animals,302,Denmark,8856.0
+1,Live animals,331,Switzerland,967.0
+2,Meat and edible meat offal,302,Denmark,28571306.0
+2,Meat and edible meat offal,311,Portugal,884292.0
+2,Meat and edible meat offal,331,Switzerland,1017165.0
+2,Meat and edible meat offal,347,Ukraine,1897348.0
+2,Meat and edible meat offal,402,Argentina,193289810.0
+2,Meat and edible meat offal,412,Chile,35889048.0
+2,Meat and edible meat offal,413,Colombia,19532146.0
+2,Meat and edible meat offal,432,Panama,271700.0
+2,Meat and edible meat offal,609,New Zealand,138083846.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",103,Bangladesh,6997086.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",105,Brunei,187295.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",106,Myanmar,20869611.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",107,Cambodia,153119.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",131,Saudi Arabia,12238512.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",134,Sri Lanka,574789.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",247,Tanzania,3473346.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",302,Denmark,2716169.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",311,Portugal,2408792.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",322,Iceland,9587081.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",334,Estonia,1001239.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",335,Latvia,279753.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",402,Argentina,9080951.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",412,Chile,60182989.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",413,Colombia,64866.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",419,Ecuador,273315116.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",432,Panama,5687.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",434,Peru,2210767.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",445,Venezuela,1711433.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",609,New Zealand,32300293.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",611,Papua New Guinea,1553954.0
+4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",146,Kyrgyzstan,492030.0
+4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",302,Denmark,4678102.0
+4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",311,Portugal,50.0
+4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",330,Sweden,72191.0
+4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",331,Switzerland,912702.0
+4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",347,Ukraine,118146.0
+4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",352,Czechia（Czech Republic）,70082.0
+4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",402,Argentina,2532654.0
+4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",412,Chile,408750.0
+4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",609,New Zealand,499393787.0
+5,"roducts of animal origin,not elsewhere specified or included",103,Bangladesh,100033.0
+5,"roducts of animal origin,not elsewhere specified or included",106,Myanmar,198267.0
+5,"roducts of animal origin,not elsewhere specified or included",114,Iraq,50618.0
+5,"roducts of animal origin,not elsewhere specified or included",134,Sri Lanka,1727.0
+5,"roducts of animal origin,not elsewhere specified or included",215,Egypt,78738.0
+5,"roducts of animal origin,not elsewhere specified or included",232,Morocco,25868.0
+5,"roducts of animal origin,not elsewhere specified or included",236,Nigeria,675083.0
+5,"roducts of animal origin,not elsewhere specified or included",247,Tanzania,93995.0
+5,"roducts of animal origin,not elsewhere specified or included",302,Denmark,3485976.0
+5,"roducts of animal origin,not elsewhere specified or included",347,Ukraine,460848.0
+5,"roducts of animal origin,not elsewhere specified or included",352,Czechia（Czech Republic）,1454427.0
+5,"roducts of animal origin,not elsewhere specified or included",419,Ecuador,22818.0
+5,"roducts of animal origin,not elsewhere specified or included",609,New Zealand,16166118.0
+6,"Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",115,Israel,14983.0
+6,"Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",247,Tanzania,28202.0
+6,"Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",311,Portugal,74731.0
+6,"Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",412,Chile,284085.0
+6,"Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",413,Colombia,520594.0
+6,"Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",419,Ecuador,310179.0
+6,"Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",609,New Zealand,22960.0
+7,Edible vegetables and certain roots and tubers,106,Myanmar,12483240.0
+7,Edible vegetables and certain roots and tubers,107,Cambodia,76309.0
+7,Edible vegetables and certain roots and tubers,412,Chile,28174.0
+7,Edible vegetables and certain roots and tubers,609,New Zealand,4204475.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,101,Afghanistan,6177759.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,106,Myanmar,2747133.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,107,Cambodia,19560578.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,131,Saudi Arabia,1013518.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,134,Sri Lanka,46302.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,215,Egypt,1108928.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,247,Tanzania,556018.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,330,Sweden,314077.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,347,Ukraine,709228.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,402,Argentina,3673407.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,412,Chile,1752523179.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,419,Ecuador,15307263.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,434,Peru,52726977.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,609,New Zealand,12191210.0
+9,"Coffee, tea, maté and spices",106,Myanmar,287288.0
+9,"Coffee, tea, maté and spices",121,"Macao,China",2781.0
+9,"Coffee, tea, maté and spices",134,Sri Lanka,4087257.0
+9,"Coffee, tea, maté and spices",215,Egypt,87.0
+9,"Coffee, tea, maté and spices",228,Malawi,305.0
+9,"Coffee, tea, maté and spices",232,Morocco,14643.0
+9,"Coffee, tea, maté and spices",238,Rwanda,642442.0
+9,"Coffee, tea, maté and spices",247,Tanzania,1460670.0
+9,"Coffee, tea, maté and spices",302,Denmark,1171.0
+9,"Coffee, tea, maté and spices",311,Portugal,101425.0
+9,"Coffee, tea, maté and spices",330,Sweden,10427.0
+9,"Coffee, tea, maté and spices",331,Switzerland,2331886.0
+9,"Coffee, tea, maté and spices",413,Colombia,12655663.0
+9,"Coffee, tea, maté and spices",416,Cuba,478.0
+9,"Coffee, tea, maté and spices",419,Ecuador,13675.0
+9,"Coffee, tea, maté and spices",426,Honduras,346.0
+9,"Coffee, tea, maté and spices",432,Panama,50160.0
+9,"Coffee, tea, maté and spices",434,Peru,629067.0
+9,"Coffee, tea, maté and spices",609,New Zealand,7618.0
+9,"Coffee, tea, maté and spices",611,Papua New Guinea,1214846.0
+10,Cereals,106,Myanmar,36589446.0
+10,Cereals,107,Cambodia,1433560.0
+10,Cereals,302,Denmark,1612675.0
+10,Cereals,347,Ukraine,1463508.0
+10,Cereals,352,Czechia（Czech Republic）,658.0
+10,Cereals,402,Argentina,43600010.0
+10,Cereals,434,Peru,816370.0
+11,Products of the milling industry;malt;starches; inulin; wheat gluten,107,Cambodia,1919836.0
+11,Products of the milling industry;malt;starches; inulin; wheat gluten,302,Denmark,1414809.0
+11,Products of the milling industry;malt;starches; inulin; wheat gluten,334,Estonia,4352.0
+11,Products of the milling industry;malt;starches; inulin; wheat gluten,412,Chile,488825.0
+11,Products of the milling industry;malt;starches; inulin; wheat gluten,434,Peru,556.0
+11,Products of the milling industry;malt;starches; inulin; wheat gluten,609,New Zealand,30500.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",103,Bangladesh,753289.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",106,Myanmar,48967202.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",115,Israel,545537.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",134,Sri Lanka,25043.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",215,Egypt,18412.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",232,Morocco,50767.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",236,Nigeria,569059.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",246,Sudan,11777316.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",247,Tanzania,4340421.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",248,Togo,2690224.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",302,Denmark,895591.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",328,Romania,346099.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",352,Czechia（Czech Republic）,3430557.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",402,Argentina,52477243.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",412,Chile,13916549.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",423,Guatemala,393095.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",434,Peru,2269671.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",603,Fiji,177118.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",608,Vanuatu,128052.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",609,New Zealand,576893.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",613,Solomon Islands,193623.0
+13,"Lac; gums, resins and other vegetable saps and extracts",106,Myanmar,737558.0
+13,"Lac; gums, resins and other vegetable saps and extracts",115,Israel,64474.0
+13,"Lac; gums, resins and other vegetable saps and extracts",246,Sudan,27081.0
+13,"Lac; gums, resins and other vegetable saps and extracts",247,Tanzania,162238.0
+13,"Lac; gums, resins and other vegetable saps and extracts",302,Denmark,766322.0
+13,"Lac; gums, resins and other vegetable saps and extracts",325,Monaco,1852.0
+13,"Lac; gums, resins and other vegetable saps and extracts",331,Switzerland,193887.0
+13,"Lac; gums, resins and other vegetable saps and extracts",352,Czechia（Czech Republic）,561479.0
+13,"Lac; gums, resins and other vegetable saps and extracts",402,Argentina,547398.0
+13,"Lac; gums, resins and other vegetable saps and extracts",412,Chile,612641.0
+13,"Lac; gums, resins and other vegetable saps and extracts",434,Peru,215417.0
+13,"Lac; gums, resins and other vegetable saps and extracts",608,Vanuatu,63936.0
+14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,101,Afghanistan,24415.0
+14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,106,Myanmar,63631.0
+14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,134,Sri Lanka,937741.0
+14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,247,Tanzania,232704.0
+14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,412,Chile,225083.0
+14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,434,Peru,2673177.0
+14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,609,New Zealand,18824.0
+14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,613,Solomon Islands,34907.0
+15,"Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats;animal or vegetable waxes",101,Afghanistan,72.0
+15,"Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats;animal or vegetable waxes",103,Bangladesh,97090.0
+15,"Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats;animal or vegetable waxes",106,Myanmar,612438.0
+15,"Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats;animal or vegetable waxes",115,Israel,16346.0
+15,"Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats;animal or vegetable waxes",134,Sri Lanka,131227.0
+15,"Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats;animal or vegetable waxes",215,Egypt,38.0
+15,"Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats;animal or vegetable waxes",232,Morocco,44860.0
+15,"Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats;animal or vegetable waxes",302,Denmark,56616.0
+15,"Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats;animal or vegetable waxes",311,Portugal,197362.0
+15,"Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats;animal or vegetable waxes",330,Sweden,1734175.0
+15,"Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats;animal or vegetable waxes",331,Switzerland,1031680.0
+15,"Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats;animal or vegetable waxes",347,Ukraine,11817055.0
+15,"Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats;animal or vegetable waxes",352,Czechia（Czech Republic）,797.0
+15,"Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats;animal or vegetable waxes",402,Argentina,14555817.0
+15,"Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats;animal or vegetable waxes",412,Chile,893588.0
+15,"Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats;animal or vegetable waxes",413,Colombia,834166.0
+15,"Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats;animal or vegetable waxes",432,Panama,144.0
+15,"Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats;animal or vegetable waxes",433,Paraguay,224112.0
+15,"Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats;animal or vegetable waxes",434,Peru,2501097.0
+15,"Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats;animal or vegetable waxes",609,New Zealand,2125611.0
+16,"Preparations of meat, of fish, crustaceans, molluscs or other aquatic invertebrates, or of insects",106,Myanmar,119800.0
+16,"Preparations of meat, of fish, crustaceans, molluscs or other aquatic invertebrates, or of insects",134,Sri Lanka,163931.0
+16,"Preparations of meat, of fish, crustaceans, molluscs or other aquatic invertebrates, or of insects",302,Denmark,362835.0
+16,"Preparations of meat, of fish, crustaceans, molluscs or other aquatic invertebrates, or of insects",311,Portugal,9.0
+16,"Preparations of meat, of fish, crustaceans, molluscs or other aquatic invertebrates, or of insects",322,Iceland,599760.0
+16,"Preparations of meat, of fish, crustaceans, molluscs or other aquatic invertebrates, or of insects",335,Latvia,23375.0
+16,"Preparations of meat, of fish, crustaceans, molluscs or other aquatic invertebrates, or of insects",412,Chile,152230.0
+16,"Preparations of meat, of fish, crustaceans, molluscs or other aquatic invertebrates, or of insects",434,Peru,240605.0
+16,"Preparations of meat, of fish, crustaceans, molluscs or other aquatic invertebrates, or of insects",609,New Zealand,78800.0
+17,Sugars and sugar confectionery,106,Myanmar,2797.0
+17,Sugars and sugar confectionery,115,Israel,31250.0
+17,Sugars and sugar confectionery,117,Jordan,1656.0
+17,Sugars and sugar confectionery,121,"Macao,China",5145.0
+17,Sugars and sugar confectionery,131,Saudi Arabia,126.0
+17,Sugars and sugar confectionery,134,Sri Lanka,85.0
+17,Sugars and sugar confectionery,201,Algeria,36.0
+17,Sugars and sugar confectionery,302,Denmark,388582.0
+17,Sugars and sugar confectionery,311,Portugal,1317.0
+17,Sugars and sugar confectionery,330,Sweden,336.0
+17,Sugars and sugar confectionery,331,Switzerland,205550.0
+17,Sugars and sugar confectionery,347,Ukraine,411000.0
+17,Sugars and sugar confectionery,352,Czechia（Czech Republic）,1814.0
+17,Sugars and sugar confectionery,402,Argentina,42917.0
+17,Sugars and sugar confectionery,412,Chile,216128.0
+17,Sugars and sugar confectionery,609,New Zealand,2314037.0
+18,Cocoa and cocoa preparations,107,Cambodia,983141.0
+18,Cocoa and cocoa preparations,236,Nigeria,402417.0
+18,Cocoa and cocoa preparations,247,Tanzania,64092.0
+18,Cocoa and cocoa preparations,248,Togo,3245768.0
+18,Cocoa and cocoa preparations,302,Denmark,574.0
+18,Cocoa and cocoa preparations,311,Portugal,7618.0
+18,Cocoa and cocoa preparations,328,Romania,6082.0
+18,Cocoa and cocoa preparations,329,San Marino,19.0
+18,Cocoa and cocoa preparations,330,Sweden,10640.0
+18,Cocoa and cocoa preparations,331,Switzerland,4791593.0
+18,Cocoa and cocoa preparations,334,Estonia,1359626.0
+18,Cocoa and cocoa preparations,352,Czechia（Czech Republic）,7068.0
+18,Cocoa and cocoa preparations,353,Slovakia,115.0
+18,Cocoa and cocoa preparations,413,Colombia,8761.0
+18,Cocoa and cocoa preparations,418,Dominican Republic,9.0
+18,Cocoa and cocoa preparations,419,Ecuador,130118.0
+18,Cocoa and cocoa preparations,434,Peru,1602.0
+18,Cocoa and cocoa preparations,609,New Zealand,134494.0
+18,Cocoa and cocoa preparations,611,Papua New Guinea,337500.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",103,Bangladesh,254228.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",106,Myanmar,103806.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",107,Cambodia,77520.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",115,Israel,16.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",117,Jordan,869.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",121,"Macao,China",104274.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",131,Saudi Arabia,40227.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",134,Sri Lanka,11730.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",215,Egypt,2207.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",302,Denmark,9111914.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",311,Portugal,32422.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",330,Sweden,489858.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",331,Switzerland,4318705.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",335,Latvia,31675.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",352,Czechia（Czech Republic）,805.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",412,Chile,79919.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",423,Guatemala,267.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",609,New Zealand,118606319.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",106,Myanmar,3898.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",107,Cambodia,12781293.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",115,Israel,9729841.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",117,Jordan,34677.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",121,"Macao,China",7.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",134,Sri Lanka,24956.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",302,Denmark,36435.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",311,Portugal,19.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",329,San Marino,68.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",330,Sweden,12943.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",331,Switzerland,74.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",353,Slovakia,44865.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",402,Argentina,586384.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",412,Chile,3898257.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",413,Colombia,102227.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",419,Ecuador,266029.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",434,Peru,101089.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",609,New Zealand,845530.0
+21,Miscellaneous edible preparations,106,Myanmar,150733.0
+21,Miscellaneous edible preparations,115,Israel,1588185.0
+21,Miscellaneous edible preparations,117,Jordan,35016.0
+21,Miscellaneous edible preparations,121,"Macao,China",534822.0
+21,Miscellaneous edible preparations,131,Saudi Arabia,11692.0
+21,Miscellaneous edible preparations,134,Sri Lanka,199465.0
+21,Miscellaneous edible preparations,201,Algeria,22.0
+21,Miscellaneous edible preparations,215,Egypt,51.0
+21,Miscellaneous edible preparations,232,Morocco,7233.0
+21,Miscellaneous edible preparations,257,Swaziland,46.0
+21,Miscellaneous edible preparations,302,Denmark,823253.0
+21,Miscellaneous edible preparations,311,Portugal,711.0
+21,Miscellaneous edible preparations,322,Iceland,19.0
+21,Miscellaneous edible preparations,328,Romania,19009.0
+21,Miscellaneous edible preparations,329,San Marino,64084.0
+21,Miscellaneous edible preparations,330,Sweden,3905445.0
+21,Miscellaneous edible preparations,331,Switzerland,4977409.0
+21,Miscellaneous edible preparations,334,Estonia,25511.0
+21,Miscellaneous edible preparations,335,Latvia,17421.0
+21,Miscellaneous edible preparations,347,Ukraine,91860.0
+21,Miscellaneous edible preparations,352,Czechia（Czech Republic）,363196.0
+21,Miscellaneous edible preparations,353,Slovakia,383.0
+21,Miscellaneous edible preparations,402,Argentina,11.0
+21,Miscellaneous edible preparations,412,Chile,13927.0
+21,Miscellaneous edible preparations,413,Colombia,409794.0
+21,Miscellaneous edible preparations,419,Ecuador,216192.0
+21,Miscellaneous edible preparations,432,Panama,568.0
+21,Miscellaneous edible preparations,433,Paraguay,15.0
+21,Miscellaneous edible preparations,434,Peru,23959.0
+21,Miscellaneous edible preparations,603,Fiji,2888.0
+21,Miscellaneous edible preparations,609,New Zealand,25284328.0
+22,"Beverages, spirits and vinegar",103,Bangladesh,26.0
+22,"Beverages, spirits and vinegar",106,Myanmar,126104.0
+22,"Beverages, spirits and vinegar",107,Cambodia,48199.0
+22,"Beverages, spirits and vinegar",114,Iraq,163.0
+22,"Beverages, spirits and vinegar",115,Israel,75.0
+22,"Beverages, spirits and vinegar",117,Jordan,662.0
+22,"Beverages, spirits and vinegar",121,"Macao,China",45620.0
+22,"Beverages, spirits and vinegar",130,Qatar,61.0
+22,"Beverages, spirits and vinegar",131,Saudi Arabia,19681.0
+22,"Beverages, spirits and vinegar",134,Sri Lanka,12.0
+22,"Beverages, spirits and vinegar",201,Algeria,64.0
+22,"Beverages, spirits and vinegar",215,Egypt,25489.0
+22,"Beverages, spirits and vinegar",226,Libya,34.0
+22,"Beverages, spirits and vinegar",232,Morocco,56.0
+22,"Beverages, spirits and vinegar",247,Tanzania,31682.0
+22,"Beverages, spirits and vinegar",302,Denmark,1100869.0
+22,"Beverages, spirits and vinegar",311,Portugal,1722496.0
+22,"Beverages, spirits and vinegar",322,Iceland,112.0
+22,"Beverages, spirits and vinegar",328,Romania,140108.0
+22,"Beverages, spirits and vinegar",330,Sweden,1503340.0
+22,"Beverages, spirits and vinegar",331,Switzerland,93453.0
+22,"Beverages, spirits and vinegar",334,Estonia,174378.0
+22,"Beverages, spirits and vinegar",335,Latvia,85477.0
+22,"Beverages, spirits and vinegar",343,Moldova,504157.0
+22,"Beverages, spirits and vinegar",347,Ukraine,15246.0
+22,"Beverages, spirits and vinegar",352,Czechia（Czech Republic）,124696.0
+22,"Beverages, spirits and vinegar",353,Slovakia,51118.0
+22,"Beverages, spirits and vinegar",355,Bosnia and Herzegovina,41049.0
+22,"Beverages, spirits and vinegar",402,Argentina,556345.0
+22,"Beverages, spirits and vinegar",412,Chile,14576345.0
+22,"Beverages, spirits and vinegar",413,Colombia,14662.0
+22,"Beverages, spirits and vinegar",416,Cuba,156618.0
+22,"Beverages, spirits and vinegar",418,Dominican Republic,33752.0
+22,"Beverages, spirits and vinegar",432,Panama,414764.0
+22,"Beverages, spirits and vinegar",434,Peru,97.0
+22,"Beverages, spirits and vinegar",504,Bermuda,280.0
+22,"Beverages, spirits and vinegar",603,Fiji,293947.0
+22,"Beverages, spirits and vinegar",609,New Zealand,7924776.0
+23,Residues and waste from the food industries; prepared animal fodder,106,Myanmar,1862402.0
+23,Residues and waste from the food industries; prepared animal fodder,107,Cambodia,141474.0
+23,Residues and waste from the food industries; prepared animal fodder,134,Sri Lanka,5755.0
+23,Residues and waste from the food industries; prepared animal fodder,302,Denmark,2081130.0
+23,Residues and waste from the food industries; prepared animal fodder,331,Switzerland,22565.0
+23,Residues and waste from the food industries; prepared animal fodder,347,Ukraine,37020523.0
+23,Residues and waste from the food industries; prepared animal fodder,352,Czechia（Czech Republic）,324970.0
+23,Residues and waste from the food industries; prepared animal fodder,402,Argentina,1008917.0
+23,Residues and waste from the food industries; prepared animal fodder,412,Chile,5591708.0
+23,Residues and waste from the food industries; prepared animal fodder,419,Ecuador,1769118.0
+23,Residues and waste from the food industries; prepared animal fodder,432,Panama,1721319.0
+23,Residues and waste from the food industries; prepared animal fodder,434,Peru,32756721.0
+23,Residues and waste from the food industries; prepared animal fodder,609,New Zealand,2611528.0
+24,"Tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body",107,Cambodia,495672.0
+24,"Tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body",117,Jordan,3035051.0
+24,"Tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body",121,"Macao,China",2067739.0
+24,"Tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body",302,Denmark,402391.0
+24,"Tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body",330,Sweden,31808.0
+24,"Tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body",331,Switzerland,28009.0
+24,"Tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body",402,Argentina,28834979.0
+24,"Tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body",416,Cuba,1863537.0
+24,"Tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body",418,Dominican Republic,3899150.0
+24,"Tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body",419,Ecuador,618.0
+24,"Tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body",426,Honduras,94608.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",101,Afghanistan,29075.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",106,Myanmar,3907144.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",107,Cambodia,10702957.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",115,Israel,621.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",117,Jordan,4592181.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",130,Qatar,9458313.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",131,Saudi Arabia,10156237.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",134,Sri Lanka,294957.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",201,Algeria,11256.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",215,Egypt,3500250.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",228,Malawi,5105.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",232,Morocco,1626446.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",236,Nigeria,16990765.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",238,Rwanda,133223.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",247,Tanzania,2977841.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",253,Zambia,3376699.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",302,Denmark,567133.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",311,Portugal,5856903.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",323,Liechtenstein,810.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",330,Sweden,22815.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",331,Switzerland,6465.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",335,Latvia,70932.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",347,Ukraine,807404.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",352,Czechia（Czech Republic）,5039.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",354,North Macedonia,2765310.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",402,Argentina,78895.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",413,Colombia,71362.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",416,Cuba,8485.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",418,Dominican Republic,9271.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",419,Ecuador,750.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",426,Honduras,30.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",434,Peru,6517322.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",609,New Zealand,64148.0
+26,"Ores, slag and ash",101,Afghanistan,107927.0
+26,"Ores, slag and ash",106,Myanmar,38371630.0
+26,"Ores, slag and ash",131,Saudi Arabia,85918464.0
+26,"Ores, slag and ash",134,Sri Lanka,32809.0
+26,"Ores, slag and ash",146,Kyrgyzstan,23463837.0
+26,"Ores, slag and ash",215,Egypt,6002740.0
+26,"Ores, slag and ash",232,Morocco,9898180.0
+26,"Ores, slag and ash",236,Nigeria,61282731.0
+26,"Ores, slag and ash",238,Rwanda,13639982.0
+26,"Ores, slag and ash",246,Sudan,48230.0
+26,"Ores, slag and ash",247,Tanzania,7547884.0
+26,"Ores, slag and ash",253,Zambia,34886282.0
+26,"Ores, slag and ash",311,Portugal,1709805.0
+26,"Ores, slag and ash",328,Romania,12681837.0
+26,"Ores, slag and ash",330,Sweden,19812010.0
+26,"Ores, slag and ash",347,Ukraine,100364505.0
+26,"Ores, slag and ash",355,Bosnia and Herzegovina,3787923.0
+26,"Ores, slag and ash",402,Argentina,7690382.0
+26,"Ores, slag and ash",412,Chile,2227924330.0
+26,"Ores, slag and ash",413,Colombia,1273377.0
+26,"Ores, slag and ash",416,Cuba,3282153.0
+26,"Ores, slag and ash",418,Dominican Republic,11317116.0
+26,"Ores, slag and ash",419,Ecuador,97076912.0
+26,"Ores, slag and ash",423,Guatemala,3194000.0
+26,"Ores, slag and ash",434,Peru,2493451911.0
+26,"Ores, slag and ash",445,Venezuela,15838840.0
+26,"Ores, slag and ash",603,Fiji,2600.0
+26,"Ores, slag and ash",609,New Zealand,14258691.0
+26,"Ores, slag and ash",611,Papua New Guinea,690725.0
+26,"Ores, slag and ash",613,Solomon Islands,7100599.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",106,Myanmar,134065255.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",114,Iraq,3099072410.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",115,Israel,170336.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",130,Qatar,1573760088.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",131,Saudi Arabia,3289659019.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",146,Kyrgyzstan,369367.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",201,Algeria,17788282.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",215,Egypt,26094.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",216,Equatorial Guinea,82408598.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",226,Libya,192246315.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",236,Nigeria,130694655.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",302,Denmark,10293.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",311,Portugal,2742.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",330,Sweden,1278308.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",331,Switzerland,442739.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",334,Estonia,5993116.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",335,Latvia,7592296.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",352,Czechia（Czech Republic）,11277.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",402,Argentina,17475081.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",413,Colombia,207676091.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",416,Cuba,666.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",419,Ecuador,263854076.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",434,Peru,42827741.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",445,Venezuela,99065176.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",609,New Zealand,21568725.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",611,Papua New Guinea,119939975.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",103,Bangladesh,21286.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",106,Myanmar,31970061.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",115,Israel,11549967.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",117,Jordan,3784147.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",130,Qatar,27002330.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",131,Saudi Arabia,4043895.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",302,Denmark,1843659.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",311,Portugal,613.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",323,Liechtenstein,21314.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",328,Romania,3204.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",330,Sweden,509046.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",331,Switzerland,749700.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",347,Ukraine,2017.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",352,Czechia（Czech Republic）,1051608.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",353,Slovakia,4279.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",355,Bosnia and Herzegovina,163230.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",402,Argentina,78125251.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",412,Chile,155003694.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",413,Colombia,1446.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",416,Cuba,136910.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",434,Peru,326376.0
+29,Organic chemicals,105,Brunei,109402701.0
+29,Organic chemicals,115,Israel,9791884.0
+29,Organic chemicals,117,Jordan,6509179.0
+29,Organic chemicals,121,"Macao,China",1219316.0
+29,Organic chemicals,130,Qatar,7395943.0
+29,Organic chemicals,131,Saudi Arabia,357351704.0
+29,Organic chemicals,215,Egypt,564796.0
+29,Organic chemicals,236,Nigeria,54340.0
+29,Organic chemicals,257,Swaziland,727.0
+29,Organic chemicals,302,Denmark,28146637.0
+29,Organic chemicals,311,Portugal,284207.0
+29,Organic chemicals,328,Romania,67086.0
+29,Organic chemicals,330,Sweden,4958420.0
+29,Organic chemicals,331,Switzerland,36188990.0
+29,Organic chemicals,334,Estonia,1634.0
+29,Organic chemicals,335,Latvia,382.0
+29,Organic chemicals,347,Ukraine,585279.0
+29,Organic chemicals,352,Czechia（Czech Republic）,2123323.0
+29,Organic chemicals,353,Slovakia,9691.0
+29,Organic chemicals,402,Argentina,1151174.0
+29,Organic chemicals,412,Chile,5092966.0
+29,Organic chemicals,413,Colombia,28310.0
+29,Organic chemicals,433,Paraguay,3381.0
+29,Organic chemicals,445,Venezuela,66393.0
+29,Organic chemicals,609,New Zealand,2040928.0
+30,Pharmaceutical products,107,Cambodia,464761.0
+30,Pharmaceutical products,115,Israel,589521.0
+30,Pharmaceutical products,121,"Macao,China",137.0
+30,Pharmaceutical products,131,Saudi Arabia,172.0
+30,Pharmaceutical products,302,Denmark,107974106.0
+30,Pharmaceutical products,311,Portugal,455641.0
+30,Pharmaceutical products,323,Liechtenstein,502668.0
+30,Pharmaceutical products,328,Romania,5532.0
+30,Pharmaceutical products,330,Sweden,176664990.0
+30,Pharmaceutical products,331,Switzerland,217021499.0
+30,Pharmaceutical products,334,Estonia,105164.0
+30,Pharmaceutical products,347,Ukraine,4211.0
+30,Pharmaceutical products,352,Czechia（Czech Republic）,81090.0
+30,Pharmaceutical products,353,Slovakia,122468.0
+30,Pharmaceutical products,402,Argentina,5210926.0
+30,Pharmaceutical products,418,Dominican Republic,658795.0
+30,Pharmaceutical products,609,New Zealand,3831831.0
+31,Fertilisers,115,Israel,40865103.0
+31,Fertilisers,117,Jordan,54944.0
+31,Fertilisers,352,Czechia（Czech Republic）,137536.0
+31,Fertilisers,353,Slovakia,377.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,115,Israel,417201.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,215,Egypt,706.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,302,Denmark,717661.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,308,Luxembourg,102077.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,311,Portugal,24572.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,323,Liechtenstein,228136.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,328,Romania,411257.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,330,Sweden,262074.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,331,Switzerland,3834896.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,335,Latvia,365.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,352,Czechia（Czech Republic）,389139.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,353,Slovakia,9414.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,402,Argentina,1429477.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,413,Colombia,305059.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,418,Dominican Republic,655.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,434,Peru,2529880.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,609,New Zealand,37426.0
+33,Essential oils and resinoids; perfumery,101,Afghanistan,110.0
+33,Essential oils and resinoids; perfumery,105,Brunei,854796.0
+33,Essential oils and resinoids; perfumery,107,Cambodia,6839.0
+33,Essential oils and resinoids; perfumery,115,Israel,5239609.0
+33,Essential oils and resinoids; perfumery,117,Jordan,431377.0
+33,Essential oils and resinoids; perfumery,121,"Macao,China",129.0
+33,Essential oils and resinoids; perfumery,131,Saudi Arabia,3007.0
+33,Essential oils and resinoids; perfumery,134,Sri Lanka,17077.0
+33,Essential oils and resinoids; perfumery,215,Egypt,185041.0
+33,Essential oils and resinoids; perfumery,232,Morocco,371452.0
+33,Essential oils and resinoids; perfumery,257,Swaziland,984.0
+33,Essential oils and resinoids; perfumery,302,Denmark,49114.0
+33,Essential oils and resinoids; perfumery,308,Luxembourg,116789.0
+33,Essential oils and resinoids; perfumery,311,Portugal,40655.0
+33,Essential oils and resinoids; perfumery,322,Iceland,293123.0
+33,Essential oils and resinoids; perfumery,323,Liechtenstein,1111.0
+33,Essential oils and resinoids; perfumery,325,Monaco,864148.0
+33,Essential oils and resinoids; perfumery,328,Romania,35031.0
+33,Essential oils and resinoids; perfumery,329,San Marino,3476.0
+33,Essential oils and resinoids; perfumery,330,Sweden,2106806.0
+33,Essential oils and resinoids; perfumery,331,Switzerland,15240362.0
+33,Essential oils and resinoids; perfumery,335,Latvia,189896.0
+33,Essential oils and resinoids; perfumery,343,Moldova,48649.0
+33,Essential oils and resinoids; perfumery,347,Ukraine,3168.0
+33,Essential oils and resinoids; perfumery,352,Czechia（Czech Republic）,148485.0
+33,Essential oils and resinoids; perfumery,353,Slovakia,135213.0
+33,Essential oils and resinoids; perfumery,355,Bosnia and Herzegovina,20256.0
+33,Essential oils and resinoids; perfumery,402,Argentina,222020.0
+33,Essential oils and resinoids; perfumery,412,Chile,371.0
+33,Essential oils and resinoids; perfumery,413,Colombia,14446.0
+33,Essential oils and resinoids; perfumery,418,Dominican Republic,11449.0
+33,Essential oils and resinoids; perfumery,423,Guatemala,7257.0
+33,Essential oils and resinoids; perfumery,432,Panama,77.0
+33,Essential oils and resinoids; perfumery,433,Paraguay,97422.0
+33,Essential oils and resinoids; perfumery,434,Peru,8626.0
+33,Essential oils and resinoids; perfumery,609,New Zealand,2677496.0
+33,Essential oils and resinoids; perfumery,623,French Polynesia,28.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",115,Israel,105284.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",117,Jordan,44.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",121,"Macao,China",814.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",130,Qatar,42000.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",131,Saudi Arabia,335343.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",134,Sri Lanka,723.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",201,Algeria,87.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",215,Egypt,4583.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",232,Morocco,2700.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",257,Swaziland,117.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",302,Denmark,814955.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",308,Luxembourg,28342.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",311,Portugal,691951.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",322,Iceland,14338.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",323,Liechtenstein,14563.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",325,Monaco,54402.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",328,Romania,13588.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",329,San Marino,6510.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",330,Sweden,359353.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",331,Switzerland,4526513.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",335,Latvia,191401.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",352,Czechia（Czech Republic）,48094.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",353,Slovakia,538.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",402,Argentina,48291.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",413,Colombia,76.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",418,Dominican Republic,2087.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",609,New Zealand,358911.0
+35,Albuminoidal substances; modified starches;,107,Cambodia,396871.0
+35,Albuminoidal substances; modified starches;,115,Israel,695424.0
+35,Albuminoidal substances; modified starches;,302,Denmark,9059485.0
+35,Albuminoidal substances; modified starches;,308,Luxembourg,22.0
+35,Albuminoidal substances; modified starches;,311,Portugal,72559.0
+35,Albuminoidal substances; modified starches;,328,Romania,80534.0
+35,Albuminoidal substances; modified starches;,330,Sweden,221407.0
+35,Albuminoidal substances; modified starches;,331,Switzerland,2497893.0
+35,Albuminoidal substances; modified starches;,347,Ukraine,355320.0
+35,Albuminoidal substances; modified starches;,352,Czechia（Czech Republic）,55686.0
+35,Albuminoidal substances; modified starches;,353,Slovakia,232504.0
+35,Albuminoidal substances; modified starches;,402,Argentina,350198.0
+35,Albuminoidal substances; modified starches;,418,Dominican Republic,56.0
+35,Albuminoidal substances; modified starches;,434,Peru,4434.0
+35,Albuminoidal substances; modified starches;,609,New Zealand,29249080.0
+36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,331,Switzerland,873.0
+36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,352,Czechia（Czech Republic）,3493980.0
+37,Photographic or cinematographic goods,115,Israel,438756.0
+37,Photographic or cinematographic goods,330,Sweden,270.0
+37,Photographic or cinematographic goods,331,Switzerland,32001.0
+37,Photographic or cinematographic goods,352,Czechia（Czech Republic）,117640.0
+38,Miscellaneous chemical products,103,Bangladesh,3380277.0
+38,Miscellaneous chemical products,106,Myanmar,366629.0
+38,Miscellaneous chemical products,115,Israel,888921.0
+38,Miscellaneous chemical products,121,"Macao,China",153422.0
+38,Miscellaneous chemical products,130,Qatar,337117.0
+38,Miscellaneous chemical products,131,Saudi Arabia,2187548.0
+38,Miscellaneous chemical products,134,Sri Lanka,2209575.0
+38,Miscellaneous chemical products,201,Algeria,146961.0
+38,Miscellaneous chemical products,215,Egypt,1764200.0
+38,Miscellaneous chemical products,232,Morocco,149061.0
+38,Miscellaneous chemical products,236,Nigeria,693154.0
+38,Miscellaneous chemical products,238,Rwanda,832126.0
+38,Miscellaneous chemical products,253,Zambia,2634481.0
+38,Miscellaneous chemical products,302,Denmark,1858842.0
+38,Miscellaneous chemical products,308,Luxembourg,1159.0
+38,Miscellaneous chemical products,311,Portugal,381306.0
+38,Miscellaneous chemical products,322,Iceland,3375.0
+38,Miscellaneous chemical products,323,Liechtenstein,168373.0
+38,Miscellaneous chemical products,325,Monaco,44247.0
+38,Miscellaneous chemical products,328,Romania,1203963.0
+38,Miscellaneous chemical products,330,Sweden,12510223.0
+38,Miscellaneous chemical products,331,Switzerland,6049869.0
+38,Miscellaneous chemical products,334,Estonia,60190.0
+38,Miscellaneous chemical products,335,Latvia,3157.0
+38,Miscellaneous chemical products,347,Ukraine,193355.0
+38,Miscellaneous chemical products,352,Czechia（Czech Republic）,91344.0
+38,Miscellaneous chemical products,353,Slovakia,49255.0
+38,Miscellaneous chemical products,354,North Macedonia,7870.0
+38,Miscellaneous chemical products,355,Bosnia and Herzegovina,142564.0
+38,Miscellaneous chemical products,402,Argentina,378043.0
+38,Miscellaneous chemical products,412,Chile,777519.0
+38,Miscellaneous chemical products,413,Colombia,23009.0
+38,Miscellaneous chemical products,434,Peru,80392.0
+38,Miscellaneous chemical products,445,Venezuela,14845.0
+38,Miscellaneous chemical products,609,New Zealand,411334.0
+38,Miscellaneous chemical products,611,Papua New Guinea,10936.0
+39,Plastics and articles thereof,103,Bangladesh,958160.0
+39,Plastics and articles thereof,106,Myanmar,666643.0
+39,Plastics and articles thereof,107,Cambodia,1069563.0
+39,Plastics and articles thereof,114,Iraq,496.0
+39,Plastics and articles thereof,115,Israel,3473676.0
+39,Plastics and articles thereof,117,Jordan,810.0
+39,Plastics and articles thereof,121,"Macao,China",3950.0
+39,Plastics and articles thereof,130,Qatar,42238620.0
+39,Plastics and articles thereof,131,Saudi Arabia,277630361.0
+39,Plastics and articles thereof,134,Sri Lanka,63402.0
+39,Plastics and articles thereof,201,Algeria,1510.0
+39,Plastics and articles thereof,215,Egypt,301404.0
+39,Plastics and articles thereof,232,Morocco,108408.0
+39,Plastics and articles thereof,236,Nigeria,12250.0
+39,Plastics and articles thereof,246,Sudan,813.0
+39,Plastics and articles thereof,247,Tanzania,231024.0
+39,Plastics and articles thereof,257,Swaziland,815.0
+39,Plastics and articles thereof,302,Denmark,5137500.0
+39,Plastics and articles thereof,308,Luxembourg,1219966.0
+39,Plastics and articles thereof,311,Portugal,2029448.0
+39,Plastics and articles thereof,322,Iceland,1265.0
+39,Plastics and articles thereof,323,Liechtenstein,5376.0
+39,Plastics and articles thereof,325,Monaco,12193.0
+39,Plastics and articles thereof,328,Romania,1651457.0
+39,Plastics and articles thereof,329,San Marino,22.0
+39,Plastics and articles thereof,330,Sweden,26681440.0
+39,Plastics and articles thereof,331,Switzerland,21412943.0
+39,Plastics and articles thereof,334,Estonia,47199.0
+39,Plastics and articles thereof,335,Latvia,70563.0
+39,Plastics and articles thereof,343,Moldova,403270.0
+39,Plastics and articles thereof,347,Ukraine,26308.0
+39,Plastics and articles thereof,352,Czechia（Czech Republic）,6312630.0
+39,Plastics and articles thereof,353,Slovakia,3163371.0
+39,Plastics and articles thereof,354,North Macedonia,3645.0
+39,Plastics and articles thereof,355,Bosnia and Herzegovina,70133.0
+39,Plastics and articles thereof,402,Argentina,363417.0
+39,Plastics and articles thereof,412,Chile,120567.0
+39,Plastics and articles thereof,413,Colombia,61213.0
+39,Plastics and articles thereof,418,Dominican Republic,918858.0
+39,Plastics and articles thereof,419,Ecuador,7978.0
+39,Plastics and articles thereof,426,Honduras,7349.0
+39,Plastics and articles thereof,432,Panama,90.0
+39,Plastics and articles thereof,434,Peru,26.0
+39,Plastics and articles thereof,445,Venezuela,181.0
+39,Plastics and articles thereof,609,New Zealand,555245.0
+40,Rubber and articles thereof,101,Afghanistan,323.0
+40,Rubber and articles thereof,103,Bangladesh,420.0
+40,Rubber and articles thereof,106,Myanmar,55072374.0
+40,Rubber and articles thereof,107,Cambodia,6955065.0
+40,Rubber and articles thereof,115,Israel,108368.0
+40,Rubber and articles thereof,117,Jordan,8.0
+40,Rubber and articles thereof,130,Qatar,27.0
+40,Rubber and articles thereof,131,Saudi Arabia,25904095.0
+40,Rubber and articles thereof,134,Sri Lanka,1495963.0
+40,Rubber and articles thereof,201,Algeria,8426.0
+40,Rubber and articles thereof,215,Egypt,70.0
+40,Rubber and articles thereof,232,Morocco,37183.0
+40,Rubber and articles thereof,236,Nigeria,781604.0
+40,Rubber and articles thereof,302,Denmark,2095531.0
+40,Rubber and articles thereof,308,Luxembourg,282627.0
+40,Rubber and articles thereof,311,Portugal,2680757.0
+40,Rubber and articles thereof,322,Iceland,269.0
+40,Rubber and articles thereof,323,Liechtenstein,10905.0
+40,Rubber and articles thereof,325,Monaco,169.0
+40,Rubber and articles thereof,328,Romania,1255781.0
+40,Rubber and articles thereof,330,Sweden,2946942.0
+40,Rubber and articles thereof,331,Switzerland,2358844.0
+40,Rubber and articles thereof,334,Estonia,505959.0
+40,Rubber and articles thereof,335,Latvia,407.0
+40,Rubber and articles thereof,347,Ukraine,3757.0
+40,Rubber and articles thereof,352,Czechia（Czech Republic）,7082171.0
+40,Rubber and articles thereof,353,Slovakia,623249.0
+40,Rubber and articles thereof,354,North Macedonia,12.0
+40,Rubber and articles thereof,355,Bosnia and Herzegovina,47970.0
+40,Rubber and articles thereof,402,Argentina,7836.0
+40,Rubber and articles thereof,412,Chile,21.0
+40,Rubber and articles thereof,418,Dominican Republic,1000.0
+40,Rubber and articles thereof,609,New Zealand,65900.0
+40,Rubber and articles thereof,611,Papua New Guinea,250523.0
+41,Raw hides and skins (other than furskins) and leather,103,Bangladesh,5626969.0
+41,Raw hides and skins (other than furskins) and leather,107,Cambodia,1231646.0
+41,Raw hides and skins (other than furskins) and leather,131,Saudi Arabia,366066.0
+41,Raw hides and skins (other than furskins) and leather,146,Kyrgyzstan,971299.0
+41,Raw hides and skins (other than furskins) and leather,215,Egypt,1319293.0
+41,Raw hides and skins (other than furskins) and leather,229,Mali,55016.0
+41,Raw hides and skins (other than furskins) and leather,236,Nigeria,76443.0
+41,Raw hides and skins (other than furskins) and leather,302,Denmark,679485.0
+41,Raw hides and skins (other than furskins) and leather,311,Portugal,61174.0
+41,Raw hides and skins (other than furskins) and leather,322,Iceland,9269.0
+41,Raw hides and skins (other than furskins) and leather,331,Switzerland,2035.0
+41,Raw hides and skins (other than furskins) and leather,402,Argentina,13564235.0
+41,Raw hides and skins (other than furskins) and leather,412,Chile,653455.0
+41,Raw hides and skins (other than furskins) and leather,413,Colombia,11360.0
+41,Raw hides and skins (other than furskins) and leather,418,Dominican Republic,86601.0
+41,Raw hides and skins (other than furskins) and leather,419,Ecuador,209286.0
+41,Raw hides and skins (other than furskins) and leather,432,Panama,181200.0
+41,Raw hides and skins (other than furskins) and leather,433,Paraguay,482157.0
+41,Raw hides and skins (other than furskins) and leather,434,Peru,663540.0
+41,Raw hides and skins (other than furskins) and leather,609,New Zealand,5023653.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",103,Bangladesh,4388525.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",106,Myanmar,3620974.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",107,Cambodia,23166806.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",115,Israel,353669.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",121,"Macao,China",24.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",134,Sri Lanka,14396.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",232,Morocco,688865.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",302,Denmark,5016.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",311,Portugal,470292.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",325,Monaco,2127.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",328,Romania,1202834.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",329,San Marino,268.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",330,Sweden,21925.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",331,Switzerland,258518.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",334,Estonia,5028.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",343,Moldova,67724.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",347,Ukraine,65423.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",352,Czechia（Czech Republic）,1720717.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",353,Slovakia,26184.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",354,North Macedonia,699.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",355,Bosnia and Herzegovina,11155.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",413,Colombia,15979.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",418,Dominican Republic,98.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",423,Guatemala,8346.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",426,Honduras,43.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",434,Peru,3753.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",609,New Zealand,867.0
+43,Furskins and artificial fur; manufactures thereof,101,Afghanistan,4620.0
+43,Furskins and artificial fur; manufactures thereof,103,Bangladesh,363.0
+43,Furskins and artificial fur; manufactures thereof,107,Cambodia,2268675.0
+43,Furskins and artificial fur; manufactures thereof,302,Denmark,6804.0
+43,Furskins and artificial fur; manufactures thereof,311,Portugal,19302.0
+43,Furskins and artificial fur; manufactures thereof,328,Romania,220.0
+43,Furskins and artificial fur; manufactures thereof,343,Moldova,1151.0
+43,Furskins and artificial fur; manufactures thereof,402,Argentina,16625.0
+44,Wood and articles of wood; wood charcoal,103,Bangladesh,1027780.0
+44,Wood and articles of wood; wood charcoal,106,Myanmar,7069191.0
+44,Wood and articles of wood; wood charcoal,107,Cambodia,368252.0
+44,Wood and articles of wood; wood charcoal,114,Iraq,64.0
+44,Wood and articles of wood; wood charcoal,115,Israel,2111.0
+44,Wood and articles of wood; wood charcoal,121,"Macao,China",143.0
+44,Wood and articles of wood; wood charcoal,131,Saudi Arabia,1671.0
+44,Wood and articles of wood; wood charcoal,134,Sri Lanka,126487.0
+44,Wood and articles of wood; wood charcoal,146,Kyrgyzstan,235486.0
+44,Wood and articles of wood; wood charcoal,201,Algeria,22140.0
+44,Wood and articles of wood; wood charcoal,215,Egypt,39.0
+44,Wood and articles of wood; wood charcoal,216,Equatorial Guinea,1891490.0
+44,Wood and articles of wood; wood charcoal,229,Mali,5609810.0
+44,Wood and articles of wood; wood charcoal,232,Morocco,1445.0
+44,Wood and articles of wood; wood charcoal,236,Nigeria,599983.0
+44,Wood and articles of wood; wood charcoal,247,Tanzania,2240510.0
+44,Wood and articles of wood; wood charcoal,251,Burkina Faso,194.0
+44,Wood and articles of wood; wood charcoal,253,Zambia,800109.0
+44,Wood and articles of wood; wood charcoal,302,Denmark,3543365.0
+44,Wood and articles of wood; wood charcoal,311,Portugal,19007.0
+44,Wood and articles of wood; wood charcoal,328,Romania,8074481.0
+44,Wood and articles of wood; wood charcoal,330,Sweden,10188704.0
+44,Wood and articles of wood; wood charcoal,331,Switzerland,835680.0
+44,Wood and articles of wood; wood charcoal,334,Estonia,967593.0
+44,Wood and articles of wood; wood charcoal,335,Latvia,7834658.0
+44,Wood and articles of wood; wood charcoal,347,Ukraine,1598440.0
+44,Wood and articles of wood; wood charcoal,352,Czechia（Czech Republic）,2067320.0
+44,Wood and articles of wood; wood charcoal,353,Slovakia,8468239.0
+44,Wood and articles of wood; wood charcoal,355,Bosnia and Herzegovina,4132937.0
+44,Wood and articles of wood; wood charcoal,402,Argentina,2371115.0
+44,Wood and articles of wood; wood charcoal,412,Chile,11083332.0
+44,Wood and articles of wood; wood charcoal,413,Colombia,117374.0
+44,Wood and articles of wood; wood charcoal,419,Ecuador,19185746.0
+44,Wood and articles of wood; wood charcoal,426,Honduras,237675.0
+44,Wood and articles of wood; wood charcoal,432,Panama,85080.0
+44,Wood and articles of wood; wood charcoal,433,Paraguay,173750.0
+44,Wood and articles of wood; wood charcoal,434,Peru,1146607.0
+44,Wood and articles of wood; wood charcoal,445,Venezuela,705561.0
+44,Wood and articles of wood; wood charcoal,603,Fiji,5842276.0
+44,Wood and articles of wood; wood charcoal,608,Vanuatu,526954.0
+44,Wood and articles of wood; wood charcoal,609,New Zealand,144642903.0
+44,Wood and articles of wood; wood charcoal,611,Papua New Guinea,31126046.0
+44,Wood and articles of wood; wood charcoal,613,Solomon Islands,7555567.0
+45,Cork and articles of cork,201,Algeria,90556.0
+45,Cork and articles of cork,311,Portugal,2493884.0
+45,Cork and articles of cork,330,Sweden,117.0
+46,"Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork",103,Bangladesh,57590.0
+46,"Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork",134,Sri Lanka,2710.0
+46,"Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork",232,Morocco,1049.0
+46,"Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork",251,Burkina Faso,2385.0
+46,"Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork",302,Denmark,140.0
+46,"Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork",413,Colombia,3046.0
+47,Pulp of wood or of other fibrous cellulosic material;recovered (waste and scrap) paper or paperboard,121,"Macao,China",365272.0
+47,Pulp of wood or of other fibrous cellulosic material;recovered (waste and scrap) paper or paperboard,311,Portugal,18670821.0
+47,Pulp of wood or of other fibrous cellulosic material;recovered (waste and scrap) paper or paperboard,330,Sweden,58415326.0
+47,Pulp of wood or of other fibrous cellulosic material;recovered (waste and scrap) paper or paperboard,352,Czechia（Czech Republic）,11788328.0
+47,Pulp of wood or of other fibrous cellulosic material;recovered (waste and scrap) paper or paperboard,402,Argentina,1006076.0
+47,Pulp of wood or of other fibrous cellulosic material;recovered (waste and scrap) paper or paperboard,412,Chile,248911207.0
+47,Pulp of wood or of other fibrous cellulosic material;recovered (waste and scrap) paper or paperboard,418,Dominican Republic,173816.0
+47,Pulp of wood or of other fibrous cellulosic material;recovered (waste and scrap) paper or paperboard,609,New Zealand,13892905.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",106,Myanmar,105016.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",107,Cambodia,75703.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",115,Israel,495977.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",117,Jordan,45.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",121,"Macao,China",535.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",130,Qatar,792.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",131,Saudi Arabia,18329.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",134,Sri Lanka,98202.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",201,Algeria,87.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",215,Egypt,1455.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",232,Morocco,9858.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",236,Nigeria,17353.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",247,Tanzania,30.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",302,Denmark,425461.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",308,Luxembourg,8876.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",311,Portugal,717383.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",322,Iceland,6.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",323,Liechtenstein,977.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",328,Romania,7136.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",330,Sweden,37168079.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",331,Switzerland,4214943.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",334,Estonia,21.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",335,Latvia,10.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",347,Ukraine,1753842.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",352,Czechia（Czech Republic）,291072.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",353,Slovakia,64515.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",412,Chile,6773.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",418,Dominican Republic,15193.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",419,Ecuador,3201.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",432,Panama,616.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",434,Peru,11016.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",609,New Zealand,344312.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",105,Brunei,578.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",106,Myanmar,54.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",107,Cambodia,12960.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",115,Israel,833179.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",121,"Macao,China",4011.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",130,Qatar,3.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",134,Sri Lanka,1376.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",215,Egypt,4749.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",232,Morocco,7070.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",302,Denmark,137742.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",311,Portugal,949.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",328,Romania,425296.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",329,San Marino,55.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",330,Sweden,1750722.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",331,Switzerland,879639.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",347,Ukraine,617.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",352,Czechia（Czech Republic）,33513.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",353,Slovakia,13136.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",419,Ecuador,11.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",434,Peru,104257.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",609,New Zealand,8669.0
+50,ilk,106,Myanmar,279959.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",103,Bangladesh,70127.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",114,Iraq,24881.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",131,Saudi Arabia,246557.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",146,Kyrgyzstan,94137.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",201,Algeria,79398.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",232,Morocco,27190.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",302,Denmark,16151.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",311,Portugal,186905.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",328,Romania,417732.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",352,Czechia（Czech Republic）,269840.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",402,Argentina,1274993.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",412,Chile,790783.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",434,Peru,4487380.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",609,New Zealand,13403576.0
+52,Cotton,101,Afghanistan,80375.0
+52,Cotton,103,Bangladesh,5327271.0
+52,Cotton,106,Myanmar,104054.0
+52,Cotton,107,Cambodia,399790.0
+52,Cotton,115,Israel,3660011.0
+52,Cotton,134,Sri Lanka,14.0
+52,Cotton,215,Egypt,8996.0
+52,Cotton,246,Sudan,140790.0
+52,Cotton,247,Tanzania,481551.0
+52,Cotton,253,Zambia,295047.0
+52,Cotton,302,Denmark,18534.0
+52,Cotton,311,Portugal,20301.0
+52,Cotton,330,Sweden,1301.0
+52,Cotton,331,Switzerland,2797.0
+52,Cotton,352,Czechia（Czech Republic）,25827.0
+52,Cotton,353,Slovakia,3211.0
+52,Cotton,412,Chile,250.0
+53,Other vegetable textile fibres;paper yarn and woven fabrics of paper yarn,103,Bangladesh,7513317.0
+53,Other vegetable textile fibres;paper yarn and woven fabrics of paper yarn,107,Cambodia,259611.0
+53,Other vegetable textile fibres;paper yarn and woven fabrics of paper yarn,131,Saudi Arabia,2490.0
+53,Other vegetable textile fibres;paper yarn and woven fabrics of paper yarn,134,Sri Lanka,184904.0
+53,Other vegetable textile fibres;paper yarn and woven fabrics of paper yarn,215,Egypt,2466891.0
+53,Other vegetable textile fibres;paper yarn and woven fabrics of paper yarn,247,Tanzania,1818191.0
+53,Other vegetable textile fibres;paper yarn and woven fabrics of paper yarn,302,Denmark,418.0
+53,Other vegetable textile fibres;paper yarn and woven fabrics of paper yarn,330,Sweden,4603.0
+53,Other vegetable textile fibres;paper yarn and woven fabrics of paper yarn,347,Ukraine,30670.0
+53,Other vegetable textile fibres;paper yarn and woven fabrics of paper yarn,353,Slovakia,2984.0
+53,Other vegetable textile fibres;paper yarn and woven fabrics of paper yarn,412,Chile,1561.0
+54,Man-made filaments; strip and the like of man-made textile materials,103,Bangladesh,1123.0
+54,Man-made filaments; strip and the like of man-made textile materials,106,Myanmar,115.0
+54,Man-made filaments; strip and the like of man-made textile materials,107,Cambodia,1806.0
+54,Man-made filaments; strip and the like of man-made textile materials,115,Israel,1145095.0
+54,Man-made filaments; strip and the like of man-made textile materials,131,Saudi Arabia,490.0
+54,Man-made filaments; strip and the like of man-made textile materials,134,Sri Lanka,80490.0
+54,Man-made filaments; strip and the like of man-made textile materials,215,Egypt,140870.0
+54,Man-made filaments; strip and the like of man-made textile materials,232,Morocco,762.0
+54,Man-made filaments; strip and the like of man-made textile materials,236,Nigeria,451590.0
+54,Man-made filaments; strip and the like of man-made textile materials,302,Denmark,1654.0
+54,Man-made filaments; strip and the like of man-made textile materials,308,Luxembourg,400678.0
+54,Man-made filaments; strip and the like of man-made textile materials,311,Portugal,460543.0
+54,Man-made filaments; strip and the like of man-made textile materials,328,Romania,38823.0
+54,Man-made filaments; strip and the like of man-made textile materials,330,Sweden,1030.0
+54,Man-made filaments; strip and the like of man-made textile materials,331,Switzerland,128290.0
+54,Man-made filaments; strip and the like of man-made textile materials,352,Czechia（Czech Republic）,826.0
+54,Man-made filaments; strip and the like of man-made textile materials,353,Slovakia,6277.0
+54,Man-made filaments; strip and the like of man-made textile materials,412,Chile,815.0
+54,Man-made filaments; strip and the like of man-made textile materials,413,Colombia,47.0
+54,Man-made filaments; strip and the like of man-made textile materials,426,Honduras,47135.0
+54,Man-made filaments; strip and the like of man-made textile materials,434,Peru,4.0
+54,Man-made filaments; strip and the like of man-made textile materials,609,New Zealand,150.0
+55,Man-made staple fibres,103,Bangladesh,36219.0
+55,Man-made staple fibres,106,Myanmar,12649.0
+55,Man-made staple fibres,107,Cambodia,97818.0
+55,Man-made staple fibres,302,Denmark,161569.0
+55,Man-made staple fibres,311,Portugal,420871.0
+55,Man-made staple fibres,328,Romania,6102.0
+55,Man-made staple fibres,330,Sweden,380.0
+55,Man-made staple fibres,331,Switzerland,1170725.0
+55,Man-made staple fibres,347,Ukraine,16.0
+55,Man-made staple fibres,352,Czechia（Czech Republic）,9979.0
+55,Man-made staple fibres,353,Slovakia,11982.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",103,Bangladesh,6620.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",107,Cambodia,26656.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",115,Israel,1688.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",131,Saudi Arabia,827942.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",134,Sri Lanka,89133.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",215,Egypt,108.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",232,Morocco,45574.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",302,Denmark,95860.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",308,Luxembourg,5011411.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",311,Portugal,117821.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",322,Iceland,19068.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",328,Romania,19167.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",330,Sweden,73433.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",331,Switzerland,280895.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",334,Estonia,341607.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",347,Ukraine,81865.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",352,Czechia（Czech Republic）,254038.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",353,Slovakia,148323.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",418,Dominican Republic,2749.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",419,Ecuador,51.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",434,Peru,561.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",609,New Zealand,3593.0
+57,Carpets and other textile floor coverings,101,Afghanistan,50049.0
+57,Carpets and other textile floor coverings,103,Bangladesh,86655.0
+57,Carpets and other textile floor coverings,131,Saudi Arabia,2.0
+57,Carpets and other textile floor coverings,146,Kyrgyzstan,28.0
+57,Carpets and other textile floor coverings,215,Egypt,293489.0
+57,Carpets and other textile floor coverings,302,Denmark,327247.0
+57,Carpets and other textile floor coverings,311,Portugal,20287.0
+57,Carpets and other textile floor coverings,330,Sweden,26049.0
+57,Carpets and other textile floor coverings,331,Switzerland,38921.0
+57,Carpets and other textile floor coverings,352,Czechia（Czech Republic）,1005.0
+57,Carpets and other textile floor coverings,413,Colombia,3974.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,103,Bangladesh,2547.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,106,Myanmar,50334.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,107,Cambodia,2109.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,115,Israel,51055.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,121,"Macao,China",75.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,251,Burkina Faso,1008.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,302,Denmark,31013.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,311,Portugal,7144.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,328,Romania,69411.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,330,Sweden,972.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,331,Switzerland,580671.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,352,Czechia（Czech Republic）,28692.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,402,Argentina,17890.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,419,Ecuador,11.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,609,New Zealand,27.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",107,Cambodia,4241.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",115,Israel,512152.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",134,Sri Lanka,270370.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",232,Morocco,11333.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",302,Denmark,48841.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",308,Luxembourg,166052.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",311,Portugal,767399.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",328,Romania,473734.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",330,Sweden,642301.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",331,Switzerland,2928356.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",334,Estonia,177.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",352,Czechia（Czech Republic）,176636.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",412,Chile,7073.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",413,Colombia,9083.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",432,Panama,60050.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",609,New Zealand,5239.0
+60,Knitted or crocheted fabrics,106,Myanmar,1086.0
+60,Knitted or crocheted fabrics,107,Cambodia,7062.0
+60,Knitted or crocheted fabrics,115,Israel,3899.0
+60,Knitted or crocheted fabrics,134,Sri Lanka,65628.0
+60,Knitted or crocheted fabrics,215,Egypt,770.0
+60,Knitted or crocheted fabrics,302,Denmark,46419.0
+60,Knitted or crocheted fabrics,311,Portugal,122141.0
+60,Knitted or crocheted fabrics,330,Sweden,2551.0
+60,Knitted or crocheted fabrics,331,Switzerland,27940.0
+60,Knitted or crocheted fabrics,352,Czechia（Czech Republic）,50147.0
+60,Knitted or crocheted fabrics,353,Slovakia,58779.0
+60,Knitted or crocheted fabrics,413,Colombia,1314.0
+60,Knitted or crocheted fabrics,434,Peru,4.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",101,Afghanistan,118.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",103,Bangladesh,18109154.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",106,Myanmar,850278.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",107,Cambodia,26370661.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",115,Israel,406.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",117,Jordan,3001221.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",121,"Macao,China",173157.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",134,Sri Lanka,11714432.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",215,Egypt,603676.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",232,Morocco,1213421.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",302,Denmark,20130.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",311,Portugal,18667195.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",322,Iceland,202.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",328,Romania,4106486.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",330,Sweden,27410.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",331,Switzerland,71384.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",334,Estonia,277.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",335,Latvia,63504.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",343,Moldova,919429.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",347,Ukraine,18288.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",352,Czechia（Czech Republic）,221.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",353,Slovakia,4193.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",354,North Macedonia,39500.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",355,Bosnia and Herzegovina,74942.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",413,Colombia,1778979.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",418,Dominican Republic,479.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",423,Guatemala,467684.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",426,Honduras,365983.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",432,Panama,300.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",434,Peru,3325854.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",445,Venezuela,198.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",609,New Zealand,2356.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",101,Afghanistan,775.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",103,Bangladesh,29063570.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",106,Myanmar,9474686.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",107,Cambodia,9912104.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",117,Jordan,726059.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",121,"Macao,China",278.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",134,Sri Lanka,3787645.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",215,Egypt,869759.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",232,Morocco,4025334.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",247,Tanzania,2087.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",251,Burkina Faso,477.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",302,Denmark,25996.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",311,Portugal,4425381.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",328,Romania,19969800.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",330,Sweden,48641.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",331,Switzerland,3464942.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",335,Latvia,24764.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",343,Moldova,3322566.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",347,Ukraine,77946.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",352,Czechia（Czech Republic）,14363.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",353,Slovakia,230895.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",354,North Macedonia,3815.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",355,Bosnia and Herzegovina,631147.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",412,Chile,307.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",413,Colombia,125886.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",416,Cuba,38.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",418,Dominican Republic,771.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",419,Ecuador,405.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",423,Guatemala,63271.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",426,Honduras,9927.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",433,Paraguay,13361.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",434,Peru,100339.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",445,Venezuela,2029.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",504,Bermuda,281.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",608,Vanuatu,379.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",609,New Zealand,2569.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",623,French Polynesia,134.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,101,Afghanistan,964.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,103,Bangladesh,708672.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,106,Myanmar,46478.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,107,Cambodia,424252.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,115,Israel,943.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,131,Saudi Arabia,4345.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,134,Sri Lanka,156.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,232,Morocco,990.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,302,Denmark,167587.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,311,Portugal,245003.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,328,Romania,129979.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,330,Sweden,52650.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,331,Switzerland,49114.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,334,Estonia,5067.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,335,Latvia,1805.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,343,Moldova,20543.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,347,Ukraine,12056.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,352,Czechia（Czech Republic）,76812.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,353,Slovakia,8634.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,354,North Macedonia,366.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,355,Bosnia and Herzegovina,1.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,418,Dominican Republic,77830.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,434,Peru,104177.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,609,New Zealand,373.0
+64,"Footwear, gaiters and the like; parts of such articles",101,Afghanistan,8812.0
+64,"Footwear, gaiters and the like; parts of such articles",103,Bangladesh,1098981.0
+64,"Footwear, gaiters and the like; parts of such articles",106,Myanmar,289085.0
+64,"Footwear, gaiters and the like; parts of such articles",107,Cambodia,13331813.0
+64,"Footwear, gaiters and the like; parts of such articles",121,"Macao,China",420.0
+64,"Footwear, gaiters and the like; parts of such articles",134,Sri Lanka,5009.0
+64,"Footwear, gaiters and the like; parts of such articles",232,Morocco,141507.0
+64,"Footwear, gaiters and the like; parts of such articles",302,Denmark,1505964.0
+64,"Footwear, gaiters and the like; parts of such articles",311,Portugal,2830858.0
+64,"Footwear, gaiters and the like; parts of such articles",328,Romania,284411.0
+64,"Footwear, gaiters and the like; parts of such articles",330,Sweden,39113.0
+64,"Footwear, gaiters and the like; parts of such articles",331,Switzerland,662951.0
+64,"Footwear, gaiters and the like; parts of such articles",334,Estonia,299.0
+64,"Footwear, gaiters and the like; parts of such articles",343,Moldova,121.0
+64,"Footwear, gaiters and the like; parts of such articles",347,Ukraine,45679.0
+64,"Footwear, gaiters and the like; parts of such articles",353,Slovakia,4145757.0
+64,"Footwear, gaiters and the like; parts of such articles",354,North Macedonia,1737.0
+64,"Footwear, gaiters and the like; parts of such articles",355,Bosnia and Herzegovina,83579.0
+64,"Footwear, gaiters and the like; parts of such articles",402,Argentina,193.0
+64,"Footwear, gaiters and the like; parts of such articles",413,Colombia,1552.0
+64,"Footwear, gaiters and the like; parts of such articles",418,Dominican Republic,84100.0
+64,"Footwear, gaiters and the like; parts of such articles",434,Peru,414.0
+64,"Footwear, gaiters and the like; parts of such articles",445,Venezuela,820.0
+64,"Footwear, gaiters and the like; parts of such articles",603,Fiji,640.0
+65,Headgear and parts thereof,101,Afghanistan,3239.0
+65,Headgear and parts thereof,103,Bangladesh,572432.0
+65,Headgear and parts thereof,106,Myanmar,6525.0
+65,Headgear and parts thereof,107,Cambodia,489405.0
+65,Headgear and parts thereof,121,"Macao,China",151.0
+65,Headgear and parts thereof,134,Sri Lanka,17708.0
+65,Headgear and parts thereof,232,Morocco,5343.0
+65,Headgear and parts thereof,302,Denmark,1205.0
+65,Headgear and parts thereof,311,Portugal,40232.0
+65,Headgear and parts thereof,328,Romania,6000.0
+65,Headgear and parts thereof,329,San Marino,3130.0
+65,Headgear and parts thereof,330,Sweden,7232.0
+65,Headgear and parts thereof,331,Switzerland,8941.0
+65,Headgear and parts thereof,334,Estonia,494.0
+65,Headgear and parts thereof,343,Moldova,6107.0
+65,Headgear and parts thereof,347,Ukraine,4406.0
+65,Headgear and parts thereof,352,Czechia（Czech Republic）,23447.0
+65,Headgear and parts thereof,354,North Macedonia,3023.0
+65,Headgear and parts thereof,355,Bosnia and Herzegovina,1868.0
+65,Headgear and parts thereof,413,Colombia,220.0
+65,Headgear and parts thereof,419,Ecuador,1582.0
+65,Headgear and parts thereof,426,Honduras,120.0
+65,Headgear and parts thereof,434,Peru,1469.0
+65,Headgear and parts thereof,609,New Zealand,23447.0
+66,"Umbrellas, sun umbrellas, walkingsticks, seatsticks,whips, ridingcrops and parts thereof",103,Bangladesh,228.0
+66,"Umbrellas, sun umbrellas, walkingsticks, seatsticks,whips, ridingcrops and parts thereof",107,Cambodia,352222.0
+66,"Umbrellas, sun umbrellas, walkingsticks, seatsticks,whips, ridingcrops and parts thereof",302,Denmark,312.0
+66,"Umbrellas, sun umbrellas, walkingsticks, seatsticks,whips, ridingcrops and parts thereof",331,Switzerland,8760.0
+67,Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair,103,Bangladesh,11110998.0
+67,Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair,106,Myanmar,52471357.0
+67,Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair,107,Cambodia,46985.0
+67,Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair,115,Israel,33844.0
+67,Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair,236,Nigeria,18450.0
+67,Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair,302,Denmark,140.0
+67,Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair,331,Switzerland,2070.0
+67,Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair,434,Peru,9066.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",101,Afghanistan,34.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",106,Myanmar,39201.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",107,Cambodia,1318995.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",114,Iraq,184.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",115,Israel,86435.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",215,Egypt,266.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",302,Denmark,214108.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",308,Luxembourg,6191.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",311,Portugal,53851.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",328,Romania,595.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",330,Sweden,98075.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",331,Switzerland,1407081.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",347,Ukraine,4589.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",352,Czechia（Czech Republic）,170059.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",353,Slovakia,3207.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",402,Argentina,13.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",609,New Zealand,546295.0
+69,Geramic products,103,Bangladesh,5503.0
+69,Geramic products,115,Israel,531941.0
+69,Geramic products,117,Jordan,3879.0
+69,Geramic products,134,Sri Lanka,37220.0
+69,Geramic products,215,Egypt,1576.0
+69,Geramic products,302,Denmark,213473.0
+69,Geramic products,308,Luxembourg,3065.0
+69,Geramic products,311,Portugal,285537.0
+69,Geramic products,328,Romania,156352.0
+69,Geramic products,330,Sweden,41053.0
+69,Geramic products,331,Switzerland,2064735.0
+69,Geramic products,334,Estonia,37251.0
+69,Geramic products,347,Ukraine,60081.0
+69,Geramic products,352,Czechia（Czech Republic）,420273.0
+69,Geramic products,353,Slovakia,851.0
+69,Geramic products,402,Argentina,4364.0
+69,Geramic products,434,Peru,153.0
+69,Geramic products,609,New Zealand,28193.0
+70,Glass and glassware,103,Bangladesh,1540.0
+70,Glass and glassware,115,Israel,73964.0
+70,Glass and glassware,121,"Macao,China",28872.0
+70,Glass and glassware,130,Qatar,975.0
+70,Glass and glassware,131,Saudi Arabia,98180.0
+70,Glass and glassware,215,Egypt,258963.0
+70,Glass and glassware,226,Libya,1238.0
+70,Glass and glassware,232,Morocco,374947.0
+70,Glass and glassware,236,Nigeria,10492.0
+70,Glass and glassware,302,Denmark,198215.0
+70,Glass and glassware,308,Luxembourg,88775.0
+70,Glass and glassware,311,Portugal,36378.0
+70,Glass and glassware,323,Liechtenstein,361920.0
+70,Glass and glassware,328,Romania,110598.0
+70,Glass and glassware,329,San Marino,369.0
+70,Glass and glassware,330,Sweden,1208224.0
+70,Glass and glassware,331,Switzerland,598408.0
+70,Glass and glassware,334,Estonia,150.0
+70,Glass and glassware,335,Latvia,54168.0
+70,Glass and glassware,352,Czechia（Czech Republic）,1388243.0
+70,Glass and glassware,353,Slovakia,71487.0
+70,Glass and glassware,402,Argentina,34.0
+70,Glass and glassware,413,Colombia,3185.0
+70,Glass and glassware,434,Peru,2344.0
+70,Glass and glassware,609,New Zealand,234230.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",101,Afghanistan,60682.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",103,Bangladesh,7842.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",106,Myanmar,9073185.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",107,Cambodia,5654.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",115,Israel,14287226.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",121,"Macao,China",78712.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",131,Saudi Arabia,2284793.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",134,Sri Lanka,50166361.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",201,Algeria,28.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",214,Djibouti,14976.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",226,Libya,27378.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",228,Malawi,12474.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",229,Mali,1154.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",232,Morocco,68953.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",236,Nigeria,105603.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",238,Rwanda,32299.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",247,Tanzania,121652.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",253,Zambia,401744.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",302,Denmark,20901.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",311,Portugal,926489.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",323,Liechtenstein,180036.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",325,Monaco,122734.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",328,Romania,23080.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",330,Sweden,3001.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",331,Switzerland,138004145.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",347,Ukraine,90.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",352,Czechia（Czech Republic）,14693.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",402,Argentina,9640.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",412,Chile,10100.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",413,Colombia,9628.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",418,Dominican Republic,11436.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",423,Guatemala,238216.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",434,Peru,13914.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",609,New Zealand,6750.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",623,French Polynesia,43211.0
+72,Iron and steel,115,Israel,32567.0
+72,Iron and steel,130,Qatar,44897.0
+72,Iron and steel,131,Saudi Arabia,376754.0
+72,Iron and steel,215,Egypt,95489.0
+72,Iron and steel,236,Nigeria,11715.0
+72,Iron and steel,302,Denmark,888940.0
+72,Iron and steel,308,Luxembourg,83260.0
+72,Iron and steel,311,Portugal,11266.0
+72,Iron and steel,328,Romania,2234.0
+72,Iron and steel,330,Sweden,48749287.0
+72,Iron and steel,331,Switzerland,1317676.0
+72,Iron and steel,334,Estonia,27377.0
+72,Iron and steel,347,Ukraine,1883.0
+72,Iron and steel,352,Czechia（Czech Republic）,653968.0
+72,Iron and steel,353,Slovakia,110450.0
+72,Iron and steel,413,Colombia,20577829.0
+72,Iron and steel,419,Ecuador,46447.0
+72,Iron and steel,434,Peru,545.0
+72,Iron and steel,609,New Zealand,1688.0
+73,Articles of iron or steel,101,Afghanistan,1.0
+73,Articles of iron or steel,103,Bangladesh,3266.0
+73,Articles of iron or steel,105,Brunei,1171801.0
+73,Articles of iron or steel,106,Myanmar,81.0
+73,Articles of iron or steel,107,Cambodia,16952.0
+73,Articles of iron or steel,115,Israel,1020477.0
+73,Articles of iron or steel,130,Qatar,1526.0
+73,Articles of iron or steel,131,Saudi Arabia,26312.0
+73,Articles of iron or steel,134,Sri Lanka,141.0
+73,Articles of iron or steel,215,Egypt,492.0
+73,Articles of iron or steel,232,Morocco,87084.0
+73,Articles of iron or steel,257,Swaziland,17.0
+73,Articles of iron or steel,302,Denmark,3479852.0
+73,Articles of iron or steel,308,Luxembourg,6482343.0
+73,Articles of iron or steel,311,Portugal,558467.0
+73,Articles of iron or steel,322,Iceland,1198.0
+73,Articles of iron or steel,323,Liechtenstein,693809.0
+73,Articles of iron or steel,328,Romania,3196475.0
+73,Articles of iron or steel,330,Sweden,16222926.0
+73,Articles of iron or steel,331,Switzerland,5746839.0
+73,Articles of iron or steel,334,Estonia,80123.0
+73,Articles of iron or steel,335,Latvia,241766.0
+73,Articles of iron or steel,347,Ukraine,248689.0
+73,Articles of iron or steel,352,Czechia（Czech Republic）,5069176.0
+73,Articles of iron or steel,353,Slovakia,1214733.0
+73,Articles of iron or steel,354,North Macedonia,502.0
+73,Articles of iron or steel,355,Bosnia and Herzegovina,196596.0
+73,Articles of iron or steel,402,Argentina,154684.0
+73,Articles of iron or steel,413,Colombia,1469.0
+73,Articles of iron or steel,418,Dominican Republic,8140.0
+73,Articles of iron or steel,419,Ecuador,347.0
+73,Articles of iron or steel,432,Panama,95600.0
+73,Articles of iron or steel,434,Peru,362.0
+73,Articles of iron or steel,609,New Zealand,41943.0
+74,Copper and articles thereof,103,Bangladesh,1660332.0
+74,Copper and articles thereof,106,Myanmar,18776783.0
+74,Copper and articles thereof,107,Cambodia,16114496.0
+74,Copper and articles thereof,114,Iraq,557274.0
+74,Copper and articles thereof,115,Israel,4659259.0
+74,Copper and articles thereof,117,Jordan,1055040.0
+74,Copper and articles thereof,121,"Macao,China",1544789.0
+74,Copper and articles thereof,130,Qatar,9934138.0
+74,Copper and articles thereof,131,Saudi Arabia,23977219.0
+74,Copper and articles thereof,134,Sri Lanka,743312.0
+74,Copper and articles thereof,146,Kyrgyzstan,449300.0
+74,Copper and articles thereof,201,Algeria,3153557.0
+74,Copper and articles thereof,215,Egypt,7619703.0
+74,Copper and articles thereof,226,Libya,265819.0
+74,Copper and articles thereof,228,Malawi,603281.0
+74,Copper and articles thereof,232,Morocco,12819492.0
+74,Copper and articles thereof,236,Nigeria,19021384.0
+74,Copper and articles thereof,247,Tanzania,11800394.0
+74,Copper and articles thereof,248,Togo,922207.0
+74,Copper and articles thereof,253,Zambia,358346327.0
+74,Copper and articles thereof,302,Denmark,104332.0
+74,Copper and articles thereof,308,Luxembourg,3671442.0
+74,Copper and articles thereof,311,Portugal,12723360.0
+74,Copper and articles thereof,328,Romania,4568010.0
+74,Copper and articles thereof,330,Sweden,218404.0
+74,Copper and articles thereof,331,Switzerland,2000357.0
+74,Copper and articles thereof,334,Estonia,623046.0
+74,Copper and articles thereof,335,Latvia,4715152.0
+74,Copper and articles thereof,343,Moldova,3177.0
+74,Copper and articles thereof,347,Ukraine,400.0
+74,Copper and articles thereof,352,Czechia（Czech Republic）,1853599.0
+74,Copper and articles thereof,353,Slovakia,142385.0
+74,Copper and articles thereof,355,Bosnia and Herzegovina,2384.0
+74,Copper and articles thereof,402,Argentina,938190.0
+74,Copper and articles thereof,412,Chile,487955290.0
+74,Copper and articles thereof,413,Colombia,17569675.0
+74,Copper and articles thereof,416,Cuba,403293.0
+74,Copper and articles thereof,418,Dominican Republic,2639433.0
+74,Copper and articles thereof,419,Ecuador,10399234.0
+74,Copper and articles thereof,423,Guatemala,622506.0
+74,Copper and articles thereof,426,Honduras,1385916.0
+74,Copper and articles thereof,432,Panama,517783.0
+74,Copper and articles thereof,433,Paraguay,2857333.0
+74,Copper and articles thereof,434,Peru,56066651.0
+74,Copper and articles thereof,445,Venezuela,7356934.0
+74,Copper and articles thereof,609,New Zealand,2832891.0
+74,Copper and articles thereof,611,Papua New Guinea,160766.0
+75,Nickel and articles thereof,115,Israel,299953.0
+75,Nickel and articles thereof,302,Denmark,448261.0
+75,Nickel and articles thereof,323,Liechtenstein,4078.0
+75,Nickel and articles thereof,330,Sweden,1377366.0
+75,Nickel and articles thereof,331,Switzerland,1990810.0
+75,Nickel and articles thereof,347,Ukraine,3402.0
+75,Nickel and articles thereof,352,Czechia（Czech Republic）,1010617.0
+75,Nickel and articles thereof,416,Cuba,6533630.0
+75,Nickel and articles thereof,611,Papua New Guinea,19719384.0
+76,Aluminium and articles thereof,103,Bangladesh,1326061.0
+76,Aluminium and articles thereof,106,Myanmar,2386405.0
+76,Aluminium and articles thereof,107,Cambodia,1953791.0
+76,Aluminium and articles thereof,114,Iraq,1357496.0
+76,Aluminium and articles thereof,115,Israel,477035.0
+76,Aluminium and articles thereof,117,Jordan,144223.0
+76,Aluminium and articles thereof,130,Qatar,186935.0
+76,Aluminium and articles thereof,131,Saudi Arabia,2048341.0
+76,Aluminium and articles thereof,134,Sri Lanka,95569.0
+76,Aluminium and articles thereof,146,Kyrgyzstan,486103.0
+76,Aluminium and articles thereof,201,Algeria,1503.0
+76,Aluminium and articles thereof,215,Egypt,423777.0
+76,Aluminium and articles thereof,226,Libya,450071.0
+76,Aluminium and articles thereof,228,Malawi,122052.0
+76,Aluminium and articles thereof,232,Morocco,437062.0
+76,Aluminium and articles thereof,236,Nigeria,3055127.0
+76,Aluminium and articles thereof,247,Tanzania,1464598.0
+76,Aluminium and articles thereof,248,Togo,2508738.0
+76,Aluminium and articles thereof,253,Zambia,633563.0
+76,Aluminium and articles thereof,302,Denmark,2549165.0
+76,Aluminium and articles thereof,308,Luxembourg,73.0
+76,Aluminium and articles thereof,311,Portugal,615186.0
+76,Aluminium and articles thereof,322,Iceland,1002987.0
+76,Aluminium and articles thereof,323,Liechtenstein,11.0
+76,Aluminium and articles thereof,328,Romania,862653.0
+76,Aluminium and articles thereof,329,San Marino,6407.0
+76,Aluminium and articles thereof,330,Sweden,2169267.0
+76,Aluminium and articles thereof,331,Switzerland,975746.0
+76,Aluminium and articles thereof,335,Latvia,53202.0
+76,Aluminium and articles thereof,352,Czechia（Czech Republic）,331677.0
+76,Aluminium and articles thereof,353,Slovakia,174231.0
+76,Aluminium and articles thereof,412,Chile,720689.0
+76,Aluminium and articles thereof,413,Colombia,471254.0
+76,Aluminium and articles thereof,418,Dominican Republic,3967.0
+76,Aluminium and articles thereof,419,Ecuador,603221.0
+76,Aluminium and articles thereof,423,Guatemala,233432.0
+76,Aluminium and articles thereof,434,Peru,1055159.0
+76,Aluminium and articles thereof,445,Venezuela,233167.0
+76,Aluminium and articles thereof,609,New Zealand,2132276.0
+78,Lead and articles thereof,107,Cambodia,1658732.0
+78,Lead and articles thereof,115,Israel,2594.0
+78,Lead and articles thereof,146,Kyrgyzstan,969812.0
+78,Lead and articles thereof,236,Nigeria,64037.0
+78,Lead and articles thereof,352,Czechia（Czech Republic）,6275.0
+78,Lead and articles thereof,609,New Zealand,627.0
+79,Zinc and articles thereof,103,Bangladesh,60.0
+79,Zinc and articles thereof,106,Myanmar,40120.0
+79,Zinc and articles thereof,107,Cambodia,282806.0
+79,Zinc and articles thereof,115,Israel,5.0
+79,Zinc and articles thereof,236,Nigeria,77751.0
+79,Zinc and articles thereof,302,Denmark,4102.0
+79,Zinc and articles thereof,330,Sweden,3317.0
+79,Zinc and articles thereof,331,Switzerland,107027.0
+79,Zinc and articles thereof,352,Czechia（Czech Republic）,8628.0
+79,Zinc and articles thereof,353,Slovakia,120996.0
+79,Zinc and articles thereof,434,Peru,2427957.0
+80,Tin and articles thereof,115,Israel,609.0
+80,Tin and articles thereof,215,Egypt,3211.0
+80,Tin and articles thereof,331,Switzerland,8491.0
+80,Tin and articles thereof,434,Peru,12021564.0
+81,Other base metals; cermets; articles thereof,115,Israel,1278667.0
+81,Other base metals; cermets; articles thereof,131,Saudi Arabia,183850.0
+81,Other base metals; cermets; articles thereof,232,Morocco,5214.0
+81,Other base metals; cermets; articles thereof,308,Luxembourg,55940.0
+81,Other base metals; cermets; articles thereof,323,Liechtenstein,3537.0
+81,Other base metals; cermets; articles thereof,328,Romania,14399.0
+81,Other base metals; cermets; articles thereof,330,Sweden,15312.0
+81,Other base metals; cermets; articles thereof,331,Switzerland,245431.0
+81,Other base metals; cermets; articles thereof,334,Estonia,1197987.0
+81,Other base metals; cermets; articles thereof,347,Ukraine,1315.0
+81,Other base metals; cermets; articles thereof,352,Czechia（Czech Republic）,7324.0
+81,Other base metals; cermets; articles thereof,402,Argentina,1164.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",101,Afghanistan,56.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",103,Bangladesh,314.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",107,Cambodia,191810.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",115,Israel,5778084.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",131,Saudi Arabia,900.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",215,Egypt,1074.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",232,Morocco,309.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",302,Denmark,188959.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",308,Luxembourg,737687.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",311,Portugal,133223.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",322,Iceland,3024.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",323,Liechtenstein,1552.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",328,Romania,8050.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",330,Sweden,7512630.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",331,Switzerland,8539984.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",334,Estonia,366.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",335,Latvia,1001.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",347,Ukraine,888.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",352,Czechia（Czech Republic）,1911901.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",353,Slovakia,41549.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",402,Argentina,551.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",413,Colombia,12571.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",609,New Zealand,482.0
+83,Miscellaneous articles of base metal,103,Bangladesh,103.0
+83,Miscellaneous articles of base metal,107,Cambodia,722.0
+83,Miscellaneous articles of base metal,115,Israel,73177.0
+83,Miscellaneous articles of base metal,134,Sri Lanka,358.0
+83,Miscellaneous articles of base metal,201,Algeria,39.0
+83,Miscellaneous articles of base metal,236,Nigeria,13151.0
+83,Miscellaneous articles of base metal,302,Denmark,1181239.0
+83,Miscellaneous articles of base metal,308,Luxembourg,1590.0
+83,Miscellaneous articles of base metal,311,Portugal,1379495.0
+83,Miscellaneous articles of base metal,328,Romania,1156020.0
+83,Miscellaneous articles of base metal,330,Sweden,3000816.0
+83,Miscellaneous articles of base metal,331,Switzerland,1340589.0
+83,Miscellaneous articles of base metal,334,Estonia,662.0
+83,Miscellaneous articles of base metal,352,Czechia（Czech Republic）,2221302.0
+83,Miscellaneous articles of base metal,353,Slovakia,207640.0
+83,Miscellaneous articles of base metal,355,Bosnia and Herzegovina,43744.0
+83,Miscellaneous articles of base metal,402,Argentina,62.0
+83,Miscellaneous articles of base metal,413,Colombia,2133.0
+83,Miscellaneous articles of base metal,418,Dominican Republic,41548.0
+83,Miscellaneous articles of base metal,609,New Zealand,825.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",103,Bangladesh,23383.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",106,Myanmar,900401.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",107,Cambodia,2070894.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",114,Iraq,11409.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",115,Israel,40648806.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",117,Jordan,1726.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",130,Qatar,10435.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",131,Saudi Arabia,5957124.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",134,Sri Lanka,348155.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",201,Algeria,12391.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",214,Djibouti,3000.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",215,Egypt,34297.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",226,Libya,824.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",229,Mali,107.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",232,Morocco,510570.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",236,Nigeria,1805.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",247,Tanzania,250.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",257,Swaziland,2667.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",302,Denmark,42429766.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",308,Luxembourg,2064201.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",311,Portugal,8200969.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",322,Iceland,120443.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",323,Liechtenstein,2233623.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",325,Monaco,388.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",328,Romania,12633888.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",329,San Marino,1544.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",330,Sweden,164825063.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",331,Switzerland,134538741.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",334,Estonia,876057.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",335,Latvia,114236.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",343,Moldova,973.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",347,Ukraine,650380.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",352,Czechia（Czech Republic）,78015931.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",353,Slovakia,13127419.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",354,North Macedonia,158499.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",355,Bosnia and Herzegovina,180879.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",402,Argentina,379056.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",412,Chile,198810.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",413,Colombia,42433.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",418,Dominican Republic,18080.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",419,Ecuador,507.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",423,Guatemala,139.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",426,Honduras,106080.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",432,Panama,45297.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",433,Paraguay,3124.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",434,Peru,580220.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",445,Venezuela,39.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",609,New Zealand,2147948.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",101,Afghanistan,128.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",103,Bangladesh,119210.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",106,Myanmar,4850387.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",107,Cambodia,7871456.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",115,Israel,436173204.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",117,Jordan,399.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",121,"Macao,China",1195.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",130,Qatar,824.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",131,Saudi Arabia,32570.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",134,Sri Lanka,2099387.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",144,Timor-Leste,1020.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",146,Kyrgyzstan,5980.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",215,Egypt,97870.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",229,Mali,1016.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",232,Morocco,33315663.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",236,Nigeria,6406.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",251,Burkina Faso,1780.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",253,Zambia,20.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",257,Swaziland,2131.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",302,Denmark,15377609.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",308,Luxembourg,281132.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",311,Portugal,114631950.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",322,Iceland,17867.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",323,Liechtenstein,446573.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",325,Monaco,41262.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",328,Romania,55849712.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",329,San Marino,3432.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",330,Sweden,59050463.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",331,Switzerland,74263729.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",334,Estonia,13367772.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",335,Latvia,1375668.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",343,Moldova,1064522.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",347,Ukraine,2807142.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",352,Czechia（Czech Republic）,124520555.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",353,Slovakia,22490604.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",354,North Macedonia,4305373.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",355,Bosnia and Herzegovina,312130.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",402,Argentina,7547.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",411,Cayman Islands,8201.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",412,Chile,1003.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",418,Dominican Republic,771563.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",419,Ecuador,1201.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",426,Honduras,114638.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",432,Panama,13216.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",433,Paraguay,92.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",434,Peru,1.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",447,Saint Kitts and Nevis,6078.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",609,New Zealand,424438.0
+86,"Railway or tramway locomotives, rollingstock and parts thereof;railway or tramway track fixtures and fittings and parts thereof; mechanical (including electromechanical) traffic signalling equipment of all kinds",103,Bangladesh,792.0
+86,"Railway or tramway locomotives, rollingstock and parts thereof;railway or tramway track fixtures and fittings and parts thereof; mechanical (including electromechanical) traffic signalling equipment of all kinds",115,Israel,8500.0
+86,"Railway or tramway locomotives, rollingstock and parts thereof;railway or tramway track fixtures and fittings and parts thereof; mechanical (including electromechanical) traffic signalling equipment of all kinds",302,Denmark,6212.0
+86,"Railway or tramway locomotives, rollingstock and parts thereof;railway or tramway track fixtures and fittings and parts thereof; mechanical (including electromechanical) traffic signalling equipment of all kinds",330,Sweden,283027.0
+86,"Railway or tramway locomotives, rollingstock and parts thereof;railway or tramway track fixtures and fittings and parts thereof; mechanical (including electromechanical) traffic signalling equipment of all kinds",331,Switzerland,20268043.0
+86,"Railway or tramway locomotives, rollingstock and parts thereof;railway or tramway track fixtures and fittings and parts thereof; mechanical (including electromechanical) traffic signalling equipment of all kinds",352,Czechia（Czech Republic）,5064353.0
+86,"Railway or tramway locomotives, rollingstock and parts thereof;railway or tramway track fixtures and fittings and parts thereof; mechanical (including electromechanical) traffic signalling equipment of all kinds",412,Chile,90270.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",103,Bangladesh,276839.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",105,Brunei,21.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",106,Myanmar,228.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",107,Cambodia,1679407.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",114,Iraq,1536.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",115,Israel,47147.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",117,Jordan,4726.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",131,Saudi Arabia,152.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",134,Sri Lanka,25572.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",215,Egypt,1041.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",232,Morocco,167312.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",302,Denmark,788540.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",308,Luxembourg,482291.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",311,Portugal,12019990.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",322,Iceland,13.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",323,Liechtenstein,3214222.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",325,Monaco,3812.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",328,Romania,199957987.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",330,Sweden,37478958.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",331,Switzerland,3409928.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",334,Estonia,577166.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",335,Latvia,4591.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",347,Ukraine,5459.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",352,Czechia（Czech Republic）,31811929.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",353,Slovakia,298631933.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",354,North Macedonia,87952.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",355,Bosnia and Herzegovina,484657.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",402,Argentina,57978.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",413,Colombia,240.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",418,Dominican Republic,251.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",426,Honduras,1990.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",432,Panama,1705.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",609,New Zealand,11003.0
+88,"Aircraft, spacecraft, and parts thereof",115,Israel,84705.0
+88,"Aircraft, spacecraft, and parts thereof",134,Sri Lanka,25042.0
+88,"Aircraft, spacecraft, and parts thereof",232,Morocco,772599.0
+88,"Aircraft, spacecraft, and parts thereof",302,Denmark,4818.0
+88,"Aircraft, spacecraft, and parts thereof",308,Luxembourg,250975.0
+88,"Aircraft, spacecraft, and parts thereof",311,Portugal,11130.0
+88,"Aircraft, spacecraft, and parts thereof",328,Romania,56490.0
+88,"Aircraft, spacecraft, and parts thereof",330,Sweden,80827.0
+88,"Aircraft, spacecraft, and parts thereof",331,Switzerland,23443.0
+88,"Aircraft, spacecraft, and parts thereof",347,Ukraine,83532.0
+88,"Aircraft, spacecraft, and parts thereof",352,Czechia（Czech Republic）,1371455.0
+89,"Ships, boats and floating structures",352,Czechia（Czech Republic）,62346.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",103,Bangladesh,349542.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",106,Myanmar,1493688.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",107,Cambodia,115185.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",114,Iraq,53.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",115,Israel,140073729.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",117,Jordan,10407.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",130,Qatar,4875.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",131,Saudi Arabia,1372.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",134,Sri Lanka,185368.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",215,Egypt,42525.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",232,Morocco,126087.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",236,Nigeria,3700.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",257,Swaziland,1324.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",302,Denmark,28422186.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",308,Luxembourg,1021462.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",311,Portugal,1400326.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",322,Iceland,186699.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",323,Liechtenstein,3963471.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",328,Romania,30625417.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",329,San Marino,2272.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",330,Sweden,29738180.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",331,Switzerland,111940603.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",334,Estonia,1357665.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",335,Latvia,1356460.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",343,Moldova,20035.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",347,Ukraine,381476.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",352,Czechia（Czech Republic）,105255724.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",353,Slovakia,1413297.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",354,North Macedonia,52652.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",355,Bosnia and Herzegovina,347.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",402,Argentina,21450.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",412,Chile,1124.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",418,Dominican Republic,12413418.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",426,Honduras,21168.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",432,Panama,21342.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",447,Saint Kitts and Nevis,3512.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",609,New Zealand,3094969.0
+91,Clocks and watches and parts thereof,103,Bangladesh,19199.0
+91,Clocks and watches and parts thereof,106,Myanmar,164704.0
+91,Clocks and watches and parts thereof,107,Cambodia,163505.0
+91,Clocks and watches and parts thereof,201,Algeria,17152.0
+91,Clocks and watches and parts thereof,302,Denmark,789.0
+91,Clocks and watches and parts thereof,311,Portugal,45143.0
+91,Clocks and watches and parts thereof,328,Romania,2061.0
+91,Clocks and watches and parts thereof,330,Sweden,1427.0
+91,Clocks and watches and parts thereof,331,Switzerland,199459302.0
+91,Clocks and watches and parts thereof,334,Estonia,40.0
+91,Clocks and watches and parts thereof,353,Slovakia,889.0
+91,Clocks and watches and parts thereof,412,Chile,50.0
+92,Musical instruments; parts and accessories of such articles,302,Denmark,92276.0
+92,Musical instruments; parts and accessories of such articles,311,Portugal,5727.0
+92,Musical instruments; parts and accessories of such articles,330,Sweden,10833.0
+92,Musical instruments; parts and accessories of such articles,331,Switzerland,16400.0
+92,Musical instruments; parts and accessories of such articles,352,Czechia（Czech Republic）,151083.0
+92,Musical instruments; parts and accessories of such articles,353,Slovakia,306.0
+92,Musical instruments; parts and accessories of such articles,402,Argentina,8642.0
+92,Musical instruments; parts and accessories of such articles,412,Chile,52630.0
+93,Arms and ammunition; parts and accessories thereof,330,Sweden,78.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",103,Bangladesh,3663.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",106,Myanmar,32031.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",107,Cambodia,69003.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",115,Israel,374359.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",121,"Macao,China",3221.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",131,Saudi Arabia,1529.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",134,Sri Lanka,121982.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",215,Egypt,53941.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",232,Morocco,1728.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",302,Denmark,1989560.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",311,Portugal,244388.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",328,Romania,1254477.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",329,San Marino,35908.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",330,Sweden,1194543.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",331,Switzerland,743705.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",334,Estonia,63911.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",335,Latvia,103238.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",343,Moldova,81390.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",347,Ukraine,11722.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",352,Czechia（Czech Republic）,1272453.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",353,Slovakia,1437662.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",354,North Macedonia,13679.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",355,Bosnia and Herzegovina,54253.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",413,Colombia,261.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",418,Dominican Republic,475.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",423,Guatemala,192.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",426,Honduras,585.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",609,New Zealand,235379.0
+95,"Toys, games and sports requisites;parts and accessories thereof",103,Bangladesh,401968.0
+95,"Toys, games and sports requisites;parts and accessories thereof",106,Myanmar,117650.0
+95,"Toys, games and sports requisites;parts and accessories thereof",107,Cambodia,1650002.0
+95,"Toys, games and sports requisites;parts and accessories thereof",131,Saudi Arabia,993.0
+95,"Toys, games and sports requisites;parts and accessories thereof",134,Sri Lanka,96210.0
+95,"Toys, games and sports requisites;parts and accessories thereof",302,Denmark,1365992.0
+95,"Toys, games and sports requisites;parts and accessories thereof",311,Portugal,111088.0
+95,"Toys, games and sports requisites;parts and accessories thereof",328,Romania,37297.0
+95,"Toys, games and sports requisites;parts and accessories thereof",329,San Marino,855.0
+95,"Toys, games and sports requisites;parts and accessories thereof",330,Sweden,414529.0
+95,"Toys, games and sports requisites;parts and accessories thereof",331,Switzerland,215965.0
+95,"Toys, games and sports requisites;parts and accessories thereof",334,Estonia,25639.0
+95,"Toys, games and sports requisites;parts and accessories thereof",335,Latvia,26302.0
+95,"Toys, games and sports requisites;parts and accessories thereof",347,Ukraine,24832.0
+95,"Toys, games and sports requisites;parts and accessories thereof",352,Czechia（Czech Republic）,1002603.0
+95,"Toys, games and sports requisites;parts and accessories thereof",353,Slovakia,36283.0
+95,"Toys, games and sports requisites;parts and accessories thereof",355,Bosnia and Herzegovina,46168.0
+95,"Toys, games and sports requisites;parts and accessories thereof",402,Argentina,3.0
+95,"Toys, games and sports requisites;parts and accessories thereof",418,Dominican Republic,3241.0
+95,"Toys, games and sports requisites;parts and accessories thereof",426,Honduras,532.0
+95,"Toys, games and sports requisites;parts and accessories thereof",434,Peru,84031.0
+95,"Toys, games and sports requisites;parts and accessories thereof",609,New Zealand,40864.0
+96,Miscellaneous manufactured articles,103,Bangladesh,42543.0
+96,Miscellaneous manufactured articles,106,Myanmar,644329.0
+96,Miscellaneous manufactured articles,107,Cambodia,71730.0
+96,Miscellaneous manufactured articles,115,Israel,2976.0
+96,Miscellaneous manufactured articles,117,Jordan,42.0
+96,Miscellaneous manufactured articles,130,Qatar,557.0
+96,Miscellaneous manufactured articles,131,Saudi Arabia,215.0
+96,Miscellaneous manufactured articles,134,Sri Lanka,11817.0
+96,Miscellaneous manufactured articles,215,Egypt,698.0
+96,Miscellaneous manufactured articles,232,Morocco,22354.0
+96,Miscellaneous manufactured articles,302,Denmark,37721.0
+96,Miscellaneous manufactured articles,308,Luxembourg,10440.0
+96,Miscellaneous manufactured articles,311,Portugal,18396.0
+96,Miscellaneous manufactured articles,323,Liechtenstein,83.0
+96,Miscellaneous manufactured articles,328,Romania,61003.0
+96,Miscellaneous manufactured articles,330,Sweden,158467.0
+96,Miscellaneous manufactured articles,331,Switzerland,1450690.0
+96,Miscellaneous manufactured articles,334,Estonia,7003.0
+96,Miscellaneous manufactured articles,347,Ukraine,5461.0
+96,Miscellaneous manufactured articles,352,Czechia（Czech Republic）,218383.0
+96,Miscellaneous manufactured articles,353,Slovakia,39608.0
+96,Miscellaneous manufactured articles,418,Dominican Republic,209.0
+96,Miscellaneous manufactured articles,419,Ecuador,126861.0
+96,Miscellaneous manufactured articles,432,Panama,1834.0
+96,Miscellaneous manufactured articles,434,Peru,3721.0
+96,Miscellaneous manufactured articles,609,New Zealand,234.0
+96,Miscellaneous manufactured articles,613,Solomon Islands,6086.0
+97,"Works of art, collectors' pieces and antiques",115,Israel,800.0
+97,"Works of art, collectors' pieces and antiques",247,Tanzania,21.0
+97,"Works of art, collectors' pieces and antiques",302,Denmark,29880.0
+97,"Works of art, collectors' pieces and antiques",311,Portugal,65153.0
+97,"Works of art, collectors' pieces and antiques",330,Sweden,549892.0
+97,"Works of art, collectors' pieces and antiques",331,Switzerland,19148.0
+97,"Works of art, collectors' pieces and antiques",402,Argentina,15547.0
+97,"Works of art, collectors' pieces and antiques",412,Chile,422.0
+97,"Works of art, collectors' pieces and antiques",413,Colombia,1113.0
+97,"Works of art, collectors' pieces and antiques",434,Peru,151716.0
+98,Commodities not classified accroding to kind,101,Afghanistan,4137.0
+98,Commodities not classified accroding to kind,103,Bangladesh,488224.0
+98,Commodities not classified accroding to kind,105,Brunei,1115.0
+98,Commodities not classified accroding to kind,106,Myanmar,32514535.0
+98,Commodities not classified accroding to kind,107,Cambodia,449351.0
+98,Commodities not classified accroding to kind,114,Iraq,14184.0
+98,Commodities not classified accroding to kind,115,Israel,268043.0
+98,Commodities not classified accroding to kind,117,Jordan,20567.0
+98,Commodities not classified accroding to kind,121,"Macao,China",101159.0
+98,Commodities not classified accroding to kind,130,Qatar,15235.0
+98,Commodities not classified accroding to kind,131,Saudi Arabia,77957.0
+98,Commodities not classified accroding to kind,134,Sri Lanka,74241.0
+98,Commodities not classified accroding to kind,144,Timor-Leste,1313.0
+98,Commodities not classified accroding to kind,146,Kyrgyzstan,1140.0
+98,Commodities not classified accroding to kind,201,Algeria,17889.0
+98,Commodities not classified accroding to kind,214,Djibouti,789.0
+98,Commodities not classified accroding to kind,215,Egypt,58914.0
+98,Commodities not classified accroding to kind,226,Libya,2289.0
+98,Commodities not classified accroding to kind,228,Malawi,122.0
+98,Commodities not classified accroding to kind,229,Mali,2782.0
+98,Commodities not classified accroding to kind,232,Morocco,48940.0
+98,Commodities not classified accroding to kind,236,Nigeria,15288.0
+98,Commodities not classified accroding to kind,238,Rwanda,873.0
+98,Commodities not classified accroding to kind,246,Sudan,585.0
+98,Commodities not classified accroding to kind,247,Tanzania,4953.0
+98,Commodities not classified accroding to kind,248,Togo,4267.0
+98,Commodities not classified accroding to kind,251,Burkina Faso,1330.0
+98,Commodities not classified accroding to kind,253,Zambia,7094.0
+98,Commodities not classified accroding to kind,257,Swaziland,477.0
+98,Commodities not classified accroding to kind,302,Denmark,257197.0
+98,Commodities not classified accroding to kind,308,Luxembourg,8199.0
+98,Commodities not classified accroding to kind,311,Portugal,404188.0
+98,Commodities not classified accroding to kind,322,Iceland,5175.0
+98,Commodities not classified accroding to kind,323,Liechtenstein,495.0
+98,Commodities not classified accroding to kind,325,Monaco,2449.0
+98,Commodities not classified accroding to kind,328,Romania,191384.0
+98,Commodities not classified accroding to kind,329,San Marino,259.0
+98,Commodities not classified accroding to kind,330,Sweden,560118.0
+98,Commodities not classified accroding to kind,331,Switzerland,627306.0
+98,Commodities not classified accroding to kind,334,Estonia,23652.0
+98,Commodities not classified accroding to kind,335,Latvia,14328.0
+98,Commodities not classified accroding to kind,343,Moldova,24014.0
+98,Commodities not classified accroding to kind,347,Ukraine,29037.0
+98,Commodities not classified accroding to kind,352,Czechia（Czech Republic）,122206.0
+98,Commodities not classified accroding to kind,353,Slovakia,67078.0
+98,Commodities not classified accroding to kind,354,North Macedonia,3093.0
+98,Commodities not classified accroding to kind,355,Bosnia and Herzegovina,7687.0
+98,Commodities not classified accroding to kind,402,Argentina,50348.0
+98,Commodities not classified accroding to kind,411,Cayman Islands,894.0
+98,Commodities not classified accroding to kind,412,Chile,77227.0
+98,Commodities not classified accroding to kind,413,Colombia,47675.0
+98,Commodities not classified accroding to kind,416,Cuba,312.0
+98,Commodities not classified accroding to kind,418,Dominican Republic,15697.0
+98,Commodities not classified accroding to kind,419,Ecuador,16985.0
+98,Commodities not classified accroding to kind,423,Guatemala,16258.0
+98,Commodities not classified accroding to kind,426,Honduras,11995.0
+98,Commodities not classified accroding to kind,432,Panama,17105.0
+98,Commodities not classified accroding to kind,433,Paraguay,6019.0
+98,Commodities not classified accroding to kind,434,Peru,539942.0
+98,Commodities not classified accroding to kind,439,Saint Vincent and the Grenadines,10.0
+98,Commodities not classified accroding to kind,445,Venezuela,4225.0
+98,Commodities not classified accroding to kind,447,Saint Kitts and Nevis,1.0
+98,Commodities not classified accroding to kind,449,"Bonaire, Sint Eustatius and Saba",44.0
+98,Commodities not classified accroding to kind,499,Other Latin American Territories,432.0
+98,Commodities not classified accroding to kind,504,Bermuda,9.0
+98,Commodities not classified accroding to kind,602,Cook Islands,4649.0
+98,Commodities not classified accroding to kind,603,Fiji,3217.0
+98,Commodities not classified accroding to kind,608,Vanuatu,875.0
+98,Commodities not classified accroding to kind,609,New Zealand,2243098.0
+98,Commodities not classified accroding to kind,611,Papua New Guinea,1727.0
+98,Commodities not classified accroding to kind,619,Tuvalu,38.0
+98,Commodities not classified accroding to kind,620,The Federated States of Micronesia,350.0
+98,Commodities not classified accroding to kind,623,French Polynesia,148.0
