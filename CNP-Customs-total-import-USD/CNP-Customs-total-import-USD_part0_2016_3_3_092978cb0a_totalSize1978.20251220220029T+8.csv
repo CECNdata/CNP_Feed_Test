@@ -1,0 +1,1979 @@
+Commodity code,Commodity,Trading partner code,Trading partner,US dollar
+1,Live animals,112,Indonesia,80636.0
+1,Live animals,116,Japan,376457.0
+1,Live animals,136,Thailand,4088.0
+1,Live animals,141,Viet Nam,289000.0
+1,Live animals,143,"Taiwan,China",65149.0
+1,Live animals,303,United Kingdom,2000.0
+1,Live animals,304,Germany,4774.0
+1,Live animals,502,United States,434022.0
+1,Live animals,601,Australia,15926685.0
+2,Meat and edible meat offal,303,United Kingdom,9730309.0
+2,Meat and edible meat offal,304,Germany,71939892.0
+2,Meat and edible meat offal,502,United States,107681283.0
+2,Meat and edible meat offal,601,Australia,54901005.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",110,"Hong Kong,China",345115.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",111,India,8264815.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",112,Indonesia,26716037.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",116,Japan,12985021.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",122,Malaysia,3941614.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",126,Oman,846011.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",132,Singapore,612173.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",133,Republic of Korea,19070579.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",136,Thailand,19223982.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",141,Viet Nam,7202317.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",142,China,1083759.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",143,"Taiwan,China",9898594.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",145,Kazakhstan,110405.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",223,Cote d'lvoire,17889.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",230,Mauritania,616428.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",231,Mauritius,149420.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",234,Namibia,194947.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",240,Senegal,314482.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",303,United Kingdom,3070489.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",304,Germany,1027674.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",324,Malta,58423.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",344,Russia,165662862.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",424,Guyana,213465.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",441,Suriname,80249.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",502,United States,84124818.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",601,Australia,5617760.0
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates",618,Kiribati,318408.0
+4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",112,Indonesia,1551271.0
+4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",113,Iran,41375.0
+4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",116,Japan,7784.0
+4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",122,Malaysia,1688027.0
+4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",132,Singapore,384573.0
+4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",133,Republic of Korea,1800129.0
+4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",136,Thailand,251043.0
+4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",142,China,82660.0
+4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",143,"Taiwan,China",1351741.0
+4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",303,United Kingdom,1962863.0
+4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",304,Germany,25146429.0
+4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",344,Russia,147104.0
+4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",502,United States,21489768.0
+4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",601,Australia,28203162.0
+5,"roducts of animal origin,not elsewhere specified or included",110,"Hong Kong,China",18992.0
+5,"roducts of animal origin,not elsewhere specified or included",111,India,42338.0
+5,"roducts of animal origin,not elsewhere specified or included",112,Indonesia,676217.0
+5,"roducts of animal origin,not elsewhere specified or included",116,Japan,276133.0
+5,"roducts of animal origin,not elsewhere specified or included",122,Malaysia,36195.0
+5,"roducts of animal origin,not elsewhere specified or included",133,Republic of Korea,306562.0
+5,"roducts of animal origin,not elsewhere specified or included",136,Thailand,201178.0
+5,"roducts of animal origin,not elsewhere specified or included",141,Viet Nam,112244.0
+5,"roducts of animal origin,not elsewhere specified or included",142,China,972196.0
+5,"roducts of animal origin,not elsewhere specified or included",143,"Taiwan,China",1541207.0
+5,"roducts of animal origin,not elsewhere specified or included",145,Kazakhstan,286407.0
+5,"roducts of animal origin,not elsewhere specified or included",303,United Kingdom,63241.0
+5,"roducts of animal origin,not elsewhere specified or included",304,Germany,3161170.0
+5,"roducts of animal origin,not elsewhere specified or included",344,Russia,929830.0
+5,"roducts of animal origin,not elsewhere specified or included",502,United States,15198934.0
+5,"roducts of animal origin,not elsewhere specified or included",601,Australia,3471217.0
+6,"Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",111,India,32534.0
+6,"Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",112,Indonesia,15307.0
+6,"Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",116,Japan,5656503.0
+6,"Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",122,Malaysia,7883.0
+6,"Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",133,Republic of Korea,329651.0
+6,"Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",136,Thailand,1315737.0
+6,"Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",141,Viet Nam,438630.0
+6,"Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",142,China,7784.0
+6,"Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",143,"Taiwan,China",308505.0
+6,"Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",217,Ethiopia,36903.0
+6,"Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",223,Cote d'lvoire,20.0
+6,"Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",304,Germany,4299.0
+6,"Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",502,United States,450793.0
+6,"Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",601,Australia,17818.0
+7,Edible vegetables and certain roots and tubers,111,India,2430792.0
+7,Edible vegetables and certain roots and tubers,116,Japan,69723.0
+7,Edible vegetables and certain roots and tubers,122,Malaysia,2740.0
+7,Edible vegetables and certain roots and tubers,133,Republic of Korea,90.0
+7,Edible vegetables and certain roots and tubers,136,Thailand,129809057.0
+7,Edible vegetables and certain roots and tubers,141,Viet Nam,37487736.0
+7,Edible vegetables and certain roots and tubers,142,China,55575.0
+7,Edible vegetables and certain roots and tubers,143,"Taiwan,China",3340.0
+7,Edible vegetables and certain roots and tubers,303,United Kingdom,491396.0
+7,Edible vegetables and certain roots and tubers,304,Germany,3506.0
+7,Edible vegetables and certain roots and tubers,344,Russia,59344.0
+7,Edible vegetables and certain roots and tubers,502,United States,2974224.0
+7,Edible vegetables and certain roots and tubers,601,Australia,50.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,111,India,1348437.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,112,Indonesia,3450358.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,113,Iran,2857513.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,116,Japan,184936.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,122,Malaysia,7445092.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,133,Republic of Korea,58854.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,136,Thailand,50045021.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,141,Viet Nam,62729255.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,142,China,188354.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,143,"Taiwan,China",20848527.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,149,Uzbekistan,1529044.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,303,United Kingdom,8598.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,304,Germany,40757.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,344,Russia,906194.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,358,Serbia,129532.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,502,United States,42421304.0
+8,Edible fruit and nuts; peel of citrus fruit or melons,601,Australia,23607543.0
+9,"Coffee, tea, maté and spices",110,"Hong Kong,China",12699.0
+9,"Coffee, tea, maté and spices",111,India,2706611.0
+9,"Coffee, tea, maté and spices",112,Indonesia,2432298.0
+9,"Coffee, tea, maté and spices",113,Iran,158427.0
+9,"Coffee, tea, maté and spices",116,Japan,350161.0
+9,"Coffee, tea, maté and spices",119,Lao,300243.0
+9,"Coffee, tea, maté and spices",122,Malaysia,2409929.0
+9,"Coffee, tea, maté and spices",132,Singapore,459890.0
+9,"Coffee, tea, maté and spices",133,Republic of Korea,83881.0
+9,"Coffee, tea, maté and spices",136,Thailand,13658.0
+9,"Coffee, tea, maté and spices",141,Viet Nam,15999770.0
+9,"Coffee, tea, maté and spices",142,China,940680.0
+9,"Coffee, tea, maté and spices",143,"Taiwan,China",1505109.0
+9,"Coffee, tea, maté and spices",205,Burundi,228618.0
+9,"Coffee, tea, maté and spices",217,Ethiopia,103902.0
+9,"Coffee, tea, maté and spices",231,Mauritius,12000.0
+9,"Coffee, tea, maté and spices",303,United Kingdom,901940.0
+9,"Coffee, tea, maté and spices",304,Germany,289761.0
+9,"Coffee, tea, maté and spices",351,Croatia,1502.0
+9,"Coffee, tea, maté and spices",502,United States,1178759.0
+9,"Coffee, tea, maté and spices",601,Australia,88732.0
+10,Cereals,116,Japan,151309.0
+10,Cereals,133,Republic of Korea,131885.0
+10,Cereals,136,Thailand,55250085.0
+10,Cereals,141,Viet Nam,87739721.0
+10,Cereals,145,Kazakhstan,8493213.0
+10,Cereals,303,United Kingdom,81487.0
+10,Cereals,304,Germany,1396955.0
+10,Cereals,344,Russia,3981054.0
+10,Cereals,502,United States,176149311.0
+10,Cereals,601,Australia,73982625.0
+11,Products of the milling industry;malt;starches; inulin; wheat gluten,112,Indonesia,78506.0
+11,Products of the milling industry;malt;starches; inulin; wheat gluten,116,Japan,159825.0
+11,Products of the milling industry;malt;starches; inulin; wheat gluten,119,Lao,7695248.0
+11,Products of the milling industry;malt;starches; inulin; wheat gluten,122,Malaysia,99141.0
+11,Products of the milling industry;malt;starches; inulin; wheat gluten,133,Republic of Korea,152023.0
+11,Products of the milling industry;malt;starches; inulin; wheat gluten,136,Thailand,59371943.0
+11,Products of the milling industry;malt;starches; inulin; wheat gluten,141,Viet Nam,16306780.0
+11,Products of the milling industry;malt;starches; inulin; wheat gluten,143,"Taiwan,China",91894.0
+11,Products of the milling industry;malt;starches; inulin; wheat gluten,145,Kazakhstan,57325.0
+11,Products of the milling industry;malt;starches; inulin; wheat gluten,303,United Kingdom,55196.0
+11,Products of the milling industry;malt;starches; inulin; wheat gluten,304,Germany,2197482.0
+11,Products of the milling industry;malt;starches; inulin; wheat gluten,344,Russia,424287.0
+11,Products of the milling industry;malt;starches; inulin; wheat gluten,502,United States,1368860.0
+11,Products of the milling industry;malt;starches; inulin; wheat gluten,601,Australia,187496.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",110,"Hong Kong,China",12796.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",111,India,3598490.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",112,Indonesia,10206355.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",113,Iran,3288.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",116,Japan,3267254.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",119,Lao,4541910.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",122,Malaysia,98812.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",133,Republic of Korea,762208.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",136,Thailand,1257259.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",141,Viet Nam,171306.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",142,China,715838.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",143,"Taiwan,China",133379.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",145,Kazakhstan,4359796.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",149,Uzbekistan,140522.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",217,Ethiopia,49147787.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",240,Senegal,21196642.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",243,Somalia,1704251.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",303,United Kingdom,4390.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",304,Germany,1775031.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",324,Malta,18.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",344,Russia,26506088.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",502,United States,1779897883.0
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",601,Australia,7303738.0
+13,"Lac; gums, resins and other vegetable saps and extracts",110,"Hong Kong,China",15419.0
+13,"Lac; gums, resins and other vegetable saps and extracts",111,India,1690337.0
+13,"Lac; gums, resins and other vegetable saps and extracts",112,Indonesia,939729.0
+13,"Lac; gums, resins and other vegetable saps and extracts",116,Japan,369345.0
+13,"Lac; gums, resins and other vegetable saps and extracts",119,Lao,158391.0
+13,"Lac; gums, resins and other vegetable saps and extracts",122,Malaysia,156307.0
+13,"Lac; gums, resins and other vegetable saps and extracts",132,Singapore,1410441.0
+13,"Lac; gums, resins and other vegetable saps and extracts",133,Republic of Korea,995139.0
+13,"Lac; gums, resins and other vegetable saps and extracts",136,Thailand,220426.0
+13,"Lac; gums, resins and other vegetable saps and extracts",141,Viet Nam,737885.0
+13,"Lac; gums, resins and other vegetable saps and extracts",142,China,143057.0
+13,"Lac; gums, resins and other vegetable saps and extracts",143,"Taiwan,China",271922.0
+13,"Lac; gums, resins and other vegetable saps and extracts",148,Turkmenistan,711127.0
+13,"Lac; gums, resins and other vegetable saps and extracts",217,Ethiopia,98294.0
+13,"Lac; gums, resins and other vegetable saps and extracts",243,Somalia,116950.0
+13,"Lac; gums, resins and other vegetable saps and extracts",303,United Kingdom,181624.0
+13,"Lac; gums, resins and other vegetable saps and extracts",304,Germany,867413.0
+13,"Lac; gums, resins and other vegetable saps and extracts",502,United States,1376387.0
+13,"Lac; gums, resins and other vegetable saps and extracts",601,Australia,105147.0
+14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,111,India,4652824.0
+14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,112,Indonesia,414943.0
+14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,116,Japan,28022.0
+14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,122,Malaysia,3964179.0
+14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,125,Nepal,3928.0
+14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,132,Singapore,133309.0
+14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,135,Syria,92267.0
+14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,136,Thailand,139574.0
+14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,141,Viet Nam,191833.0
+14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,142,China,26706.0
+14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,143,"Taiwan,China",102344.0
+14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,148,Turkmenistan,1624498.0
+14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,149,Uzbekistan,2340744.0
+14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,502,United States,377670.0
+15,Animal or vegetable fats and oils and their cleavage produ prepared edible fats;animal or vegetable waxes,110,"Hong Kong,China",328034.0
+15,Animal or vegetable fats and oils and their cleavage produ prepared edible fats;animal or vegetable waxes,111,India,20814558.0
+15,Animal or vegetable fats and oils and their cleavage produ prepared edible fats;animal or vegetable waxes,112,Indonesia,294001664.0
+15,Animal or vegetable fats and oils and their cleavage produ prepared edible fats;animal or vegetable waxes,116,Japan,756097.0
+15,Animal or vegetable fats and oils and their cleavage produ prepared edible fats;animal or vegetable waxes,122,Malaysia,56242624.0
+15,Animal or vegetable fats and oils and their cleavage produ prepared edible fats;animal or vegetable waxes,132,Singapore,704271.0
+15,Animal or vegetable fats and oils and their cleavage produ prepared edible fats;animal or vegetable waxes,133,Republic of Korea,402903.0
+15,Animal or vegetable fats and oils and their cleavage produ prepared edible fats;animal or vegetable waxes,136,Thailand,2064630.0
+15,Animal or vegetable fats and oils and their cleavage produ prepared edible fats;animal or vegetable waxes,141,Viet Nam,240064.0
+15,Animal or vegetable fats and oils and their cleavage produ prepared edible fats;animal or vegetable waxes,142,China,141747.0
+15,Animal or vegetable fats and oils and their cleavage produ prepared edible fats;animal or vegetable waxes,143,"Taiwan,China",528617.0
+15,Animal or vegetable fats and oils and their cleavage produ prepared edible fats;animal or vegetable waxes,145,Kazakhstan,3329988.0
+15,Animal or vegetable fats and oils and their cleavage produ prepared edible fats;animal or vegetable waxes,240,Senegal,196053.0
+15,Animal or vegetable fats and oils and their cleavage produ prepared edible fats;animal or vegetable waxes,249,Tunisia,41145.0
+15,Animal or vegetable fats and oils and their cleavage produ prepared edible fats;animal or vegetable waxes,303,United Kingdom,189743.0
+15,Animal or vegetable fats and oils and their cleavage produ prepared edible fats;animal or vegetable waxes,304,Germany,9299716.0
+15,Animal or vegetable fats and oils and their cleavage produ prepared edible fats;animal or vegetable waxes,344,Russia,12828032.0
+15,Animal or vegetable fats and oils and their cleavage produ prepared edible fats;animal or vegetable waxes,502,United States,4971635.0
+15,Animal or vegetable fats and oils and their cleavage produ prepared edible fats;animal or vegetable waxes,601,Australia,6934779.0
+16,"Preparations of meat, of fish or ofcrustaceans,molluscs or other aquatic invertebrates",112,Indonesia,74641.0
+16,"Preparations of meat, of fish or ofcrustaceans,molluscs or other aquatic invertebrates",116,Japan,1161803.0
+16,"Preparations of meat, of fish or ofcrustaceans,molluscs or other aquatic invertebrates",122,Malaysia,266299.0
+16,"Preparations of meat, of fish or ofcrustaceans,molluscs or other aquatic invertebrates",132,Singapore,87404.0
+16,"Preparations of meat, of fish or ofcrustaceans,molluscs or other aquatic invertebrates",133,Republic of Korea,2804314.0
+16,"Preparations of meat, of fish or ofcrustaceans,molluscs or other aquatic invertebrates",136,Thailand,3332653.0
+16,"Preparations of meat, of fish or ofcrustaceans,molluscs or other aquatic invertebrates",141,Viet Nam,179094.0
+16,"Preparations of meat, of fish or ofcrustaceans,molluscs or other aquatic invertebrates",142,China,223228.0
+16,"Preparations of meat, of fish or ofcrustaceans,molluscs or other aquatic invertebrates",143,"Taiwan,China",915569.0
+16,"Preparations of meat, of fish or ofcrustaceans,molluscs or other aquatic invertebrates",230,Mauritania,22644.0
+16,"Preparations of meat, of fish or ofcrustaceans,molluscs or other aquatic invertebrates",240,Senegal,71060.0
+16,"Preparations of meat, of fish or ofcrustaceans,molluscs or other aquatic invertebrates",303,United Kingdom,32006.0
+16,"Preparations of meat, of fish or ofcrustaceans,molluscs or other aquatic invertebrates",304,Germany,8.0
+16,"Preparations of meat, of fish or ofcrustaceans,molluscs or other aquatic invertebrates",344,Russia,118960.0
+16,"Preparations of meat, of fish or ofcrustaceans,molluscs or other aquatic invertebrates",502,United States,433887.0
+16,"Preparations of meat, of fish or ofcrustaceans,molluscs or other aquatic invertebrates",601,Australia,15717.0
+17,Sugars and sugar confectionery,110,"Hong Kong,China",55135.0
+17,Sugars and sugar confectionery,111,India,26552.0
+17,Sugars and sugar confectionery,112,Indonesia,235754.0
+17,Sugars and sugar confectionery,113,Iran,37899.0
+17,Sugars and sugar confectionery,116,Japan,690919.0
+17,Sugars and sugar confectionery,122,Malaysia,3157573.0
+17,Sugars and sugar confectionery,132,Singapore,291259.0
+17,Sugars and sugar confectionery,133,Republic of Korea,8729213.0
+17,Sugars and sugar confectionery,136,Thailand,15949217.0
+17,Sugars and sugar confectionery,141,Viet Nam,113376.0
+17,Sugars and sugar confectionery,142,China,4634.0
+17,Sugars and sugar confectionery,143,"Taiwan,China",2673047.0
+17,Sugars and sugar confectionery,145,Kazakhstan,78394.0
+17,Sugars and sugar confectionery,303,United Kingdom,37964.0
+17,Sugars and sugar confectionery,304,Germany,1787609.0
+17,Sugars and sugar confectionery,344,Russia,30701.0
+17,Sugars and sugar confectionery,502,United States,4455955.0
+17,Sugars and sugar confectionery,601,Australia,2168628.0
+18,Cocoa and cocoa preparations,111,India,30792.0
+18,Cocoa and cocoa preparations,112,Indonesia,3211375.0
+18,Cocoa and cocoa preparations,113,Iran,9375.0
+18,Cocoa and cocoa preparations,116,Japan,608315.0
+18,Cocoa and cocoa preparations,122,Malaysia,6828026.0
+18,Cocoa and cocoa preparations,132,Singapore,2554046.0
+18,Cocoa and cocoa preparations,133,Republic of Korea,666058.0
+18,Cocoa and cocoa preparations,136,Thailand,26950.0
+18,Cocoa and cocoa preparations,141,Viet Nam,51088.0
+18,Cocoa and cocoa preparations,143,"Taiwan,China",265449.0
+18,Cocoa and cocoa preparations,206,Cameroon,1246603.0
+18,Cocoa and cocoa preparations,223,Cote d'lvoire,628849.0
+18,Cocoa and cocoa preparations,303,United Kingdom,195257.0
+18,Cocoa and cocoa preparations,304,Germany,1190856.0
+18,Cocoa and cocoa preparations,344,Russia,449233.0
+18,Cocoa and cocoa preparations,351,Croatia,52.0
+18,Cocoa and cocoa preparations,502,United States,2061375.0
+18,Cocoa and cocoa preparations,601,Australia,1074689.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",110,"Hong Kong,China",3130831.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",111,India,1445.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",112,Indonesia,12962444.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",113,Iran,35844.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",116,Japan,3568137.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",122,Malaysia,10757266.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",132,Singapore,18156255.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",133,Republic of Korea,14316542.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",136,Thailand,3643049.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",141,Viet Nam,1548460.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",142,China,964825.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",143,"Taiwan,China",12457990.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",145,Kazakhstan,21740.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",149,Uzbekistan,10211.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",303,United Kingdom,6263008.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",304,Germany,39162317.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",344,Russia,712523.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",351,Croatia,483300.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",502,United States,8622062.0
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",601,Australia,10761467.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",110,"Hong Kong,China",472245.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",111,India,748611.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",112,Indonesia,242764.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",113,Iran,9369.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",116,Japan,459176.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",122,Malaysia,1738195.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",132,Singapore,118101.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",133,Republic of Korea,10613932.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",136,Thailand,9080747.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",141,Viet Nam,2289459.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",142,China,59222.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",143,"Taiwan,China",1085336.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",303,United Kingdom,443920.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",304,Germany,916987.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",344,Russia,26506.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",351,Croatia,351.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",358,Serbia,41006.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",502,United States,18617672.0
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",601,Australia,515127.0
+21,Miscellaneous edible preparations,110,"Hong Kong,China",2557978.0
+21,Miscellaneous edible preparations,111,India,190694.0
+21,Miscellaneous edible preparations,112,Indonesia,3290085.0
+21,Miscellaneous edible preparations,116,Japan,7538756.0
+21,Miscellaneous edible preparations,119,Lao,29526.0
+21,Miscellaneous edible preparations,122,Malaysia,8883015.0
+21,Miscellaneous edible preparations,132,Singapore,3469204.0
+21,Miscellaneous edible preparations,133,Republic of Korea,9077290.0
+21,Miscellaneous edible preparations,136,Thailand,14136578.0
+21,Miscellaneous edible preparations,141,Viet Nam,24681453.0
+21,Miscellaneous edible preparations,142,China,14038880.0
+21,Miscellaneous edible preparations,143,"Taiwan,China",11517484.0
+21,Miscellaneous edible preparations,145,Kazakhstan,820.0
+21,Miscellaneous edible preparations,249,Tunisia,31131.0
+21,Miscellaneous edible preparations,303,United Kingdom,4558089.0
+21,Miscellaneous edible preparations,304,Germany,9272303.0
+21,Miscellaneous edible preparations,344,Russia,244586.0
+21,Miscellaneous edible preparations,351,Croatia,169.0
+21,Miscellaneous edible preparations,502,United States,33436930.0
+21,Miscellaneous edible preparations,601,Australia,17679004.0
+22,"Beverages, spirits and vinegar",110,"Hong Kong,China",2300452.0
+22,"Beverages, spirits and vinegar",111,India,1138.0
+22,"Beverages, spirits and vinegar",112,Indonesia,299894.0
+22,"Beverages, spirits and vinegar",116,Japan,3335860.0
+22,"Beverages, spirits and vinegar",119,Lao,133218.0
+22,"Beverages, spirits and vinegar",120,Lebanon,15101.0
+22,"Beverages, spirits and vinegar",122,Malaysia,3159637.0
+22,"Beverages, spirits and vinegar",132,Singapore,69841.0
+22,"Beverages, spirits and vinegar",133,Republic of Korea,11348341.0
+22,"Beverages, spirits and vinegar",136,Thailand,2573261.0
+22,"Beverages, spirits and vinegar",141,Viet Nam,146275.0
+22,"Beverages, spirits and vinegar",142,China,1466016.0
+22,"Beverages, spirits and vinegar",143,"Taiwan,China",11699230.0
+22,"Beverages, spirits and vinegar",149,Uzbekistan,3598.0
+22,"Beverages, spirits and vinegar",202,Angola,8008.0
+22,"Beverages, spirits and vinegar",303,United Kingdom,10720065.0
+22,"Beverages, spirits and vinegar",304,Germany,21292606.0
+22,"Beverages, spirits and vinegar",337,Georgia,686557.0
+22,"Beverages, spirits and vinegar",338,Armenia,87482.0
+22,"Beverages, spirits and vinegar",344,Russia,807442.0
+22,"Beverages, spirits and vinegar",351,Croatia,39780.0
+22,"Beverages, spirits and vinegar",358,Serbia,93426.0
+22,"Beverages, spirits and vinegar",502,United States,54698881.0
+22,"Beverages, spirits and vinegar",601,Australia,45342832.0
+23,Residues and waste from the food industries; prepared animal fodder,110,"Hong Kong,China",16746.0
+23,Residues and waste from the food industries; prepared animal fodder,111,India,92471.0
+23,Residues and waste from the food industries; prepared animal fodder,112,Indonesia,5299094.0
+23,Residues and waste from the food industries; prepared animal fodder,116,Japan,1241145.0
+23,Residues and waste from the food industries; prepared animal fodder,119,Lao,36526.0
+23,Residues and waste from the food industries; prepared animal fodder,122,Malaysia,1420979.0
+23,Residues and waste from the food industries; prepared animal fodder,132,Singapore,1136475.0
+23,Residues and waste from the food industries; prepared animal fodder,133,Republic of Korea,686797.0
+23,Residues and waste from the food industries; prepared animal fodder,136,Thailand,11964080.0
+23,Residues and waste from the food industries; prepared animal fodder,141,Viet Nam,5992112.0
+23,Residues and waste from the food industries; prepared animal fodder,142,China,37200.0
+23,Residues and waste from the food industries; prepared animal fodder,143,"Taiwan,China",1480875.0
+23,Residues and waste from the food industries; prepared animal fodder,231,Mauritius,473127.0
+23,Residues and waste from the food industries; prepared animal fodder,234,Namibia,449380.0
+23,Residues and waste from the food industries; prepared animal fodder,303,United Kingdom,1094340.0
+23,Residues and waste from the food industries; prepared animal fodder,304,Germany,1236258.0
+23,Residues and waste from the food industries; prepared animal fodder,344,Russia,17545367.0
+23,Residues and waste from the food industries; prepared animal fodder,502,United States,108302054.0
+23,Residues and waste from the food industries; prepared animal fodder,601,Australia,1863658.0
+24,Tobacco and manufactured tobacco substitutes,110,"Hong Kong,China",7871509.0
+24,Tobacco and manufactured tobacco substitutes,111,India,22464.0
+24,Tobacco and manufactured tobacco substitutes,112,Indonesia,22394.0
+24,Tobacco and manufactured tobacco substitutes,116,Japan,3580563.0
+24,Tobacco and manufactured tobacco substitutes,119,Lao,124572.0
+24,Tobacco and manufactured tobacco substitutes,122,Malaysia,715320.0
+24,Tobacco and manufactured tobacco substitutes,132,Singapore,13137675.0
+24,Tobacco and manufactured tobacco substitutes,133,Republic of Korea,1402061.0
+24,Tobacco and manufactured tobacco substitutes,141,Viet Nam,1032160.0
+24,Tobacco and manufactured tobacco substitutes,142,China,11439946.0
+24,Tobacco and manufactured tobacco substitutes,143,"Taiwan,China",1430749.0
+24,Tobacco and manufactured tobacco substitutes,303,United Kingdom,358536.0
+24,Tobacco and manufactured tobacco substitutes,304,Germany,714141.0
+24,Tobacco and manufactured tobacco substitutes,344,Russia,1356622.0
+24,Tobacco and manufactured tobacco substitutes,358,Serbia,8276856.0
+24,Tobacco and manufactured tobacco substitutes,414,Dominica,37352.0
+24,Tobacco and manufactured tobacco substitutes,502,United States,63921482.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",110,"Hong Kong,China",109150.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",111,India,77652641.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",112,Indonesia,810148.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",113,Iran,11892376.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",116,Japan,16092391.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",119,Lao,903.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",120,Lebanon,15698.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",122,Malaysia,172130.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",126,Oman,323361.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",132,Singapore,21114.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",133,Republic of Korea,14664085.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",136,Thailand,1093958.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",141,Viet Nam,2999182.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",142,China,189356.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",143,"Taiwan,China",512053.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",145,Kazakhstan,5004614.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",148,Turkmenistan,548217.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",202,Angola,901668.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",206,Cameroon,1588.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",218,Gabon,2527.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",221,Guinea,2726.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",230,Mauritania,2710.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",234,Namibia,534433.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",242,Sierra Leone,28250.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",249,Tunisia,573092.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",303,United Kingdom,1426989.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",304,Germany,1512161.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",344,Russia,18048180.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",351,Croatia,224355.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",424,Guyana,2139839.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",502,United States,17264708.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",601,Australia,19458326.0
+25,"Salt; sulphur; earths and stone;plastering materials, lime and cement",701,Countries（Territories）Unknown,1559952.0
+26,"Ores, slag and ash",102,Bahrain,856903.0
+26,"Ores, slag and ash",111,India,86767152.0
+26,"Ores, slag and ash",112,Indonesia,54629884.0
+26,"Ores, slag and ash",113,Iran,77399045.0
+26,"Ores, slag and ash",116,Japan,218456.0
+26,"Ores, slag and ash",119,Lao,49928582.0
+26,"Ores, slag and ash",122,Malaysia,74087592.0
+26,"Ores, slag and ash",126,Oman,7318530.0
+26,"Ores, slag and ash",133,Republic of Korea,1959016.0
+26,"Ores, slag and ash",136,Thailand,3319458.0
+26,"Ores, slag and ash",139,Yemen,66796.0
+26,"Ores, slag and ash",141,Viet Nam,6639989.0
+26,"Ores, slag and ash",143,"Taiwan,China",12859526.0
+26,"Ores, slag and ash",145,Kazakhstan,15211610.0
+26,"Ores, slag and ash",217,Ethiopia,469440.0
+26,"Ores, slag and ash",218,Gabon,1577297.0
+26,"Ores, slag and ash",221,Guinea,42763619.0
+26,"Ores, slag and ash",223,Cote d'lvoire,1293383.0
+26,"Ores, slag and ash",230,Mauritania,59559876.0
+26,"Ores, slag and ash",234,Namibia,10598334.0
+26,"Ores, slag and ash",240,Senegal,1063794.0
+26,"Ores, slag and ash",242,Sierra Leone,19658652.0
+26,"Ores, slag and ash",303,United Kingdom,4409.0
+26,"Ores, slag and ash",304,Germany,8387382.0
+26,"Ores, slag and ash",338,Armenia,21731245.0
+26,"Ores, slag and ash",344,Russia,53802464.0
+26,"Ores, slag and ash",358,Serbia,1118548.0
+26,"Ores, slag and ash",502,United States,75984813.0
+26,"Ores, slag and ash",601,Australia,2878507444.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",102,Bahrain,2447649.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",110,"Hong Kong,China",10967801.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",111,India,63048723.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",112,Indonesia,601326851.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",113,Iran,564373346.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",116,Japan,133181413.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",119,Lao,91995.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",122,Malaysia,246008952.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",126,Oman,553085580.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",132,Singapore,147788781.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",133,Republic of Korea,475317600.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",136,Thailand,72392181.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",141,Viet Nam,179555936.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",142,China,162252.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",143,"Taiwan,China",64252450.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",145,Kazakhstan,82761807.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",148,Turkmenistan,592218409.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",149,Uzbekistan,73416438.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",202,Angola,941125627.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",206,Cameroon,37482855.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",218,Gabon,40785924.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",221,Guinea,1472.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",260,South Sudan,103825168.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",303,United Kingdom,212241548.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",304,Germany,23175283.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",344,Russia,1433264414.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",502,United States,202919984.0
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",601,Australia,607785740.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",110,"Hong Kong,China",761721.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",111,India,23575079.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",112,Indonesia,7816363.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",116,Japan,50764764.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",122,Malaysia,16587861.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",132,Singapore,434634.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",133,Republic of Korea,147930671.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",136,Thailand,2369745.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",141,Viet Nam,18848527.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",142,China,1947997.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",143,"Taiwan,China",57133413.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",145,Kazakhstan,6032394.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",149,Uzbekistan,36915371.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",303,United Kingdom,5999522.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",304,Germany,83105160.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",324,Malta,44.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",337,Georgia,160940.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",344,Russia,8368995.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",502,United States,184935758.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",601,Australia,42472976.0
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",701,Countries（Territories）Unknown,35.0
+29,Organic chemicals,110,"Hong Kong,China",128457.0
+29,Organic chemicals,111,India,82103821.0
+29,Organic chemicals,112,Indonesia,23440944.0
+29,Organic chemicals,113,Iran,106945514.0
+29,Organic chemicals,116,Japan,594335775.0
+29,Organic chemicals,122,Malaysia,78941480.0
+29,Organic chemicals,126,Oman,69980501.0
+29,Organic chemicals,132,Singapore,106817315.0
+29,Organic chemicals,133,Republic of Korea,816775201.0
+29,Organic chemicals,136,Thailand,102679947.0
+29,Organic chemicals,141,Viet Nam,954263.0
+29,Organic chemicals,142,China,14568072.0
+29,Organic chemicals,143,"Taiwan,China",407788331.0
+29,Organic chemicals,149,Uzbekistan,380000.0
+29,Organic chemicals,303,United Kingdom,18039975.0
+29,Organic chemicals,304,Germany,98168922.0
+29,Organic chemicals,338,Armenia,545.0
+29,Organic chemicals,344,Russia,24588246.0
+29,Organic chemicals,351,Croatia,55754.0
+29,Organic chemicals,502,United States,191330002.0
+29,Organic chemicals,601,Australia,1900928.0
+29,Organic chemicals,701,Countries（Territories）Unknown,31153.0
+30,Pharmaceutical products,110,"Hong Kong,China",30145185.0
+30,Pharmaceutical products,111,India,807883.0
+30,Pharmaceutical products,112,Indonesia,287560.0
+30,Pharmaceutical products,116,Japan,78698806.0
+30,Pharmaceutical products,125,Nepal,12153.0
+30,Pharmaceutical products,132,Singapore,6042662.0
+30,Pharmaceutical products,133,Republic of Korea,15195448.0
+30,Pharmaceutical products,136,Thailand,1472421.0
+30,Pharmaceutical products,141,Viet Nam,24787.0
+30,Pharmaceutical products,142,China,95646.0
+30,Pharmaceutical products,143,"Taiwan,China",7408269.0
+30,Pharmaceutical products,303,United Kingdom,82972165.0
+30,Pharmaceutical products,304,Germany,574323650.0
+30,Pharmaceutical products,324,Malta,70210.0
+30,Pharmaceutical products,344,Russia,12937.0
+30,Pharmaceutical products,351,Croatia,428831.0
+30,Pharmaceutical products,414,Dominica,4943.0
+30,Pharmaceutical products,502,United States,196622593.0
+30,Pharmaceutical products,601,Australia,35403565.0
+30,Pharmaceutical products,701,Countries（Territories）Unknown,5223.0
+31,Fertilisers,111,India,40.0
+31,Fertilisers,112,Indonesia,688361.0
+31,Fertilisers,116,Japan,1523135.0
+31,Fertilisers,122,Malaysia,50776.0
+31,Fertilisers,133,Republic of Korea,153515.0
+31,Fertilisers,136,Thailand,19500.0
+31,Fertilisers,141,Viet Nam,123344.0
+31,Fertilisers,143,"Taiwan,China",31023.0
+31,Fertilisers,145,Kazakhstan,1845000.0
+31,Fertilisers,303,United Kingdom,944993.0
+31,Fertilisers,304,Germany,4001295.0
+31,Fertilisers,344,Russia,92657251.0
+31,Fertilisers,502,United States,9765546.0
+31,Fertilisers,601,Australia,68390.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,110,"Hong Kong,China",621471.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,111,India,12838500.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,112,Indonesia,5078726.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,116,Japan,71273436.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,122,Malaysia,5187756.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,125,Nepal,5902.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,132,Singapore,9138459.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,133,Republic of Korea,49095857.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,136,Thailand,7678099.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,141,Viet Nam,193771.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,142,China,2833600.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,143,"Taiwan,China",27765927.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,145,Kazakhstan,201600.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,249,Tunisia,22219.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,303,United Kingdom,8374713.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,304,Germany,46931592.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,344,Russia,105720.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,502,United States,43494313.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,601,Australia,10179342.0
+32,Tanning or dyeing extracts; tannins and their derivatives; dyes,701,Countries（Territories）Unknown,172.0
+33,Essential oils and resinoids; perfumery,110,"Hong Kong,China",6592450.0
+33,Essential oils and resinoids; perfumery,111,India,4666987.0
+33,Essential oils and resinoids; perfumery,112,Indonesia,1229954.0
+33,Essential oils and resinoids; perfumery,116,Japan,68758746.0
+33,Essential oils and resinoids; perfumery,122,Malaysia,215487.0
+33,Essential oils and resinoids; perfumery,125,Nepal,5650.0
+33,Essential oils and resinoids; perfumery,132,Singapore,4027312.0
+33,Essential oils and resinoids; perfumery,133,Republic of Korea,105926906.0
+33,Essential oils and resinoids; perfumery,136,Thailand,7658681.0
+33,Essential oils and resinoids; perfumery,141,Viet Nam,94019.0
+33,Essential oils and resinoids; perfumery,142,China,1499681.0
+33,Essential oils and resinoids; perfumery,143,"Taiwan,China",10991377.0
+33,Essential oils and resinoids; perfumery,221,Guinea,933.0
+33,Essential oils and resinoids; perfumery,223,Cote d'lvoire,4380.0
+33,Essential oils and resinoids; perfumery,249,Tunisia,17614.0
+33,Essential oils and resinoids; perfumery,303,United Kingdom,38752212.0
+33,Essential oils and resinoids; perfumery,304,Germany,8133138.0
+33,Essential oils and resinoids; perfumery,344,Russia,90408.0
+33,Essential oils and resinoids; perfumery,351,Croatia,7760.0
+33,Essential oils and resinoids; perfumery,425,Haiti,11792.0
+33,Essential oils and resinoids; perfumery,502,United States,63667236.0
+33,Essential oils and resinoids; perfumery,601,Australia,6611004.0
+33,Essential oils and resinoids; perfumery,701,Countries（Territories）Unknown,6.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",110,"Hong Kong,China",2599388.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",111,India,2559917.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",112,Indonesia,6401705.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",113,Iran,494264.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",116,Japan,75706864.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",122,Malaysia,9734210.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",125,Nepal,40.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",132,Singapore,6451585.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",133,Republic of Korea,21933543.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",135,Syria,86478.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",136,Thailand,3499652.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",141,Viet Nam,830422.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",142,China,976088.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",143,"Taiwan,China",14776617.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",206,Cameroon,10.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",249,Tunisia,2940.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",303,United Kingdom,4929520.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",304,Germany,59814605.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",344,Russia,189933.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",502,United States,70998607.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",601,Australia,1871815.0
+34,"Soap, organic surfaceactive agents, washing preparations,artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, “dental waxes” and dental preparations with a basis of plaster",701,Countries（Territories）Unknown,980.0
+35,Albuminoidal substances; modified starches;,110,"Hong Kong,China",178865.0
+35,Albuminoidal substances; modified starches;,111,India,723564.0
+35,Albuminoidal substances; modified starches;,112,Indonesia,1708.0
+35,Albuminoidal substances; modified starches;,116,Japan,61190129.0
+35,Albuminoidal substances; modified starches;,122,Malaysia,1765518.0
+35,Albuminoidal substances; modified starches;,132,Singapore,1811107.0
+35,Albuminoidal substances; modified starches;,133,Republic of Korea,25590239.0
+35,Albuminoidal substances; modified starches;,136,Thailand,10728184.0
+35,Albuminoidal substances; modified starches;,141,Viet Nam,1286313.0
+35,Albuminoidal substances; modified starches;,142,China,10003642.0
+35,Albuminoidal substances; modified starches;,143,"Taiwan,China",16698221.0
+35,Albuminoidal substances; modified starches;,242,Sierra Leone,101.0
+35,Albuminoidal substances; modified starches;,303,United Kingdom,5186159.0
+35,Albuminoidal substances; modified starches;,304,Germany,20431597.0
+35,Albuminoidal substances; modified starches;,344,Russia,2623.0
+35,Albuminoidal substances; modified starches;,502,United States,36309950.0
+35,Albuminoidal substances; modified starches;,601,Australia,809791.0
+35,Albuminoidal substances; modified starches;,701,Countries（Territories）Unknown,36.0
+36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,116,Japan,753631.0
+36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,132,Singapore,705916.0
+36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,136,Thailand,3470715.0
+36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,142,China,392.0
+36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,304,Germany,598940.0
+36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,502,United States,5778521.0
+36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,601,Australia,190445.0
+37,Photographic or cinematographic goods,110,"Hong Kong,China",278619.0
+37,Photographic or cinematographic goods,116,Japan,77677655.0
+37,Photographic or cinematographic goods,122,Malaysia,421868.0
+37,Photographic or cinematographic goods,132,Singapore,91509.0
+37,Photographic or cinematographic goods,133,Republic of Korea,30211947.0
+37,Photographic or cinematographic goods,136,Thailand,70113.0
+37,Photographic or cinematographic goods,141,Viet Nam,161516.0
+37,Photographic or cinematographic goods,142,China,3589505.0
+37,Photographic or cinematographic goods,143,"Taiwan,China",13599441.0
+37,Photographic or cinematographic goods,303,United Kingdom,3935423.0
+37,Photographic or cinematographic goods,304,Germany,2381655.0
+37,Photographic or cinematographic goods,502,United States,30146348.0
+37,Photographic or cinematographic goods,701,Countries（Territories）Unknown,46.0
+38,Miscellaneous chemical products,102,Bahrain,108252.0
+38,Miscellaneous chemical products,110,"Hong Kong,China",3905430.0
+38,Miscellaneous chemical products,111,India,11351083.0
+38,Miscellaneous chemical products,112,Indonesia,71420804.0
+38,Miscellaneous chemical products,113,Iran,66817.0
+38,Miscellaneous chemical products,116,Japan,228589297.0
+38,Miscellaneous chemical products,122,Malaysia,50687145.0
+38,Miscellaneous chemical products,126,Oman,681636.0
+38,Miscellaneous chemical products,132,Singapore,97002955.0
+38,Miscellaneous chemical products,133,Republic of Korea,128354252.0
+38,Miscellaneous chemical products,136,Thailand,10402934.0
+38,Miscellaneous chemical products,141,Viet Nam,5215420.0
+38,Miscellaneous chemical products,142,China,11590549.0
+38,Miscellaneous chemical products,143,"Taiwan,China",123615886.0
+38,Miscellaneous chemical products,149,Uzbekistan,100.0
+38,Miscellaneous chemical products,249,Tunisia,11072.0
+38,Miscellaneous chemical products,303,United Kingdom,33225448.0
+38,Miscellaneous chemical products,304,Germany,110909495.0
+38,Miscellaneous chemical products,324,Malta,195.0
+38,Miscellaneous chemical products,344,Russia,1578293.0
+38,Miscellaneous chemical products,351,Croatia,1138.0
+38,Miscellaneous chemical products,502,United States,250691881.0
+38,Miscellaneous chemical products,601,Australia,2503364.0
+38,Miscellaneous chemical products,701,Countries（Territories）Unknown,20623.0
+39,Plastics and articles thereof,102,Bahrain,1519.0
+39,Plastics and articles thereof,110,"Hong Kong,China",102975207.0
+39,Plastics and articles thereof,111,India,25033101.0
+39,Plastics and articles thereof,112,Indonesia,21223964.0
+39,Plastics and articles thereof,113,Iran,274971649.0
+39,Plastics and articles thereof,116,Japan,719950537.0
+39,Plastics and articles thereof,120,Lebanon,79342.0
+39,Plastics and articles thereof,122,Malaysia,108252667.0
+39,Plastics and articles thereof,125,Nepal,20813.0
+39,Plastics and articles thereof,126,Oman,90566.0
+39,Plastics and articles thereof,132,Singapore,266091155.0
+39,Plastics and articles thereof,133,Republic of Korea,879785538.0
+39,Plastics and articles thereof,136,Thailand,286460338.0
+39,Plastics and articles thereof,139,Yemen,886014.0
+39,Plastics and articles thereof,141,Viet Nam,27899148.0
+39,Plastics and articles thereof,142,China,136410731.0
+39,Plastics and articles thereof,143,"Taiwan,China",639976568.0
+39,Plastics and articles thereof,149,Uzbekistan,12588683.0
+39,Plastics and articles thereof,202,Angola,114.0
+39,Plastics and articles thereof,217,Ethiopia,337034.0
+39,Plastics and articles thereof,230,Mauritania,158117.0
+39,Plastics and articles thereof,231,Mauritius,1706.0
+39,Plastics and articles thereof,234,Namibia,602.0
+39,Plastics and articles thereof,237,Réunion,1587.0
+39,Plastics and articles thereof,242,Sierra Leone,12208.0
+39,Plastics and articles thereof,249,Tunisia,276466.0
+39,Plastics and articles thereof,303,United Kingdom,37041152.0
+39,Plastics and articles thereof,304,Germany,250418410.0
+39,Plastics and articles thereof,324,Malta,465759.0
+39,Plastics and articles thereof,337,Georgia,332.0
+39,Plastics and articles thereof,338,Armenia,408.0
+39,Plastics and articles thereof,344,Russia,13995736.0
+39,Plastics and articles thereof,351,Croatia,7512.0
+39,Plastics and articles thereof,358,Serbia,129236.0
+39,Plastics and articles thereof,425,Haiti,78158.0
+39,Plastics and articles thereof,440,El Salvador,103641.0
+39,Plastics and articles thereof,441,Suriname,36408.0
+39,Plastics and articles thereof,502,United States,543454005.0
+39,Plastics and articles thereof,601,Australia,12623429.0
+39,Plastics and articles thereof,701,Countries（Territories）Unknown,214093.0
+40,Rubber and articles thereof,110,"Hong Kong,China",1222157.0
+40,Rubber and articles thereof,111,India,2726306.0
+40,Rubber and articles thereof,112,Indonesia,30446364.0
+40,Rubber and articles thereof,113,Iran,1161540.0
+40,Rubber and articles thereof,116,Japan,132628369.0
+40,Rubber and articles thereof,122,Malaysia,83481722.0
+40,Rubber and articles thereof,125,Nepal,28.0
+40,Rubber and articles thereof,132,Singapore,22593951.0
+40,Rubber and articles thereof,133,Republic of Korea,72433535.0
+40,Rubber and articles thereof,136,Thailand,364499010.0
+40,Rubber and articles thereof,141,Viet Nam,60887048.0
+40,Rubber and articles thereof,142,China,13239321.0
+40,Rubber and articles thereof,143,"Taiwan,China",29996502.0
+40,Rubber and articles thereof,223,Cote d'lvoire,6436006.0
+40,Rubber and articles thereof,225,Liberia,49790.0
+40,Rubber and articles thereof,240,Senegal,335.0
+40,Rubber and articles thereof,249,Tunisia,2656.0
+40,Rubber and articles thereof,303,United Kingdom,12569904.0
+40,Rubber and articles thereof,304,Germany,71227905.0
+40,Rubber and articles thereof,324,Malta,928414.0
+40,Rubber and articles thereof,337,Georgia,13.0
+40,Rubber and articles thereof,344,Russia,12581456.0
+40,Rubber and articles thereof,351,Croatia,690.0
+40,Rubber and articles thereof,358,Serbia,179665.0
+40,Rubber and articles thereof,424,Guyana,3.0
+40,Rubber and articles thereof,502,United States,101272784.0
+40,Rubber and articles thereof,601,Australia,935245.0
+40,Rubber and articles thereof,701,Countries（Territories）Unknown,52114.0
+41,Raw hides and skins (other than furskins) and leather,110,"Hong Kong,China",4736524.0
+41,Raw hides and skins (other than furskins) and leather,111,India,26094683.0
+41,Raw hides and skins (other than furskins) and leather,112,Indonesia,2510027.0
+41,Raw hides and skins (other than furskins) and leather,113,Iran,58976.0
+41,Raw hides and skins (other than furskins) and leather,116,Japan,2731616.0
+41,Raw hides and skins (other than furskins) and leather,122,Malaysia,244282.0
+41,Raw hides and skins (other than furskins) and leather,125,Nepal,314800.0
+41,Raw hides and skins (other than furskins) and leather,132,Singapore,407589.0
+41,Raw hides and skins (other than furskins) and leather,133,Republic of Korea,31083079.0
+41,Raw hides and skins (other than furskins) and leather,136,Thailand,20647557.0
+41,Raw hides and skins (other than furskins) and leather,141,Viet Nam,14339585.0
+41,Raw hides and skins (other than furskins) and leather,142,China,6039575.0
+41,Raw hides and skins (other than furskins) and leather,143,"Taiwan,China",17488404.0
+41,Raw hides and skins (other than furskins) and leather,145,Kazakhstan,1427677.0
+41,Raw hides and skins (other than furskins) and leather,149,Uzbekistan,1047534.0
+41,Raw hides and skins (other than furskins) and leather,217,Ethiopia,3949612.0
+41,Raw hides and skins (other than furskins) and leather,234,Namibia,5239.0
+41,Raw hides and skins (other than furskins) and leather,249,Tunisia,6453.0
+41,Raw hides and skins (other than furskins) and leather,303,United Kingdom,10112125.0
+41,Raw hides and skins (other than furskins) and leather,304,Germany,2926466.0
+41,Raw hides and skins (other than furskins) and leather,344,Russia,1111522.0
+41,Raw hides and skins (other than furskins) and leather,351,Croatia,420581.0
+41,Raw hides and skins (other than furskins) and leather,358,Serbia,96.0
+41,Raw hides and skins (other than furskins) and leather,425,Haiti,35464.0
+41,Raw hides and skins (other than furskins) and leather,502,United States,120306832.0
+41,Raw hides and skins (other than furskins) and leather,601,Australia,48628595.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",110,"Hong Kong,China",283915.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",111,India,3529924.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",112,Indonesia,2048025.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",116,Japan,1053233.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",119,Lao,23884.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",122,Malaysia,103630.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",125,Nepal,6289.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",132,Singapore,98144.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",133,Republic of Korea,7193611.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",136,Thailand,1228037.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",141,Viet Nam,16560236.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",142,China,27423463.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",143,"Taiwan,China",833307.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",231,Mauritius,42856.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",249,Tunisia,260082.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",303,United Kingdom,600512.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",304,Germany,1324546.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",344,Russia,150.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",351,Croatia,587681.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",502,United States,1218708.0
+42,"Articles of leather; saddlery and harness;travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",601,Australia,410424.0
+43,Furskins and artificial fur; manufactures thereof,110,"Hong Kong,China",1012875.0
+43,Furskins and artificial fur; manufactures thereof,111,India,23392.0
+43,Furskins and artificial fur; manufactures thereof,116,Japan,127971.0
+43,Furskins and artificial fur; manufactures thereof,122,Malaysia,683895.0
+43,Furskins and artificial fur; manufactures thereof,133,Republic of Korea,86347.0
+43,Furskins and artificial fur; manufactures thereof,136,Thailand,24501.0
+43,Furskins and artificial fur; manufactures thereof,141,Viet Nam,1595960.0
+43,Furskins and artificial fur; manufactures thereof,142,China,611523.0
+43,Furskins and artificial fur; manufactures thereof,145,Kazakhstan,28384.0
+43,Furskins and artificial fur; manufactures thereof,303,United Kingdom,7455.0
+43,Furskins and artificial fur; manufactures thereof,304,Germany,5023.0
+43,Furskins and artificial fur; manufactures thereof,344,Russia,38340.0
+43,Furskins and artificial fur; manufactures thereof,351,Croatia,116.0
+43,Furskins and artificial fur; manufactures thereof,502,United States,1252354.0
+44,Wood and articles of wood; wood charcoal,110,"Hong Kong,China",67622.0
+44,Wood and articles of wood; wood charcoal,111,India,4955930.0
+44,Wood and articles of wood; wood charcoal,112,Indonesia,85321585.0
+44,Wood and articles of wood; wood charcoal,113,Iran,1334.0
+44,Wood and articles of wood; wood charcoal,116,Japan,7423283.0
+44,Wood and articles of wood; wood charcoal,119,Lao,28159382.0
+44,Wood and articles of wood; wood charcoal,122,Malaysia,16001799.0
+44,Wood and articles of wood; wood charcoal,125,Nepal,8549.0
+44,Wood and articles of wood; wood charcoal,132,Singapore,22351.0
+44,Wood and articles of wood; wood charcoal,133,Republic of Korea,513679.0
+44,Wood and articles of wood; wood charcoal,136,Thailand,152859085.0
+44,Wood and articles of wood; wood charcoal,141,Viet Nam,53787798.0
+44,Wood and articles of wood; wood charcoal,142,China,2044441.0
+44,Wood and articles of wood; wood charcoal,143,"Taiwan,China",2681734.0
+44,Wood and articles of wood; wood charcoal,202,Angola,269927.0
+44,Wood and articles of wood; wood charcoal,206,Cameroon,16716002.0
+44,Wood and articles of wood; wood charcoal,218,Gabon,14613183.0
+44,Wood and articles of wood; wood charcoal,221,Guinea,1535742.0
+44,Wood and articles of wood; wood charcoal,223,Cote d'lvoire,1985310.0
+44,Wood and articles of wood; wood charcoal,225,Liberia,5134463.0
+44,Wood and articles of wood; wood charcoal,240,Senegal,114521.0
+44,Wood and articles of wood; wood charcoal,242,Sierra Leone,6529894.0
+44,Wood and articles of wood; wood charcoal,303,United Kingdom,241040.0
+44,Wood and articles of wood; wood charcoal,304,Germany,25496293.0
+44,Wood and articles of wood; wood charcoal,344,Russia,322748936.0
+44,Wood and articles of wood; wood charcoal,351,Croatia,1998619.0
+44,Wood and articles of wood; wood charcoal,358,Serbia,1369437.0
+44,Wood and articles of wood; wood charcoal,424,Guyana,711920.0
+44,Wood and articles of wood; wood charcoal,441,Suriname,2175606.0
+44,Wood and articles of wood; wood charcoal,502,United States,234924347.0
+44,Wood and articles of wood; wood charcoal,601,Australia,96854185.0
+44,Wood and articles of wood; wood charcoal,701,Countries（Territories）Unknown,944.0
+45,Cork and articles of cork,111,India,14520.0
+45,Cork and articles of cork,116,Japan,98187.0
+45,Cork and articles of cork,142,China,6175.0
+45,Cork and articles of cork,143,"Taiwan,China",5343.0
+45,Cork and articles of cork,303,United Kingdom,295.0
+45,Cork and articles of cork,304,Germany,33827.0
+45,Cork and articles of cork,502,United States,62343.0
+45,Cork and articles of cork,601,Australia,58.0
+46,"Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork",110,"Hong Kong,China",455.0
+46,"Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork",111,India,9718.0
+46,"Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork",112,Indonesia,123983.0
+46,"Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork",116,Japan,9720.0
+46,"Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork",122,Malaysia,3.0
+46,"Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork",133,Republic of Korea,8231.0
+46,"Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork",136,Thailand,1560.0
+46,"Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork",141,Viet Nam,388397.0
+46,"Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork",142,China,47252.0
+46,"Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork",143,"Taiwan,China",84428.0
+46,"Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork",303,United Kingdom,542.0
+46,"Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork",304,Germany,4859.0
+46,"Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork",502,United States,5165.0
+47,Pulp of wood or of other fibrous cellulosic material;recovered (waste and scrap) paper or paperboard,110,"Hong Kong,China",12050292.0
+47,Pulp of wood or of other fibrous cellulosic material;recovered (waste and scrap) paper or paperboard,111,India,130.0
+47,Pulp of wood or of other fibrous cellulosic material;recovered (waste and scrap) paper or paperboard,112,Indonesia,110853802.0
+47,Pulp of wood or of other fibrous cellulosic material;recovered (waste and scrap) paper or paperboard,116,Japan,61470011.0
+47,Pulp of wood or of other fibrous cellulosic material;recovered (waste and scrap) paper or paperboard,122,Malaysia,277777.0
+47,Pulp of wood or of other fibrous cellulosic material;recovered (waste and scrap) paper or paperboard,132,Singapore,1321559.0
+47,Pulp of wood or of other fibrous cellulosic material;recovered (waste and scrap) paper or paperboard,133,Republic of Korea,5474756.0
+47,Pulp of wood or of other fibrous cellulosic material;recovered (waste and scrap) paper or paperboard,136,Thailand,9960836.0
+47,Pulp of wood or of other fibrous cellulosic material;recovered (waste and scrap) paper or paperboard,139,Yemen,142189.0
+47,Pulp of wood or of other fibrous cellulosic material;recovered (waste and scrap) paper or paperboard,143,"Taiwan,China",1682256.0
+47,Pulp of wood or of other fibrous cellulosic material;recovered (waste and scrap) paper or paperboard,303,United Kingdom,62021440.0
+47,Pulp of wood or of other fibrous cellulosic material;recovered (waste and scrap) paper or paperboard,304,Germany,11084742.0
+47,Pulp of wood or of other fibrous cellulosic material;recovered (waste and scrap) paper or paperboard,324,Malta,81551.0
+47,Pulp of wood or of other fibrous cellulosic material;recovered (waste and scrap) paper or paperboard,344,Russia,60936027.0
+47,Pulp of wood or of other fibrous cellulosic material;recovered (waste and scrap) paper or paperboard,351,Croatia,34697.0
+47,Pulp of wood or of other fibrous cellulosic material;recovered (waste and scrap) paper or paperboard,425,Haiti,55573.0
+47,Pulp of wood or of other fibrous cellulosic material;recovered (waste and scrap) paper or paperboard,440,El Salvador,320867.0
+47,Pulp of wood or of other fibrous cellulosic material;recovered (waste and scrap) paper or paperboard,502,United States,349932314.0
+47,Pulp of wood or of other fibrous cellulosic material;recovered (waste and scrap) paper or paperboard,601,Australia,13020844.0
+47,Pulp of wood or of other fibrous cellulosic material;recovered (waste and scrap) paper or paperboard,607,New Caledonia,17076.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",110,"Hong Kong,China",3500673.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",111,India,257556.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",112,Indonesia,12732486.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",116,Japan,47334130.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",122,Malaysia,1389610.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",125,Nepal,9324.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",132,Singapore,942107.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",133,Republic of Korea,23366890.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",136,Thailand,5734616.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",141,Viet Nam,1096774.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",142,China,12312588.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",143,"Taiwan,China",22401001.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",145,Kazakhstan,2520.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",217,Ethiopia,1699.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",231,Mauritius,231.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",242,Sierra Leone,71.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",249,Tunisia,18415.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",303,United Kingdom,5681392.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",304,Germany,21641981.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",324,Malta,537.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",337,Georgia,19816.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",344,Russia,13327600.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",351,Croatia,50.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",358,Serbia,93.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",440,El Salvador,26576.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",502,United States,74737461.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",601,Australia,9754483.0
+48,"aper and paperboard; articles of paper pulp, of paper or of paperboard",701,Countries（Territories）Unknown,127571.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",110,"Hong Kong,China",5853969.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",111,India,102761.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",112,Indonesia,14063.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",113,Iran,150.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",116,Japan,9887181.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",120,Lebanon,6195.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",122,Malaysia,1855003.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",125,Nepal,513.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",132,Singapore,27014483.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",133,Republic of Korea,1419664.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",136,Thailand,328349.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",141,Viet Nam,92839.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",142,China,6028323.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",143,"Taiwan,China",8213911.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",202,Angola,1168.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",217,Ethiopia,1806.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",303,United Kingdom,10005214.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",304,Germany,6928275.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",324,Malta,3005.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",337,Georgia,160.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",344,Russia,2194457.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",440,El Salvador,1901.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",502,United States,42882261.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",601,Australia,268582.0
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",701,Countries（Territories）Unknown,30183.0
+50,ilk,110,"Hong Kong,China",575352.0
+50,ilk,111,India,487200.0
+50,ilk,112,Indonesia,378.0
+50,ilk,113,Iran,14443.0
+50,ilk,116,Japan,701704.0
+50,ilk,133,Republic of Korea,800049.0
+50,ilk,136,Thailand,4373.0
+50,ilk,141,Viet Nam,90379.0
+50,ilk,142,China,1566386.0
+50,ilk,143,"Taiwan,China",6704.0
+50,ilk,145,Kazakhstan,13598.0
+50,ilk,149,Uzbekistan,77908.0
+50,ilk,303,United Kingdom,14940.0
+50,ilk,304,Germany,23819.0
+50,ilk,502,United States,20821.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",110,"Hong Kong,China",7532.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",111,India,548198.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",112,Indonesia,182.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",116,Japan,4729174.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",122,Malaysia,101139.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",132,Singapore,38.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",133,Republic of Korea,846937.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",136,Thailand,360947.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",141,Viet Nam,6182.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",142,China,12057925.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",143,"Taiwan,China",602131.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",145,Kazakhstan,548202.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",303,United Kingdom,9032084.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",304,Germany,1663773.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",344,Russia,268285.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",502,United States,696851.0
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",601,Australia,152577998.0
+52,Cotton,102,Bahrain,866063.0
+52,Cotton,110,"Hong Kong,China",3341784.0
+52,Cotton,111,India,121117089.0
+52,Cotton,112,Indonesia,29185351.0
+52,Cotton,116,Japan,19911230.0
+52,Cotton,122,Malaysia,6667692.0
+52,Cotton,125,Nepal,637.0
+52,Cotton,132,Singapore,215.0
+52,Cotton,133,Republic of Korea,14624401.0
+52,Cotton,136,Thailand,5248415.0
+52,Cotton,141,Viet Nam,147062899.0
+52,Cotton,142,China,76030723.0
+52,Cotton,143,"Taiwan,China",28010636.0
+52,Cotton,149,Uzbekistan,35665297.0
+52,Cotton,206,Cameroon,2471458.0
+52,Cotton,217,Ethiopia,232427.0
+52,Cotton,223,Cote d'lvoire,682951.0
+52,Cotton,231,Mauritius,64330.0
+52,Cotton,249,Tunisia,101142.0
+52,Cotton,303,United Kingdom,159063.0
+52,Cotton,304,Germany,131177.0
+52,Cotton,344,Russia,325020.0
+52,Cotton,502,United States,46248691.0
+52,Cotton,601,Australia,7377437.0
+53,Other vegetable textile fibres;paper yarn and woven fabrics of paper yarn,110,"Hong Kong,China",21061.0
+53,Other vegetable textile fibres;paper yarn and woven fabrics of paper yarn,111,India,8031781.0
+53,Other vegetable textile fibres;paper yarn and woven fabrics of paper yarn,112,Indonesia,557395.0
+53,Other vegetable textile fibres;paper yarn and woven fabrics of paper yarn,116,Japan,2080353.0
+53,Other vegetable textile fibres;paper yarn and woven fabrics of paper yarn,122,Malaysia,423545.0
+53,Other vegetable textile fibres;paper yarn and woven fabrics of paper yarn,133,Republic of Korea,589638.0
+53,Other vegetable textile fibres;paper yarn and woven fabrics of paper yarn,136,Thailand,1764011.0
+53,Other vegetable textile fibres;paper yarn and woven fabrics of paper yarn,141,Viet Nam,3104383.0
+53,Other vegetable textile fibres;paper yarn and woven fabrics of paper yarn,142,China,1073793.0
+53,Other vegetable textile fibres;paper yarn and woven fabrics of paper yarn,143,"Taiwan,China",73930.0
+53,Other vegetable textile fibres;paper yarn and woven fabrics of paper yarn,303,United Kingdom,40896.0
+53,Other vegetable textile fibres;paper yarn and woven fabrics of paper yarn,304,Germany,35261.0
+53,Other vegetable textile fibres;paper yarn and woven fabrics of paper yarn,344,Russia,360504.0
+53,Other vegetable textile fibres;paper yarn and woven fabrics of paper yarn,502,United States,24818.0
+53,Other vegetable textile fibres;paper yarn and woven fabrics of paper yarn,601,Australia,612.0
+54,Man-made filaments; strip and the like of man-made textile materials,110,"Hong Kong,China",571986.0
+54,Man-made filaments; strip and the like of man-made textile materials,111,India,628197.0
+54,Man-made filaments; strip and the like of man-made textile materials,112,Indonesia,2041706.0
+54,Man-made filaments; strip and the like of man-made textile materials,116,Japan,57667782.0
+54,Man-made filaments; strip and the like of man-made textile materials,122,Malaysia,1552229.0
+54,Man-made filaments; strip and the like of man-made textile materials,125,Nepal,917.0
+54,Man-made filaments; strip and the like of man-made textile materials,132,Singapore,2439426.0
+54,Man-made filaments; strip and the like of man-made textile materials,133,Republic of Korea,38778099.0
+54,Man-made filaments; strip and the like of man-made textile materials,136,Thailand,11408089.0
+54,Man-made filaments; strip and the like of man-made textile materials,141,Viet Nam,9176834.0
+54,Man-made filaments; strip and the like of man-made textile materials,142,China,16649363.0
+54,Man-made filaments; strip and the like of man-made textile materials,143,"Taiwan,China",77349623.0
+54,Man-made filaments; strip and the like of man-made textile materials,303,United Kingdom,4772195.0
+54,Man-made filaments; strip and the like of man-made textile materials,304,Germany,4718616.0
+54,Man-made filaments; strip and the like of man-made textile materials,502,United States,11693353.0
+54,Man-made filaments; strip and the like of man-made textile materials,601,Australia,40049.0
+54,Man-made filaments; strip and the like of man-made textile materials,701,Countries（Territories）Unknown,25412.0
+55,Man-made staple fibres,110,"Hong Kong,China",282659.0
+55,Man-made staple fibres,111,India,4466837.0
+55,Man-made staple fibres,112,Indonesia,9457071.0
+55,Man-made staple fibres,116,Japan,40168888.0
+55,Man-made staple fibres,122,Malaysia,991276.0
+55,Man-made staple fibres,125,Nepal,42715.0
+55,Man-made staple fibres,132,Singapore,5797.0
+55,Man-made staple fibres,133,Republic of Korea,20714415.0
+55,Man-made staple fibres,136,Thailand,10417364.0
+55,Man-made staple fibres,141,Viet Nam,4965341.0
+55,Man-made staple fibres,142,China,17469476.0
+55,Man-made staple fibres,143,"Taiwan,China",23161909.0
+55,Man-made staple fibres,303,United Kingdom,4815197.0
+55,Man-made staple fibres,304,Germany,5581283.0
+55,Man-made staple fibres,502,United States,8451712.0
+55,Man-made staple fibres,601,Australia,60296.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",110,"Hong Kong,China",677208.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",111,India,605191.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",112,Indonesia,1012249.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",116,Japan,27238934.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",122,Malaysia,1318614.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",125,Nepal,5848.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",132,Singapore,314036.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",133,Republic of Korea,9570120.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",136,Thailand,3682574.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",141,Viet Nam,1909513.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",142,China,3928036.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",143,"Taiwan,China",12034074.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",149,Uzbekistan,18708.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",303,United Kingdom,1684737.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",304,Germany,7547159.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",502,United States,17279682.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",601,Australia,83002.0
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",701,Countries（Territories）Unknown,1360.0
+57,Carpets and other textile floor coverings,110,"Hong Kong,China",425.0
+57,Carpets and other textile floor coverings,111,India,1325212.0
+57,Carpets and other textile floor coverings,112,Indonesia,106889.0
+57,Carpets and other textile floor coverings,113,Iran,305184.0
+57,Carpets and other textile floor coverings,116,Japan,551901.0
+57,Carpets and other textile floor coverings,125,Nepal,389035.0
+57,Carpets and other textile floor coverings,133,Republic of Korea,3254133.0
+57,Carpets and other textile floor coverings,136,Thailand,21219.0
+57,Carpets and other textile floor coverings,142,China,116777.0
+57,Carpets and other textile floor coverings,143,"Taiwan,China",384853.0
+57,Carpets and other textile floor coverings,149,Uzbekistan,21893.0
+57,Carpets and other textile floor coverings,303,United Kingdom,87074.0
+57,Carpets and other textile floor coverings,304,Germany,825458.0
+57,Carpets and other textile floor coverings,502,United States,2181121.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,110,"Hong Kong,China",2351573.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,111,India,187906.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,112,Indonesia,55538.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,113,Iran,2842.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,116,Japan,8796184.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,122,Malaysia,36221.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,125,Nepal,140.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,132,Singapore,19565.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,133,Republic of Korea,8052285.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,136,Thailand,1467090.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,141,Viet Nam,294337.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,142,China,11460049.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,143,"Taiwan,China",8006523.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,303,United Kingdom,381153.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,304,Germany,944677.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,351,Croatia,2230.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,502,United States,2289321.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,601,Australia,54985.0
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,701,Countries（Territories）Unknown,120.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",110,"Hong Kong,China",1129645.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",111,India,1365172.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",112,Indonesia,711728.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",116,Japan,25887398.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",122,Malaysia,675641.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",125,Nepal,179.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",132,Singapore,161882.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",133,Republic of Korea,27192429.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",136,Thailand,2416007.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",141,Viet Nam,2659770.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",142,China,13428527.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",143,"Taiwan,China",34120872.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",303,United Kingdom,2717793.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",304,Germany,19957755.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",344,Russia,2298.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",502,United States,9594279.0
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",601,Australia,797602.0
+60,Knitted or crocheted fabrics,110,"Hong Kong,China",2861005.0
+60,Knitted or crocheted fabrics,111,India,4510.0
+60,Knitted or crocheted fabrics,112,Indonesia,649851.0
+60,Knitted or crocheted fabrics,116,Japan,24145968.0
+60,Knitted or crocheted fabrics,122,Malaysia,1064331.0
+60,Knitted or crocheted fabrics,133,Republic of Korea,29337132.0
+60,Knitted or crocheted fabrics,136,Thailand,3858076.0
+60,Knitted or crocheted fabrics,141,Viet Nam,10908248.0
+60,Knitted or crocheted fabrics,142,China,29302902.0
+60,Knitted or crocheted fabrics,143,"Taiwan,China",47752253.0
+60,Knitted or crocheted fabrics,303,United Kingdom,211694.0
+60,Knitted or crocheted fabrics,304,Germany,2346690.0
+60,Knitted or crocheted fabrics,502,United States,1172356.0
+60,Knitted or crocheted fabrics,601,Australia,80766.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",102,Bahrain,9.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",110,"Hong Kong,China",1102195.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",111,India,6228216.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",112,Indonesia,8991006.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",116,Japan,3638854.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",119,Lao,71795.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",122,Malaysia,594863.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",125,Nepal,11163.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",132,Singapore,17507.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",133,Republic of Korea,5693371.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",136,Thailand,9054265.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",141,Viet Nam,22693635.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",142,China,19990783.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",143,"Taiwan,China",800774.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",217,Ethiopia,6484.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",230,Mauritania,528.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",231,Mauritius,210522.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",240,Senegal,2165.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",249,Tunisia,1317799.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",303,United Kingdom,468898.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",304,Germany,216742.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",337,Georgia,3471.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",338,Armenia,856.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",344,Russia,770.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",351,Croatia,168069.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",358,Serbia,14881.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",424,Guyana,535.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",425,Haiti,198566.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",440,El Salvador,251305.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",502,United States,687693.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",601,Australia,162367.0
+61,"Articles of apparel and clothing accessories, knitted or crocheted",701,Countries（Territories）Unknown,518.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",110,"Hong Kong,China",2207670.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",111,India,12609507.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",112,Indonesia,10827002.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",116,Japan,5201752.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",119,Lao,1079.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",120,Lebanon,5984.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",122,Malaysia,466565.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",125,Nepal,50370.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",132,Singapore,7537.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",133,Republic of Korea,6773804.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",136,Thailand,4263693.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",141,Viet Nam,25887363.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",142,China,39217603.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",143,"Taiwan,China",1688718.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",148,Turkmenistan,3253.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",217,Ethiopia,13164.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",231,Mauritius,163036.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",234,Namibia,252.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",249,Tunisia,6789123.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",303,United Kingdom,2280509.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",304,Germany,416367.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",324,Malta,365744.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",337,Georgia,117931.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",338,Armenia,101590.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",344,Russia,3559.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",351,Croatia,288387.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",358,Serbia,490404.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",425,Haiti,38377.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",440,El Salvador,1430.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",502,United States,1925638.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",601,Australia,86355.0
+62,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.",701,Countries（Territories）Unknown,219.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,110,"Hong Kong,China",123461.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,111,India,1984171.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,112,Indonesia,835549.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,113,Iran,4309.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,116,Japan,3316664.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,122,Malaysia,139721.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,125,Nepal,9581.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,132,Singapore,607637.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,133,Republic of Korea,3637969.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,136,Thailand,1873076.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,141,Viet Nam,4468842.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,142,China,3233339.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,143,"Taiwan,China",2602367.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,231,Mauritius,13315.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,249,Tunisia,92528.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,303,United Kingdom,523254.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,304,Germany,757059.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,344,Russia,1538.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,351,Croatia,404.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,502,United States,2724703.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,601,Australia,43212.0
+63,Other made up textile articles; sets;worn clothing and worn textile articles; rags,701,Countries（Territories）Unknown,324.0
+64,"Footwear, gaiters and the like; parts of such articles",110,"Hong Kong,China",1550289.0
+64,"Footwear, gaiters and the like; parts of such articles",111,India,5954397.0
+64,"Footwear, gaiters and the like; parts of such articles",112,Indonesia,54653046.0
+64,"Footwear, gaiters and the like; parts of such articles",116,Japan,1298726.0
+64,"Footwear, gaiters and the like; parts of such articles",119,Lao,2699.0
+64,"Footwear, gaiters and the like; parts of such articles",122,Malaysia,64638.0
+64,"Footwear, gaiters and the like; parts of such articles",125,Nepal,1114.0
+64,"Footwear, gaiters and the like; parts of such articles",132,Singapore,608.0
+64,"Footwear, gaiters and the like; parts of such articles",133,Republic of Korea,3219423.0
+64,"Footwear, gaiters and the like; parts of such articles",136,Thailand,3884587.0
+64,"Footwear, gaiters and the like; parts of such articles",141,Viet Nam,89325192.0
+64,"Footwear, gaiters and the like; parts of such articles",142,China,23453584.0
+64,"Footwear, gaiters and the like; parts of such articles",143,"Taiwan,China",2166317.0
+64,"Footwear, gaiters and the like; parts of such articles",217,Ethiopia,1408595.0
+64,"Footwear, gaiters and the like; parts of such articles",234,Namibia,159.0
+64,"Footwear, gaiters and the like; parts of such articles",249,Tunisia,86782.0
+64,"Footwear, gaiters and the like; parts of such articles",303,United Kingdom,294792.0
+64,"Footwear, gaiters and the like; parts of such articles",304,Germany,1824431.0
+64,"Footwear, gaiters and the like; parts of such articles",344,Russia,208.0
+64,"Footwear, gaiters and the like; parts of such articles",351,Croatia,10554.0
+64,"Footwear, gaiters and the like; parts of such articles",358,Serbia,301849.0
+64,"Footwear, gaiters and the like; parts of such articles",414,Dominica,81.0
+64,"Footwear, gaiters and the like; parts of such articles",502,United States,7122281.0
+64,"Footwear, gaiters and the like; parts of such articles",601,Australia,61868.0
+65,Headgear and parts thereof,110,"Hong Kong,China",2321.0
+65,Headgear and parts thereof,111,India,43603.0
+65,Headgear and parts thereof,112,Indonesia,64674.0
+65,Headgear and parts thereof,116,Japan,317258.0
+65,Headgear and parts thereof,122,Malaysia,54933.0
+65,Headgear and parts thereof,125,Nepal,1657.0
+65,Headgear and parts thereof,132,Singapore,722.0
+65,Headgear and parts thereof,133,Republic of Korea,803653.0
+65,Headgear and parts thereof,136,Thailand,282366.0
+65,Headgear and parts thereof,141,Viet Nam,639390.0
+65,Headgear and parts thereof,142,China,861135.0
+65,Headgear and parts thereof,143,"Taiwan,China",226186.0
+65,Headgear and parts thereof,249,Tunisia,4517.0
+65,Headgear and parts thereof,303,United Kingdom,40292.0
+65,Headgear and parts thereof,304,Germany,231868.0
+65,Headgear and parts thereof,358,Serbia,60.0
+65,Headgear and parts thereof,502,United States,207890.0
+65,Headgear and parts thereof,601,Australia,15890.0
+65,Headgear and parts thereof,701,Countries（Territories）Unknown,289.0
+66,"Umbrellas, sun umbrellas, walkingsticks, seatsticks,whips, ridingcrops and parts thereof",110,"Hong Kong,China",8296.0
+66,"Umbrellas, sun umbrellas, walkingsticks, seatsticks,whips, ridingcrops and parts thereof",111,India,17531.0
+66,"Umbrellas, sun umbrellas, walkingsticks, seatsticks,whips, ridingcrops and parts thereof",112,Indonesia,1098.0
+66,"Umbrellas, sun umbrellas, walkingsticks, seatsticks,whips, ridingcrops and parts thereof",116,Japan,19943.0
+66,"Umbrellas, sun umbrellas, walkingsticks, seatsticks,whips, ridingcrops and parts thereof",122,Malaysia,4439.0
+66,"Umbrellas, sun umbrellas, walkingsticks, seatsticks,whips, ridingcrops and parts thereof",133,Republic of Korea,5242.0
+66,"Umbrellas, sun umbrellas, walkingsticks, seatsticks,whips, ridingcrops and parts thereof",136,Thailand,12.0
+66,"Umbrellas, sun umbrellas, walkingsticks, seatsticks,whips, ridingcrops and parts thereof",141,Viet Nam,35624.0
+66,"Umbrellas, sun umbrellas, walkingsticks, seatsticks,whips, ridingcrops and parts thereof",142,China,517349.0
+66,"Umbrellas, sun umbrellas, walkingsticks, seatsticks,whips, ridingcrops and parts thereof",143,"Taiwan,China",351504.0
+66,"Umbrellas, sun umbrellas, walkingsticks, seatsticks,whips, ridingcrops and parts thereof",303,United Kingdom,62736.0
+66,"Umbrellas, sun umbrellas, walkingsticks, seatsticks,whips, ridingcrops and parts thereof",304,Germany,42275.0
+66,"Umbrellas, sun umbrellas, walkingsticks, seatsticks,whips, ridingcrops and parts thereof",502,United States,108083.0
+67,Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair,110,"Hong Kong,China",45976.0
+67,Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair,111,India,12335095.0
+67,Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair,112,Indonesia,55136.0
+67,Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair,116,Japan,2842572.0
+67,Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair,122,Malaysia,200250.0
+67,Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair,125,Nepal,7642.0
+67,Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair,133,Republic of Korea,896321.0
+67,Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair,136,Thailand,9618.0
+67,Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair,141,Viet Nam,107267.0
+67,Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair,142,China,216767.0
+67,Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair,143,"Taiwan,China",160.0
+67,Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair,149,Uzbekistan,42840.0
+67,Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair,303,United Kingdom,24929.0
+67,Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair,304,Germany,27077.0
+67,Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair,502,United States,1384867.0
+67,Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair,601,Australia,400.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",110,"Hong Kong,China",11052.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",111,India,596752.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",112,Indonesia,444258.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",113,Iran,7650.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",116,Japan,43605170.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",122,Malaysia,509796.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",125,Nepal,9344.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",132,Singapore,794683.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",133,Republic of Korea,14576682.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",136,Thailand,1385154.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",141,Viet Nam,92218.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",142,China,3155438.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",143,"Taiwan,China",9269576.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",202,Angola,27527.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",234,Namibia,1151.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",249,Tunisia,395.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",303,United Kingdom,2866153.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",304,Germany,10117949.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",344,Russia,33254.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",502,United States,17871895.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",601,Australia,187397.0
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",701,Countries（Territories）Unknown,4867.0
+69,Geramic products,110,"Hong Kong,China",50084.0
+69,Geramic products,111,India,22806.0
+69,Geramic products,112,Indonesia,253255.0
+69,Geramic products,113,Iran,233.0
+69,Geramic products,116,Japan,14332347.0
+69,Geramic products,122,Malaysia,1243330.0
+69,Geramic products,125,Nepal,184.0
+69,Geramic products,132,Singapore,2200271.0
+69,Geramic products,133,Republic of Korea,5284129.0
+69,Geramic products,136,Thailand,3108392.0
+69,Geramic products,141,Viet Nam,507604.0
+69,Geramic products,142,China,1745313.0
+69,Geramic products,143,"Taiwan,China",3455984.0
+69,Geramic products,303,United Kingdom,591819.0
+69,Geramic products,304,Germany,6185149.0
+69,Geramic products,351,Croatia,202.0
+69,Geramic products,502,United States,8676113.0
+69,Geramic products,601,Australia,24557.0
+69,Geramic products,701,Countries（Territories）Unknown,2063.0
+70,Glass and glassware,102,Bahrain,207290.0
+70,Glass and glassware,110,"Hong Kong,China",1475600.0
+70,Glass and glassware,111,India,6354587.0
+70,Glass and glassware,112,Indonesia,297741.0
+70,Glass and glassware,113,Iran,340.0
+70,Glass and glassware,116,Japan,114870222.0
+70,Glass and glassware,122,Malaysia,9903215.0
+70,Glass and glassware,132,Singapore,1715097.0
+70,Glass and glassware,133,Republic of Korea,117142069.0
+70,Glass and glassware,136,Thailand,8861090.0
+70,Glass and glassware,141,Viet Nam,7269642.0
+70,Glass and glassware,142,China,20679105.0
+70,Glass and glassware,143,"Taiwan,China",114620556.0
+70,Glass and glassware,231,Mauritius,420.0
+70,Glass and glassware,249,Tunisia,24.0
+70,Glass and glassware,303,United Kingdom,3446756.0
+70,Glass and glassware,304,Germany,41741979.0
+70,Glass and glassware,324,Malta,36396.0
+70,Glass and glassware,344,Russia,377419.0
+70,Glass and glassware,351,Croatia,31599.0
+70,Glass and glassware,358,Serbia,189724.0
+70,Glass and glassware,502,United States,87484930.0
+70,Glass and glassware,601,Australia,650204.0
+70,Glass and glassware,701,Countries（Territories）Unknown,1305993.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",110,"Hong Kong,China",1091658365.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",111,India,217678154.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",112,Indonesia,150167.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",113,Iran,143909.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",116,Japan,56796006.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",122,Malaysia,2192179.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",125,Nepal,53773.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",132,Singapore,109420239.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",133,Republic of Korea,9730252.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",136,Thailand,33412314.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",141,Viet Nam,1930515.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",142,China,9788864.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",143,"Taiwan,China",53057223.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",145,Kazakhstan,677765.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",202,Angola,500301.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",204,Botswana,3919785.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",206,Cameroon,3985.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",231,Mauritius,2082.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",243,Somalia,2925.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",249,Tunisia,174.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",303,United Kingdom,17207984.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",304,Germany,25221419.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",344,Russia,12885006.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",358,Serbia,58184.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",502,United States,460529909.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",601,Australia,581548662.0
+71,"Natural or cultured pearls, precious or semiprecious stones,precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",701,Countries（Territories）Unknown,59404322.0
+72,Iron and steel,110,"Hong Kong,China",837139.0
+72,Iron and steel,111,India,9991418.0
+72,Iron and steel,112,Indonesia,46572980.0
+72,Iron and steel,116,Japan,481884433.0
+72,Iron and steel,122,Malaysia,2868229.0
+72,Iron and steel,132,Singapore,1997382.0
+72,Iron and steel,133,Republic of Korea,326097392.0
+72,Iron and steel,136,Thailand,2777663.0
+72,Iron and steel,141,Viet Nam,1206228.0
+72,Iron and steel,142,China,16129503.0
+72,Iron and steel,143,"Taiwan,China",96958643.0
+72,Iron and steel,145,Kazakhstan,37058170.0
+72,Iron and steel,221,Guinea,1100.0
+72,Iron and steel,303,United Kingdom,3280440.0
+72,Iron and steel,304,Germany,62518463.0
+72,Iron and steel,344,Russia,5400615.0
+72,Iron and steel,351,Croatia,21939.0
+72,Iron and steel,502,United States,20217676.0
+72,Iron and steel,601,Australia,1173940.0
+72,Iron and steel,607,New Caledonia,15895763.0
+72,Iron and steel,701,Countries（Territories）Unknown,2.0
+73,Articles of iron or steel,110,"Hong Kong,China",581635.0
+73,Articles of iron or steel,111,India,3271314.0
+73,Articles of iron or steel,112,Indonesia,756877.0
+73,Articles of iron or steel,113,Iran,1342.0
+73,Articles of iron or steel,116,Japan,196268479.0
+73,Articles of iron or steel,122,Malaysia,4439458.0
+73,Articles of iron or steel,132,Singapore,7098244.0
+73,Articles of iron or steel,133,Republic of Korea,106470378.0
+73,Articles of iron or steel,135,Syria,290.0
+73,Articles of iron or steel,136,Thailand,14056713.0
+73,Articles of iron or steel,139,Yemen,382.0
+73,Articles of iron or steel,141,Viet Nam,6121642.0
+73,Articles of iron or steel,142,China,37629820.0
+73,Articles of iron or steel,143,"Taiwan,China",46963846.0
+73,Articles of iron or steel,234,Namibia,1286.0
+73,Articles of iron or steel,242,Sierra Leone,1521.0
+73,Articles of iron or steel,249,Tunisia,2097.0
+73,Articles of iron or steel,303,United Kingdom,13840335.0
+73,Articles of iron or steel,304,Germany,147760723.0
+73,Articles of iron or steel,324,Malta,2272.0
+73,Articles of iron or steel,337,Georgia,18076.0
+73,Articles of iron or steel,344,Russia,22397630.0
+73,Articles of iron or steel,351,Croatia,15625.0
+73,Articles of iron or steel,358,Serbia,946.0
+73,Articles of iron or steel,502,United States,98470720.0
+73,Articles of iron or steel,601,Australia,1911643.0
+73,Articles of iron or steel,701,Countries（Territories）Unknown,3753297.0
+74,Copper and articles thereof,102,Bahrain,155923.0
+74,Copper and articles thereof,110,"Hong Kong,China",82614501.0
+74,Copper and articles thereof,111,India,137217110.0
+74,Copper and articles thereof,112,Indonesia,16924630.0
+74,Copper and articles thereof,113,Iran,5469358.0
+74,Copper and articles thereof,116,Japan,332529259.0
+74,Copper and articles thereof,119,Lao,13141787.0
+74,Copper and articles thereof,120,Lebanon,1046050.0
+74,Copper and articles thereof,122,Malaysia,47035410.0
+74,Copper and articles thereof,125,Nepal,348.0
+74,Copper and articles thereof,132,Singapore,6170718.0
+74,Copper and articles thereof,133,Republic of Korea,164732345.0
+74,Copper and articles thereof,136,Thailand,10411885.0
+74,Copper and articles thereof,139,Yemen,669051.0
+74,Copper and articles thereof,141,Viet Nam,4975192.0
+74,Copper and articles thereof,142,China,31879036.0
+74,Copper and articles thereof,143,"Taiwan,China",138256356.0
+74,Copper and articles thereof,145,Kazakhstan,110530851.0
+74,Copper and articles thereof,149,Uzbekistan,10777540.0
+74,Copper and articles thereof,206,Cameroon,208539.0
+74,Copper and articles thereof,218,Gabon,165067.0
+74,Copper and articles thereof,234,Namibia,8330858.0
+74,Copper and articles thereof,249,Tunisia,541773.0
+74,Copper and articles thereof,303,United Kingdom,39560069.0
+74,Copper and articles thereof,304,Germany,86427361.0
+74,Copper and articles thereof,337,Georgia,1197984.0
+74,Copper and articles thereof,344,Russia,108966615.0
+74,Copper and articles thereof,351,Croatia,99.0
+74,Copper and articles thereof,425,Haiti,370801.0
+74,Copper and articles thereof,502,United States,120331214.0
+74,Copper and articles thereof,601,Australia,192142433.0
+74,Copper and articles thereof,701,Countries（Territories）Unknown,24415.0
+75,Nickel and articles thereof,110,"Hong Kong,China",246971.0
+75,Nickel and articles thereof,111,India,19003.0
+75,Nickel and articles thereof,112,Indonesia,10264878.0
+75,Nickel and articles thereof,116,Japan,21503738.0
+75,Nickel and articles thereof,122,Malaysia,31595.0
+75,Nickel and articles thereof,132,Singapore,53239.0
+75,Nickel and articles thereof,133,Republic of Korea,1745874.0
+75,Nickel and articles thereof,141,Viet Nam,2506.0
+75,Nickel and articles thereof,142,China,2525146.0
+75,Nickel and articles thereof,143,"Taiwan,China",5928443.0
+75,Nickel and articles thereof,303,United Kingdom,7891691.0
+75,Nickel and articles thereof,304,Germany,3690043.0
+75,Nickel and articles thereof,344,Russia,262700325.0
+75,Nickel and articles thereof,502,United States,25576879.0
+75,Nickel and articles thereof,601,Australia,30763493.0
+75,Nickel and articles thereof,607,New Caledonia,12284992.0
+75,Nickel and articles thereof,701,Countries（Territories）Unknown,23967.0
+76,Aluminium and articles thereof,102,Bahrain,170867.0
+76,Aluminium and articles thereof,110,"Hong Kong,China",36862557.0
+76,Aluminium and articles thereof,111,India,335926.0
+76,Aluminium and articles thereof,112,Indonesia,404818.0
+76,Aluminium and articles thereof,116,Japan,76401150.0
+76,Aluminium and articles thereof,119,Lao,27750.0
+76,Aluminium and articles thereof,122,Malaysia,33598037.0
+76,Aluminium and articles thereof,125,Nepal,1719.0
+76,Aluminium and articles thereof,126,Oman,2075962.0
+76,Aluminium and articles thereof,132,Singapore,1134004.0
+76,Aluminium and articles thereof,133,Republic of Korea,64916285.0
+76,Aluminium and articles thereof,136,Thailand,3620236.0
+76,Aluminium and articles thereof,141,Viet Nam,386919.0
+76,Aluminium and articles thereof,142,China,14013814.0
+76,Aluminium and articles thereof,143,"Taiwan,China",25587952.0
+76,Aluminium and articles thereof,145,Kazakhstan,377010.0
+76,Aluminium and articles thereof,217,Ethiopia,802.0
+76,Aluminium and articles thereof,249,Tunisia,1639.0
+76,Aluminium and articles thereof,303,United Kingdom,14062196.0
+76,Aluminium and articles thereof,304,Germany,22297587.0
+76,Aluminium and articles thereof,344,Russia,3439833.0
+76,Aluminium and articles thereof,351,Croatia,111822.0
+76,Aluminium and articles thereof,358,Serbia,11.0
+76,Aluminium and articles thereof,502,United States,103484413.0
+76,Aluminium and articles thereof,601,Australia,27542347.0
+76,Aluminium and articles thereof,701,Countries（Territories）Unknown,25404.0
+78,Lead and articles thereof,116,Japan,398400.0
+78,Lead and articles thereof,122,Malaysia,12350.0
+78,Lead and articles thereof,132,Singapore,1664.0
+78,Lead and articles thereof,133,Republic of Korea,109657.0
+78,Lead and articles thereof,142,China,87564.0
+78,Lead and articles thereof,143,"Taiwan,China",83229.0
+78,Lead and articles thereof,303,United Kingdom,8598.0
+78,Lead and articles thereof,304,Germany,120226.0
+78,Lead and articles thereof,344,Russia,52.0
+78,Lead and articles thereof,502,United States,302690.0
+78,Lead and articles thereof,601,Australia,17982.0
+79,Zinc and articles thereof,110,"Hong Kong,China",286366.0
+79,Zinc and articles thereof,111,India,8598440.0
+79,Zinc and articles thereof,113,Iran,119235.0
+79,Zinc and articles thereof,116,Japan,9794329.0
+79,Zinc and articles thereof,120,Lebanon,21870.0
+79,Zinc and articles thereof,122,Malaysia,17710.0
+79,Zinc and articles thereof,132,Singapore,51209.0
+79,Zinc and articles thereof,133,Republic of Korea,20598300.0
+79,Zinc and articles thereof,136,Thailand,1421.0
+79,Zinc and articles thereof,141,Viet Nam,15774.0
+79,Zinc and articles thereof,142,China,993705.0
+79,Zinc and articles thereof,143,"Taiwan,China",838804.0
+79,Zinc and articles thereof,145,Kazakhstan,25730080.0
+79,Zinc and articles thereof,303,United Kingdom,23212.0
+79,Zinc and articles thereof,304,Germany,1502473.0
+79,Zinc and articles thereof,351,Croatia,144.0
+79,Zinc and articles thereof,502,United States,5373827.0
+79,Zinc and articles thereof,601,Australia,71403155.0
+79,Zinc and articles thereof,701,Countries（Territories）Unknown,76.0
+80,Tin and articles thereof,110,"Hong Kong,China",123115.0
+80,Tin and articles thereof,111,India,25062.0
+80,Tin and articles thereof,112,Indonesia,2177625.0
+80,Tin and articles thereof,116,Japan,2998745.0
+80,Tin and articles thereof,122,Malaysia,4177317.0
+80,Tin and articles thereof,132,Singapore,514836.0
+80,Tin and articles thereof,133,Republic of Korea,1704475.0
+80,Tin and articles thereof,136,Thailand,1515024.0
+80,Tin and articles thereof,141,Viet Nam,3.0
+80,Tin and articles thereof,142,China,1318252.0
+80,Tin and articles thereof,143,"Taiwan,China",1994428.0
+80,Tin and articles thereof,303,United Kingdom,55793.0
+80,Tin and articles thereof,304,Germany,312168.0
+80,Tin and articles thereof,502,United States,339189.0
+81,Other base metals; cermets; articles thereof,110,"Hong Kong,China",216546.0
+81,Other base metals; cermets; articles thereof,111,India,77836.0
+81,Other base metals; cermets; articles thereof,112,Indonesia,59961.0
+81,Other base metals; cermets; articles thereof,116,Japan,14181707.0
+81,Other base metals; cermets; articles thereof,119,Lao,9.0
+81,Other base metals; cermets; articles thereof,122,Malaysia,106553.0
+81,Other base metals; cermets; articles thereof,132,Singapore,73719.0
+81,Other base metals; cermets; articles thereof,133,Republic of Korea,2176806.0
+81,Other base metals; cermets; articles thereof,136,Thailand,184071.0
+81,Other base metals; cermets; articles thereof,141,Viet Nam,5512.0
+81,Other base metals; cermets; articles thereof,142,China,7024193.0
+81,Other base metals; cermets; articles thereof,143,"Taiwan,China",2839544.0
+81,Other base metals; cermets; articles thereof,145,Kazakhstan,143144.0
+81,Other base metals; cermets; articles thereof,303,United Kingdom,1658188.0
+81,Other base metals; cermets; articles thereof,304,Germany,4955431.0
+81,Other base metals; cermets; articles thereof,344,Russia,761820.0
+81,Other base metals; cermets; articles thereof,502,United States,29827190.0
+81,Other base metals; cermets; articles thereof,601,Australia,2111469.0
+81,Other base metals; cermets; articles thereof,607,New Caledonia,4488251.0
+81,Other base metals; cermets; articles thereof,701,Countries（Territories）Unknown,83557.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",110,"Hong Kong,China",264384.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",111,India,1312548.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",112,Indonesia,348973.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",116,Japan,93689053.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",122,Malaysia,424732.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",125,Nepal,4588.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",132,Singapore,727799.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",133,Republic of Korea,38563129.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",136,Thailand,891841.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",141,Viet Nam,1594049.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",142,China,7552324.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",143,"Taiwan,China",28069265.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",199,Other Asian Territories,67.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",242,Sierra Leone,12.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",249,Tunisia,7.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",303,United Kingdom,2409606.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",304,Germany,46915623.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",344,Russia,98369.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",351,Croatia,1826.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",502,United States,21353435.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",601,Australia,40515.0
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",701,Countries（Territories）Unknown,11506.0
+83,Miscellaneous articles of base metal,110,"Hong Kong,China",791393.0
+83,Miscellaneous articles of base metal,111,India,1035480.0
+83,Miscellaneous articles of base metal,112,Indonesia,197566.0
+83,Miscellaneous articles of base metal,113,Iran,739.0
+83,Miscellaneous articles of base metal,116,Japan,18690868.0
+83,Miscellaneous articles of base metal,122,Malaysia,1515755.0
+83,Miscellaneous articles of base metal,125,Nepal,617012.0
+83,Miscellaneous articles of base metal,132,Singapore,1293079.0
+83,Miscellaneous articles of base metal,133,Republic of Korea,24927386.0
+83,Miscellaneous articles of base metal,136,Thailand,2142106.0
+83,Miscellaneous articles of base metal,141,Viet Nam,775540.0
+83,Miscellaneous articles of base metal,142,China,10128598.0
+83,Miscellaneous articles of base metal,143,"Taiwan,China",11173891.0
+83,Miscellaneous articles of base metal,249,Tunisia,69755.0
+83,Miscellaneous articles of base metal,303,United Kingdom,2168320.0
+83,Miscellaneous articles of base metal,304,Germany,25585997.0
+83,Miscellaneous articles of base metal,324,Malta,19617.0
+83,Miscellaneous articles of base metal,344,Russia,1433968.0
+83,Miscellaneous articles of base metal,358,Serbia,14206.0
+83,Miscellaneous articles of base metal,502,United States,14086056.0
+83,Miscellaneous articles of base metal,601,Australia,378130.0
+83,Miscellaneous articles of base metal,701,Countries（Territories）Unknown,4556.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",110,"Hong Kong,China",30843817.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",111,India,49197195.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",112,Indonesia,30176685.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",113,Iran,43438.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",116,Japan,2609236388.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",120,Lebanon,140000.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",122,Malaysia,243586433.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",125,Nepal,50.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",132,Singapore,299759430.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",133,Republic of Korea,1382990183.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",136,Thailand,474562548.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",141,Viet Nam,102793874.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",142,China,1565461530.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",143,"Taiwan,China",716934401.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",149,Uzbekistan,777365.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",225,Liberia,49225.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",240,Senegal,284.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",242,Sierra Leone,991.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",249,Tunisia,148126.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",303,United Kingdom,196985397.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",304,Germany,1656428232.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",324,Malta,210048.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",337,Georgia,369.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",344,Russia,57551751.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",351,Croatia,548987.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",358,Serbia,550906.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",502,United States,1473335706.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",601,Australia,20372244.0
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",701,Countries（Territories）Unknown,596370.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",102,Bahrain,33.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",110,"Hong Kong,China",71960350.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",111,India,46205293.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",112,Indonesia,87621893.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",113,Iran,11391.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",116,Japan,3066309367.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",119,Lao,176499.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",120,Lebanon,6130.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",122,Malaysia,2796230398.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",126,Oman,3228.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",132,Singapore,561104287.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",133,Republic of Korea,5823151788.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",135,Syria,168.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",136,Thailand,671763768.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",139,Yemen,2964.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",141,Viet Nam,1061823156.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",142,China,6538535063.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",143,"Taiwan,China",6540074817.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",145,Kazakhstan,64530.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",148,Turkmenistan,107.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",206,Cameroon,18805.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",218,Gabon,63.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",230,Mauritania,1486.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",231,Mauritius,5139.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",234,Namibia,4789.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",240,Senegal,1225.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",242,Sierra Leone,3012.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",249,Tunisia,3453871.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",303,United Kingdom,86442595.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",304,Germany,1020465939.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",324,Malta,35722516.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",337,Georgia,231567.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",344,Russia,18990978.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",351,Croatia,2215859.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",358,Serbia,1058730.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",414,Dominica,2316.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",420,French Guiana,4658.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",424,Guyana,36400.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",425,Haiti,5520.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",428,Martinique,157.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",437,Saint Lucia,5119.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",440,El Salvador,3176156.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",502,United States,1473303595.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",601,Australia,11745294.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",607,New Caledonia,176.0
+85,"Electrical machinery and equipment and parts thereof;sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",701,Countries（Territories）Unknown,178838.0
+86,"Railway or tramway locomotives, rollingstock and parts thereof;railway or tramway track fixtures and fittings and parts thereof; mechanical (including electromechanical) traffic signalling equipment of all kinds",110,"Hong Kong,China",1247259.0
+86,"Railway or tramway locomotives, rollingstock and parts thereof;railway or tramway track fixtures and fittings and parts thereof; mechanical (including electromechanical) traffic signalling equipment of all kinds",111,India,322593.0
+86,"Railway or tramway locomotives, rollingstock and parts thereof;railway or tramway track fixtures and fittings and parts thereof; mechanical (including electromechanical) traffic signalling equipment of all kinds",112,Indonesia,3796.0
+86,"Railway or tramway locomotives, rollingstock and parts thereof;railway or tramway track fixtures and fittings and parts thereof; mechanical (including electromechanical) traffic signalling equipment of all kinds",116,Japan,46430407.0
+86,"Railway or tramway locomotives, rollingstock and parts thereof;railway or tramway track fixtures and fittings and parts thereof; mechanical (including electromechanical) traffic signalling equipment of all kinds",132,Singapore,16462.0
+86,"Railway or tramway locomotives, rollingstock and parts thereof;railway or tramway track fixtures and fittings and parts thereof; mechanical (including electromechanical) traffic signalling equipment of all kinds",133,Republic of Korea,1457215.0
+86,"Railway or tramway locomotives, rollingstock and parts thereof;railway or tramway track fixtures and fittings and parts thereof; mechanical (including electromechanical) traffic signalling equipment of all kinds",136,Thailand,77358.0
+86,"Railway or tramway locomotives, rollingstock and parts thereof;railway or tramway track fixtures and fittings and parts thereof; mechanical (including electromechanical) traffic signalling equipment of all kinds",142,China,1465629.0
+86,"Railway or tramway locomotives, rollingstock and parts thereof;railway or tramway track fixtures and fittings and parts thereof; mechanical (including electromechanical) traffic signalling equipment of all kinds",143,"Taiwan,China",131441.0
+86,"Railway or tramway locomotives, rollingstock and parts thereof;railway or tramway track fixtures and fittings and parts thereof; mechanical (including electromechanical) traffic signalling equipment of all kinds",303,United Kingdom,1036049.0
+86,"Railway or tramway locomotives, rollingstock and parts thereof;railway or tramway track fixtures and fittings and parts thereof; mechanical (including electromechanical) traffic signalling equipment of all kinds",304,Germany,34337836.0
+86,"Railway or tramway locomotives, rollingstock and parts thereof;railway or tramway track fixtures and fittings and parts thereof; mechanical (including electromechanical) traffic signalling equipment of all kinds",502,United States,2757046.0
+86,"Railway or tramway locomotives, rollingstock and parts thereof;railway or tramway track fixtures and fittings and parts thereof; mechanical (including electromechanical) traffic signalling equipment of all kinds",601,Australia,64240.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",110,"Hong Kong,China",102552.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",111,India,6397577.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",112,Indonesia,20203445.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",113,Iran,187574.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",116,Japan,1045604212.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",122,Malaysia,16599356.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",132,Singapore,772214.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",133,Republic of Korea,373648005.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",136,Thailand,21529708.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",141,Viet Nam,13594029.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",142,China,6162323.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",143,"Taiwan,China",39987874.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",249,Tunisia,109209.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",303,United Kingdom,726170695.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",304,Germany,1800464128.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",324,Malta,784.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",337,Georgia,4268.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",344,Russia,292958.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",351,Croatia,33334.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",358,Serbia,439361.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",440,El Salvador,18.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",502,United States,1278005909.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",601,Australia,1120857.0
+87,"Vehicles other than railway or tramway rollingstock, and parts and accessories thereof",701,Countries（Territories）Unknown,377136.0
+88,"Aircraft, spacecraft, and parts thereof",110,"Hong Kong,China",100268.0
+88,"Aircraft, spacecraft, and parts thereof",111,India,2347.0
+88,"Aircraft, spacecraft, and parts thereof",116,Japan,1235628.0
+88,"Aircraft, spacecraft, and parts thereof",122,Malaysia,554403.0
+88,"Aircraft, spacecraft, and parts thereof",132,Singapore,1647441.0
+88,"Aircraft, spacecraft, and parts thereof",133,Republic of Korea,3853971.0
+88,"Aircraft, spacecraft, and parts thereof",136,Thailand,17449.0
+88,"Aircraft, spacecraft, and parts thereof",141,Viet Nam,6000.0
+88,"Aircraft, spacecraft, and parts thereof",142,China,130273.0
+88,"Aircraft, spacecraft, and parts thereof",143,"Taiwan,China",331158.0
+88,"Aircraft, spacecraft, and parts thereof",303,United Kingdom,15882031.0
+88,"Aircraft, spacecraft, and parts thereof",304,Germany,217807594.0
+88,"Aircraft, spacecraft, and parts thereof",344,Russia,6669762.0
+88,"Aircraft, spacecraft, and parts thereof",502,United States,662583089.0
+88,"Aircraft, spacecraft, and parts thereof",601,Australia,203083.0
+88,"Aircraft, spacecraft, and parts thereof",701,Countries（Territories）Unknown,793.0
+89,"Ships, boats and floating structures",110,"Hong Kong,China",546649.0
+89,"Ships, boats and floating structures",116,Japan,16466458.0
+89,"Ships, boats and floating structures",132,Singapore,34300.0
+89,"Ships, boats and floating structures",133,Republic of Korea,8940000.0
+89,"Ships, boats and floating structures",136,Thailand,262802.0
+89,"Ships, boats and floating structures",141,Viet Nam,196753.0
+89,"Ships, boats and floating structures",142,China,2269788.0
+89,"Ships, boats and floating structures",143,"Taiwan,China",105316.0
+89,"Ships, boats and floating structures",303,United Kingdom,533139.0
+89,"Ships, boats and floating structures",304,Germany,1034287.0
+89,"Ships, boats and floating structures",502,United States,4039003.0
+89,"Ships, boats and floating structures",601,Australia,41222.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",110,"Hong Kong,China",12538494.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",111,India,17162529.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",112,Indonesia,8401904.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",113,Iran,2150.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",116,Japan,1207901098.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",122,Malaysia,113717071.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",125,Nepal,144172.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",132,Singapore,156225008.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",133,Republic of Korea,1441346909.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",136,Thailand,129913671.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",141,Viet Nam,34888344.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",142,China,677645804.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",143,"Taiwan,China",1035653157.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",231,Mauritius,4506.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",240,Senegal,777.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",249,Tunisia,614635.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",303,United Kingdom,124038038.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",304,Germany,782448810.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",324,Malta,7394074.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",337,Georgia,76.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",338,Armenia,401.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",344,Russia,32325448.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",351,Croatia,266099.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",358,Serbia,11527.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",502,United States,1135968282.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",601,Australia,18393390.0
+90,"Optical, photographic,cinematographic, measuring, checking,precision, medical or surgical instruments and apparatus; parts and accessories thereof",701,Countries（Territories）Unknown,129765.0
+91,Clocks and watches and parts thereof,110,"Hong Kong,China",4225260.0
+91,Clocks and watches and parts thereof,111,India,336649.0
+91,Clocks and watches and parts thereof,112,Indonesia,29385.0
+91,Clocks and watches and parts thereof,116,Japan,31353847.0
+91,Clocks and watches and parts thereof,122,Malaysia,1664432.0
+91,Clocks and watches and parts thereof,132,Singapore,565098.0
+91,Clocks and watches and parts thereof,133,Republic of Korea,316424.0
+91,Clocks and watches and parts thereof,136,Thailand,9763316.0
+91,Clocks and watches and parts thereof,141,Viet Nam,721198.0
+91,Clocks and watches and parts thereof,142,China,43321496.0
+91,Clocks and watches and parts thereof,143,"Taiwan,China",913592.0
+91,Clocks and watches and parts thereof,206,Cameroon,110.0
+91,Clocks and watches and parts thereof,231,Mauritius,39263.0
+91,Clocks and watches and parts thereof,249,Tunisia,38987.0
+91,Clocks and watches and parts thereof,303,United Kingdom,26416.0
+91,Clocks and watches and parts thereof,304,Germany,1683217.0
+91,Clocks and watches and parts thereof,502,United States,217691.0
+91,Clocks and watches and parts thereof,601,Australia,31825.0
+91,Clocks and watches and parts thereof,701,Countries（Territories）Unknown,1191.0
+92,Musical instruments; parts and accessories of such articles,110,"Hong Kong,China",6018.0
+92,Musical instruments; parts and accessories of such articles,111,India,11352.0
+92,Musical instruments; parts and accessories of such articles,112,Indonesia,8958869.0
+92,Musical instruments; parts and accessories of such articles,116,Japan,9807121.0
+92,Musical instruments; parts and accessories of such articles,122,Malaysia,491790.0
+92,Musical instruments; parts and accessories of such articles,125,Nepal,13599.0
+92,Musical instruments; parts and accessories of such articles,132,Singapore,2000.0
+92,Musical instruments; parts and accessories of such articles,133,Republic of Korea,2784654.0
+92,Musical instruments; parts and accessories of such articles,136,Thailand,104511.0
+92,Musical instruments; parts and accessories of such articles,141,Viet Nam,1494.0
+92,Musical instruments; parts and accessories of such articles,142,China,1030059.0
+92,Musical instruments; parts and accessories of such articles,143,"Taiwan,China",1443083.0
+92,Musical instruments; parts and accessories of such articles,303,United Kingdom,63452.0
+92,Musical instruments; parts and accessories of such articles,304,Germany,3731864.0
+92,Musical instruments; parts and accessories of such articles,344,Russia,424.0
+92,Musical instruments; parts and accessories of such articles,502,United States,2184758.0
+92,Musical instruments; parts and accessories of such articles,601,Australia,284.0
+93,Arms and ammunition; parts and accessories thereof,303,United Kingdom,20221.0
+93,Arms and ammunition; parts and accessories thereof,502,United States,406785.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",110,"Hong Kong,China",709050.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",111,India,2203147.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",112,Indonesia,4422845.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",116,Japan,20947487.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",119,Lao,138458.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",122,Malaysia,6495329.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",125,Nepal,9109.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",132,Singapore,197366.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",133,Republic of Korea,18340793.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",136,Thailand,8044121.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",141,Viet Nam,14590276.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",142,China,12392866.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",143,"Taiwan,China",13118829.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",205,Burundi,176.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",240,Senegal,10852.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",249,Tunisia,14470.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",303,United Kingdom,8397773.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",304,Germany,32455615.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",337,Georgia,1701.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",344,Russia,418553.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",351,Croatia,6157.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",358,Serbia,19012.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",502,United States,26666446.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",601,Australia,2194407.0
+94,"Furniture; bedding, mattresses, mattress supports,cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings",701,Countries（Territories）Unknown,1175.0
+95,"Toys, games and sports requisites;parts and accessories thereof",110,"Hong Kong,China",180747.0
+95,"Toys, games and sports requisites;parts and accessories thereof",111,India,139999.0
+95,"Toys, games and sports requisites;parts and accessories thereof",112,Indonesia,1430789.0
+95,"Toys, games and sports requisites;parts and accessories thereof",116,Japan,15675746.0
+95,"Toys, games and sports requisites;parts and accessories thereof",122,Malaysia,2343961.0
+95,"Toys, games and sports requisites;parts and accessories thereof",125,Nepal,50.0
+95,"Toys, games and sports requisites;parts and accessories thereof",132,Singapore,10508.0
+95,"Toys, games and sports requisites;parts and accessories thereof",133,Republic of Korea,1888823.0
+95,"Toys, games and sports requisites;parts and accessories thereof",136,Thailand,3375023.0
+95,"Toys, games and sports requisites;parts and accessories thereof",141,Viet Nam,3892596.0
+95,"Toys, games and sports requisites;parts and accessories thereof",142,China,37036263.0
+95,"Toys, games and sports requisites;parts and accessories thereof",143,"Taiwan,China",12284814.0
+95,"Toys, games and sports requisites;parts and accessories thereof",249,Tunisia,186268.0
+95,"Toys, games and sports requisites;parts and accessories thereof",303,United Kingdom,733237.0
+95,"Toys, games and sports requisites;parts and accessories thereof",304,Germany,3456195.0
+95,"Toys, games and sports requisites;parts and accessories thereof",344,Russia,10033.0
+95,"Toys, games and sports requisites;parts and accessories thereof",351,Croatia,1056.0
+95,"Toys, games and sports requisites;parts and accessories thereof",502,United States,14676352.0
+95,"Toys, games and sports requisites;parts and accessories thereof",601,Australia,88936.0
+96,Miscellaneous manufactured articles,110,"Hong Kong,China",3064267.0
+96,Miscellaneous manufactured articles,111,India,828270.0
+96,Miscellaneous manufactured articles,112,Indonesia,2311634.0
+96,Miscellaneous manufactured articles,116,Japan,144218784.0
+96,Miscellaneous manufactured articles,122,Malaysia,4048160.0
+96,Miscellaneous manufactured articles,125,Nepal,914.0
+96,Miscellaneous manufactured articles,132,Singapore,84880.0
+96,Miscellaneous manufactured articles,133,Republic of Korea,23784707.0
+96,Miscellaneous manufactured articles,136,Thailand,5976003.0
+96,Miscellaneous manufactured articles,141,Viet Nam,1460680.0
+96,Miscellaneous manufactured articles,142,China,13065873.0
+96,Miscellaneous manufactured articles,143,"Taiwan,China",10289746.0
+96,Miscellaneous manufactured articles,231,Mauritius,47247.0
+96,Miscellaneous manufactured articles,249,Tunisia,33697.0
+96,Miscellaneous manufactured articles,303,United Kingdom,957241.0
+96,Miscellaneous manufactured articles,304,Germany,9626788.0
+96,Miscellaneous manufactured articles,344,Russia,733.0
+96,Miscellaneous manufactured articles,440,El Salvador,115.0
+96,Miscellaneous manufactured articles,502,United States,11105221.0
+96,Miscellaneous manufactured articles,601,Australia,50843.0
+96,Miscellaneous manufactured articles,701,Countries（Territories）Unknown,2244.0
+97,"Works of art, collectors' pieces and antiques",104,Bhutan,2700.0
+97,"Works of art, collectors' pieces and antiques",110,"Hong Kong,China",10321.0
+97,"Works of art, collectors' pieces and antiques",111,India,15684.0
+97,"Works of art, collectors' pieces and antiques",113,Iran,24616.0
+97,"Works of art, collectors' pieces and antiques",116,Japan,109888.0
+97,"Works of art, collectors' pieces and antiques",125,Nepal,303.0
+97,"Works of art, collectors' pieces and antiques",132,Singapore,759.0
+97,"Works of art, collectors' pieces and antiques",133,Republic of Korea,18042.0
+97,"Works of art, collectors' pieces and antiques",136,Thailand,390.0
+97,"Works of art, collectors' pieces and antiques",141,Viet Nam,20224.0
+97,"Works of art, collectors' pieces and antiques",142,China,21888747.0
+97,"Works of art, collectors' pieces and antiques",143,"Taiwan,China",23636.0
+97,"Works of art, collectors' pieces and antiques",231,Mauritius,2700.0
+97,"Works of art, collectors' pieces and antiques",303,United Kingdom,426526.0
+97,"Works of art, collectors' pieces and antiques",304,Germany,443647.0
+97,"Works of art, collectors' pieces and antiques",344,Russia,151150.0
+97,"Works of art, collectors' pieces and antiques",502,United States,1764510.0
+97,"Works of art, collectors' pieces and antiques",601,Australia,13638.0
+98,Commodities not classified accroding to kind,102,Bahrain,2990.0
+98,Commodities not classified accroding to kind,104,Bhutan,33.0
+98,Commodities not classified accroding to kind,110,"Hong Kong,China",9179812.0
+98,Commodities not classified accroding to kind,111,India,249749.0
+98,Commodities not classified accroding to kind,112,Indonesia,81195.0
+98,Commodities not classified accroding to kind,113,Iran,8994.0
+98,Commodities not classified accroding to kind,116,Japan,84358267.0
+98,Commodities not classified accroding to kind,119,Lao,39997842.0
+98,Commodities not classified accroding to kind,120,Lebanon,3533.0
+98,Commodities not classified accroding to kind,122,Malaysia,385899.0
+98,Commodities not classified accroding to kind,125,Nepal,274236.0
+98,Commodities not classified accroding to kind,126,Oman,1178.0
+98,Commodities not classified accroding to kind,132,Singapore,313871.0
+98,Commodities not classified accroding to kind,133,Republic of Korea,6854310.0
+98,Commodities not classified accroding to kind,135,Syria,146.0
+98,Commodities not classified accroding to kind,136,Thailand,343767.0
+98,Commodities not classified accroding to kind,139,Yemen,211.0
+98,Commodities not classified accroding to kind,141,Viet Nam,620447265.0
+98,Commodities not classified accroding to kind,142,China,2944162.0
+98,Commodities not classified accroding to kind,143,"Taiwan,China",17672209.0
+98,Commodities not classified accroding to kind,145,Kazakhstan,540306.0
+98,Commodities not classified accroding to kind,148,Turkmenistan,2.0
+98,Commodities not classified accroding to kind,149,Uzbekistan,1108.0
+98,Commodities not classified accroding to kind,199,Other Asian Territories,53.0
+98,Commodities not classified accroding to kind,202,Angola,206.0
+98,Commodities not classified accroding to kind,204,Botswana,303.0
+98,Commodities not classified accroding to kind,205,Burundi,8.0
+98,Commodities not classified accroding to kind,206,Cameroon,292.0
+98,Commodities not classified accroding to kind,212,Comoros,1.0
+98,Commodities not classified accroding to kind,217,Ethiopia,3810.0
+98,Commodities not classified accroding to kind,218,Gabon,81.0
+98,Commodities not classified accroding to kind,221,Guinea,274.0
+98,Commodities not classified accroding to kind,223,Cote d'lvoire,757.0
+98,Commodities not classified accroding to kind,225,Liberia,45.0
+98,Commodities not classified accroding to kind,230,Mauritania,31.0
+98,Commodities not classified accroding to kind,231,Mauritius,1940.0
+98,Commodities not classified accroding to kind,234,Namibia,1229.0
+98,Commodities not classified accroding to kind,237,Réunion,327.0
+98,Commodities not classified accroding to kind,240,Senegal,847.0
+98,Commodities not classified accroding to kind,242,Sierra Leone,43.0
+98,Commodities not classified accroding to kind,243,Somalia,26.0
+98,Commodities not classified accroding to kind,249,Tunisia,3613.0
+98,Commodities not classified accroding to kind,259,Mayotte,3.0
+98,Commodities not classified accroding to kind,260,South Sudan,9.0
+98,Commodities not classified accroding to kind,303,United Kingdom,760581.0
+98,Commodities not classified accroding to kind,304,Germany,2123619.0
+98,Commodities not classified accroding to kind,324,Malta,2300.0
+98,Commodities not classified accroding to kind,337,Georgia,478.0
+98,Commodities not classified accroding to kind,338,Armenia,141.0
+98,Commodities not classified accroding to kind,344,Russia,11671806.0
+98,Commodities not classified accroding to kind,351,Croatia,2226.0
+98,Commodities not classified accroding to kind,358,Serbia,1874.0
+98,Commodities not classified accroding to kind,399,Other European Territories,478.0
+98,Commodities not classified accroding to kind,401,Antigua & Barbuda,138.0
+98,Commodities not classified accroding to kind,403,Aruba,14.0
+98,Commodities not classified accroding to kind,409,Bonaire,1.0
+98,Commodities not classified accroding to kind,417,Curacao,57.0
+98,Commodities not classified accroding to kind,420,French Guiana,46.0
+98,Commodities not classified accroding to kind,421,Grenada,16.0
+98,Commodities not classified accroding to kind,424,Guyana,96.0
+98,Commodities not classified accroding to kind,425,Haiti,276.0
+98,Commodities not classified accroding to kind,428,Martinique,419.0
+98,Commodities not classified accroding to kind,440,El Salvador,626.0
+98,Commodities not classified accroding to kind,441,Suriname,203.0
+98,Commodities not classified accroding to kind,502,United States,39804412.0
+98,Commodities not classified accroding to kind,601,Australia,359710.0
+98,Commodities not classified accroding to kind,607,New Caledonia,230.0
+98,Commodities not classified accroding to kind,618,Kiribati,23.0
+98,Commodities not classified accroding to kind,701,Countries（Territories）Unknown,39.0

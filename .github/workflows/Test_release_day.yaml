@@ -1,0 +1,69 @@
+name: 'Test_release_day'
+
+on:
+  workflow_dispatch:
+
+env:
+  repo_name: CECNdata/GA-sec
+  retry: 3
+  docker_image: ghcr.io/cecndata/ga-sec:latest
+  dl_path: firefox-dl/test_release_day.py
+
+jobs:
+  release_day:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+       include:
+         - path: mapping/CNP-Customs-total-import-RMB.csv
+           line: 1
+         - path: mapping/CNP-Customs-World-total-export-USD.csv
+           line: 0
+           
+    steps:
+      - name: Checkout codes
+        uses: actions/checkout@v3
+        with:
+          repository: '${{ env.repo_name  }}'
+          token: ${{ secrets.GH_PAT }} # `GH_PAT` is a secret that contains you PAT
+          ref: main
+
+      - name: Login to GitHub Container Registry
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GH_PAT }}
+      - name: Get Docker image digest
+        id: docker-digest
+        run: |
+          DIGEST=$(docker manifest inspect ${{ env.docker_image }} --verbose | jq -r '.Descriptor.digest')
+          echo "digest=$DIGEST" >> $GITHUB_OUTPUT
+      - uses: actions/cache@v3
+        id: docker-cache
+        with:
+          path: /tmp/ga-sec_latest.tar
+          key: ga-sec-latest-${{ steps.docker-digest.outputs.digest }}
+          restore-keys: |
+            ga-sec-latest-
+      - if: steps.docker-cache.outputs.cache-hit != 'true'
+        run: |
+            docker pull ${{ env.docker_image }}
+            docker save ${{ env.docker_image }} -o /tmp/ga-sec_latest.tar
+      - if: steps.docker-cache.outputs.cache-hit == 'true'
+        run: docker load -i /tmp/ga-sec_latest.tar
+      - name: Export all GitHub env to Docker env file
+        run: |
+          env > /tmp/github_env.list
+      - name: Run customs download in Docker
+        continue-on-error: true
+        run: |
+          docker run --rm \
+            --env-file /tmp/github_env.list \
+            -v ${{ github.workspace }}:/workspace \
+            -w /workspace/feed \
+            ${{ env.docker_image }} \
+            timeout 1800 xvfb-run python ${{ env.dl_path}} \
+            --path ${{ matrix.path }} \
+            --line "${{ matrix.line }}" \
+            --retry ${{ env.retry }}     
